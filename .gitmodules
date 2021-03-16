@@ -1,0 +1,3 @@
+[submodule "dok"]
+	path = dok
+	url = git@github.com:antoinestudio/dok.git
