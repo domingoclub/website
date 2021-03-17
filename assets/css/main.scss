@@ -1,0 +1,20 @@
+@import "dok/assets/css/main.scss";
+// personal
+@import "utils/fonts.scss";
+@import "utils/typography.scss";
+
+:root {
+  // Fonts
+  --font-body: "inter-regular", Helvetica, Arial, sans-serif;
+  --font-body-italic: "inter-italic", Helvetica, Arial, sans-serif;
+  --font-body-bold: "inter-bold", Helvetica, Arial, sans-serif;
+  --font-body-bold-italic: "inter-bolditalic", Helvetica, Arial, sans-serif;
+  --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+%font-base {
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.6;
+  word-spacing: -0.1em;
+}

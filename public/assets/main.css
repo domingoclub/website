@@ -449,3 +449,72 @@ body {
   body ::selection {
     background-color: var(--action-color);
     color: var(--base-color); }
+
+@font-face {
+  font-family: "inter-regular";
+  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-regular";
+  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-italic";
+  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-italic";
+  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-bold";
+  src: url("fonts/Inter-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-bold";
+  src: url("fonts/Inter-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-bolditalic";
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "inter-bolditalic";
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+.ts blockquote p, .ts em, .ts strong, .ts em strong,
+.ts strong em, .ts .todo, body {
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.4;
+  letter-spacing: 0.03em; }
+
+:root {
+  --font-body: "inter-regular", Helvetica, Arial, sans-serif;
+  --font-body-italic: "inter-italic", Helvetica, Arial, sans-serif;
+  --font-body-bold: "inter-bold", Helvetica, Arial, sans-serif;
+  --font-body-bold-italic: "inter-bolditalic", Helvetica, Arial, sans-serif;
+  --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+
+.ts blockquote p, .ts em, .ts strong, .ts em strong,
+.ts strong em, .ts .todo, body {
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1.6;
+  word-spacing: -0.1em; }
