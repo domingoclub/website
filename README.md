@@ -1,1 +1,1 @@
-# Documentation of the Domingo Club
+# Website of the Domingo Club
