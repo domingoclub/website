@@ -110,7 +110,7 @@ label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__
 
 body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
-label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
+label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
   font-family: var(--font-body); }
 
 .ts .todo, .ts em, .ts blockquote p {
@@ -132,7 +132,7 @@ a {
     text-decoration: underline;
     background-color: var(--action-color); }
   a.external:after {
-    content: " ↗"; }
+    content: "\00a0↗"; }
 
 .article__title, .intro p, .index__title {
   font-size: var(--size-xxl);
@@ -147,7 +147,7 @@ a {
 .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3 {
   font-size: var(--size-md); }
 
-.ts h4, .ts h5, .ts h6 {
+.index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
   font-size: var(--size-md); }
 
 .sender-form,
@@ -455,53 +455,79 @@ body {
 
 @font-face {
   font-family: "inter-regular";
-  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  src: url("fonts/Inter-Regular.woff2") format("woff2"), url("fonts/Inter-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-regular";
-  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  src: url("fonts/Inter-Regular.woff2") format("woff2"), url("fonts/Inter-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-italic";
-  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  src: url("fonts/Inter-Italic.woff2") format("woff2"), url("fonts/Inter-Italic.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-italic";
-  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  src: url("fonts/Inter-Italic.woff2") format("woff2"), url("fonts/Inter-Italic.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-bold";
-  src: url("fonts/Inter-Bold.woff2") format("woff2");
+  src: url("fonts/Inter-Bold.woff2") format("woff2"), url("fonts/Inter-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-bold";
-  src: url("fonts/Inter-Bold.woff2") format("woff2");
+  src: url("fonts/Inter-Bold.woff2") format("woff2"), url("fonts/Inter-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-bolditalic";
-  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2"), url("fonts/Inter-BoldItalic.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "inter-bolditalic";
-  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2"), url("fonts/Inter-BoldItalic.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
-.sender-form-title p, .sender-form,
+@font-face {
+  font-family: "savate-regular";
+  src: url("fonts/savate-regular-webfont.woff2") format("woff2"), url("fonts/savate-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: "savate-italic";
+  src: url("fonts/savate-italique-webfont.woff2") format("woff2"), url("fonts/savate-italique-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+a {
+  color: var(--base-color);
+  text-decoration: none;
+  background-color: var(--body-color);
+  border: var(--border-sm) solid var(--base-color);
+  padding: calc(var(--size-xxs)/2) var(--size-xxs);
+  border-radius: var(--size-xs); }
+  a:hover {
+    color: var(--base-color);
+    text-decoration: none;
+    background-color: var(--action-color); }
+  a.external:after {
+    content: "\00a0↗"; }
+
+.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title, .index__title, .intro p, .article__title, .index:not(.index--featured) .index__link, .sender-form,
 label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts strong em, .ts .todo, body {
   font-style: normal;
@@ -509,8 +535,27 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   line-height: 1.4;
   letter-spacing: 0.03em; }
 
+.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title, .index__title, .intro p, .article__title {
+  font-family: var(--font-var); }
+
+.index__title, .intro p, .article__title {
+  font-size: var(--size-xxl);
+  line-height: 1.2; }
+
+.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title {
+  font-size: var(--size-xl); }
+
+.index:not(.index--featured) .index__link {
+  font-family: var(--font-body) !important; }
+
+.index--list .index__item + .index__item {
+  margin-top: var(--size-xxs); }
+
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
+  .sender-subs-embeded-form form {
+    width: var(--content-max-width) !important;
+    max-width: 100% !important; }
 
 .sender-form-bottom-text,
 .sender-form-link {
@@ -526,10 +571,19 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   --font-body-italic: "inter-italic", Helvetica, Arial, sans-serif;
   --font-body-bold: "inter-bold", Helvetica, Arial, sans-serif;
   --font-body-bold-italic: "inter-bolditalic", Helvetica, Arial, sans-serif;
-  --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  --font-var: "savate-regular", Helvetica, Arial, sans-serif;
+  --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
+  --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --body-color: #f6f4f2;
+  --action-color: #ffec83; }
 
+html {
+  font-size: 17px; }
+  @media (max-width: 767px) {
+    html {
+      font-size: 15px; } }
 .ts blockquote p, .ts em, .ts strong, .ts em strong,
-.ts strong em, .ts .todo, body {
+.ts strong em, .ts .todo, body, .index__title, .intro p, .article__title, .ts h1, .index--featured .item__title, .toc__title {
   font-style: normal;
   font-weight: normal;
   line-height: 1.6;

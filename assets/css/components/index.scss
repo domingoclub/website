@@ -1,0 +1,10 @@
+.index:not(.index--featured) .index__link {
+  @extend %ts-title-4;
+  font-family: var(--font-body) !important;
+}
+
+.index--list .index__item {
+  & + .index__item {
+    margin-top: var(--size-xxs);
+  }
+}

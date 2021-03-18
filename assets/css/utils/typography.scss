@@ -1,6 +1,43 @@
+%ts-link {
+  color: var(--base-color);
+  text-decoration: none;
+  background-color: var(--body-color);
+  border: var(--border-sm) solid var(--base-color);
+  padding: calc(var(--size-xxs)/2) var(--size-xxs);
+  border-radius: var(--size-xs);
+  &:hover {
+    color: var(--base-color);
+    text-decoration: none;
+    background-color: var(--action-color);
+  }
+  &.external:after {
+    content: "\00a0↗";
+  }
+}
+
 %font-base {
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
   letter-spacing: 0.03em;
+}
+
+%font-var {
+  font-family: var(--font-var);
+  @extend %font-base;
+}
+
+%font-var-italic {
+  font-family: var(--font-var-italic);
+  @extend %font-base;
+}
+
+%ts-title-0 {
+  @extend %font-var;
+  font-size: var(--size-xxl);
+  line-height: 1.2;
+}
+%ts-title-1 {
+  @extend %font-var;
+  font-size: var(--size-xl);
 }

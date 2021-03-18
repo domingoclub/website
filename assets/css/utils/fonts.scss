@@ -1,51 +1,70 @@
 @font-face {
   font-family: "inter-regular";
-  src: url("fonts/Inter-Regular.woff2") format("woff2");
+  src: url("fonts/Inter-Regular.woff2") format("woff2"),
+  url('fonts/Inter-Regular.woff') format('woff'),;
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "inter-regular";
-  src: url("fonts/Inter-Regular.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "inter-italic";
-  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  src: url("fonts/Inter-Regular.woff2") format("woff2"),
+  url("fonts/Inter-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "inter-italic";
-  src: url("fonts/Inter-Italic.woff2") format("woff2");
+  src: url("fonts/Inter-Italic.woff2") format("woff2"),
+  url("fonts/Inter-Italic.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
-
+@font-face {
+  font-family: "inter-italic";
+  src: url("fonts/Inter-Italic.woff2") format("woff2"),
+  url("fonts/Inter-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
 @font-face {
   font-family: "inter-bold";
-  src: url("fonts/Inter-Bold.woff2") format("woff2");
+  src: url("fonts/Inter-Bold.woff2") format("woff2"),
+  url("fonts/Inter-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "inter-bold";
-  src: url("fonts/Inter-Bold.woff2") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "inter-bolditalic";
-  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  src: url("fonts/Inter-Bold.woff2") format("woff2"),
+  url("fonts/Inter-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "inter-bolditalic";
-  src: url("fonts/Inter-BoldItalic.woff2") format("woff2");
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2"),
+  url("fonts/Inter-BoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "inter-bolditalic";
+  src: url("fonts/Inter-BoldItalic.woff2") format("woff2"),
+  url("fonts/Inter-BoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "savate-regular";
+  src: url("fonts/savate-regular-webfont.woff2") format("woff2"),
+  url("fonts/savate-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "savate-italic";
+  src: url("fonts/savate-italique-webfont.woff2") format("woff2"),
+  url("fonts/savate-italique-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }

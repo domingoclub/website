@@ -1,5 +1,9 @@
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important;
+  form {
+    width: var(--content-max-width) !important;
+    max-width: 100% !important;
+  }
 }
 
 .sender-form-bottom-text,

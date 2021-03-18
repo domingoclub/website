@@ -23,4 +23,4 @@ Join the Domingo Club newsletter to receive our future updates. Don't worry, we 
 
 <div class="sender-form-field" data-sender-form-id="kmf543xgaqn7qbtckzw"></div>
 
-We respect your privacy and will never share your email address with third parties.
+We respect your privacy and will never share your email address with third parties. Never ever.

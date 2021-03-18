@@ -2,6 +2,7 @@
 // personal
 @import "utils/fonts.scss";
 @import "utils/typography.scss";
+@import "components/index.scss";
 @import "components/newsletter.scss";
 
 :root {
@@ -10,7 +11,18 @@
   --font-body-italic: "inter-italic", Helvetica, Arial, sans-serif;
   --font-body-bold: "inter-bold", Helvetica, Arial, sans-serif;
   --font-body-bold-italic: "inter-bolditalic", Helvetica, Arial, sans-serif;
+  --font-var: "savate-regular", Helvetica, Arial, sans-serif;
+  --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --body-color: #f6f4f2;
+  --action-color: #ffec83;
+}
+
+html {
+  font-size: 17px;
+  @include media("<sm") {
+    font-size: 15px;
+  }
 }
 
 %font-base {
