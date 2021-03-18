@@ -101,20 +101,22 @@ textarea {
   padding-right: var(--size-xl); }
 
 .ts em strong,
-.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
-.index--list .index__update, .ts blockquote blockquote p, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
+.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
+.index--list .index__update, .ts blockquote blockquote p, .sender-form,
+label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
   font-style: normal;
   font-weight: normal;
   line-height: 1.6; }
 
 body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
-.index--list .index__update, .ts blockquote blockquote p, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
+.index--list .index__update, .ts blockquote blockquote p, .sender-form,
+label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
   font-family: var(--font-body); }
 
 .ts .todo, .ts em, .ts blockquote p {
   font-family: var(--font-body-italic); }
 
-.ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
+.ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
   font-family: var(--font-body-bold); }
 
 .ts em strong,
@@ -136,7 +138,7 @@ a {
   font-size: var(--size-xxl);
   line-height: 1.2; }
 
-.toc__title, .index--featured .item__title, .ts h1 {
+.sender-form-title p, .toc__title, .index--featured .item__title, .ts h1 {
   font-size: var(--size-xl); }
 
 .index:not(.index--featured) .index__link, .ts h2 {
@@ -148,7 +150,8 @@ a {
 .ts h4, .ts h5, .ts h6 {
   font-size: var(--size-md); }
 
-.index:not(.index--featured) .index__item--sub .index__link {
+.sender-form,
+label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link {
   font-size: var(--size-md); }
 
 .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
@@ -498,12 +501,25 @@ body {
   font-weight: normal;
   font-style: normal; }
 
-.ts blockquote p, .ts em, .ts strong, .ts em strong,
+.sender-form-title p, .sender-form,
+label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts strong em, .ts .todo, body {
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
   letter-spacing: 0.03em; }
+
+.sender-subs-embeded-form {
+  margin: var(--size-xl) 0 !important; }
+
+.sender-form-bottom-text,
+.sender-form-link {
+  display: none !important; }
+
+.sender-form-box {
+  border: var(--border-sm) var(--base-color) solid !important;
+  border-radius: var(--size-md) !important;
+  padding: var(--size-xl) !important; }
 
 :root {
   --font-body: "inter-regular", Helvetica, Arial, sans-serif;

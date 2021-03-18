@@ -1,0 +1,23 @@
+.sender-subs-embeded-form {
+  margin: var(--size-xl) 0 !important;
+}
+
+.sender-form-bottom-text,
+.sender-form-link {
+  display: none !important;
+}
+
+.sender-form-box {
+  border: var(--border-sm) var(--base-color) solid !important;
+  border-radius: var(--size-md) !important;
+  padding: var(--size-xl) !important;
+}
+
+.sender-form-title p {
+  @extend %ts-title-1;
+}
+
+.sender-form,
+label.sender-form-label {
+  @extend %ts-body;
+}
