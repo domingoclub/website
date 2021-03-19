@@ -100,7 +100,7 @@ textarea {
   padding-left: var(--size-xl);
   padding-right: var(--size-xl); }
 
-.ts em strong,
+.ts code, .ts em strong,
 .ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
 label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
@@ -110,7 +110,7 @@ label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__
 
 body, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
-label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
+label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__item--sub .index__link, .index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
   font-family: var(--font-body); }
 
 .ts .todo, .ts em, .ts blockquote p {
@@ -132,7 +132,7 @@ a {
     text-decoration: underline;
     background-color: var(--action-color); }
   a.external:after {
-    content: "\00a0↗"; }
+    content: " ↗"; }
 
 .article__title, .intro p, .index__title {
   font-size: var(--size-xxl);
@@ -151,7 +151,7 @@ a {
   font-size: var(--size-md); }
 
 .sender-form,
-label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link {
+label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__item--sub .index__link {
   font-size: var(--size-md); }
 
 .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
@@ -161,7 +161,7 @@ label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__
 .ts h1, .ts h2, .ts h3, .ts h4, .ts h5, .ts h6 {
   margin: 1em 0 0.5em 0; }
 
-.ts p, .ts ul, .ts ol, .ts .table, .ts .admonition {
+.ts p, .ts ul, .ts ol, .ts .table, .ts .admonition, .ts pre {
   margin-bottom: 1em; }
 
 .ts figure.md, .ts figure.lg, .ts video, .ts .embed-container {
@@ -312,8 +312,7 @@ img {
   margin-right: var(--size-sm); }
 
 .intro {
-  margin-bottom: var(--size-xl);
-  max-width: calc(var(--content-max-width) * 2); }
+  margin-bottom: var(--size-xl); }
   .intro small {
     display: block;
     margin-top: var(--size-sm); }
@@ -527,7 +526,21 @@ a {
   a.external:after {
     content: "\00a0↗"; }
 
-.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title, .index__title, .intro p, .article__title, .index:not(.index--featured) .index__link, .sender-form,
+.ts code, .index__title, .intro p, .article__title,
+.sender-form-title p,
+.ts h1,
+.index--featured .item__title,
+.toc__title,
+.ts h2,
+.index:not(.index--featured) .index__link,
+.ts h3,
+.ts table th,
+.article .index__title,
+.toc__title--sub,
+.admonition .admonition-title,
+.ts h4,
+.ts h5,
+.ts h6, .sender-form,
 label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts strong em, .ts .todo, body {
   font-style: normal;
@@ -535,21 +548,46 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   line-height: 1.4;
   letter-spacing: 0.03em; }
 
-.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title, .index__title, .intro p, .article__title {
+.index__title, .intro p, .article__title,
+.sender-form-title p,
+.ts h1,
+.index--featured .item__title,
+.toc__title,
+.ts h2,
+.index:not(.index--featured) .index__link,
+.ts h3,
+.ts table th,
+.article .index__title,
+.toc__title--sub,
+.admonition .admonition-title,
+.ts h4,
+.ts h5,
+.ts h6 {
   font-family: var(--font-var); }
 
-.index__title, .intro p, .article__title {
-  font-size: var(--size-xxl);
-  line-height: 1.2; }
+.ts code {
+  font-family: var(--font-monospace); }
 
-.sender-form-title p, .ts h1, .index--featured .item__title, .toc__title {
-  font-size: var(--size-xl); }
+.ts p code {
+  border-radius: var(--size-xxs);
+  font-size: 95%; }
 
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
 
 .index--list .index__item + .index__item {
   margin-top: var(--size-xxs); }
+
+.article--sub .article__title a {
+  border: none; }
+  .article--sub .article__title a:hover {
+    background-color: var(--body-color); }
+
+.toc__title--sub {
+  font-family: var(--font-body); }
+
+.article--sub {
+  border-top-style: dashed; }
 
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
@@ -566,6 +604,14 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   border-radius: var(--size-md) !important;
   padding: var(--size-xl) !important; }
 
+footer a {
+  padding: 0;
+  border: none;
+  text-decoration: underline; }
+
+#news.article > .article__toc, #news.article > footer {
+  display: none; }
+
 :root {
   --font-body: "inter-regular", Helvetica, Arial, sans-serif;
   --font-body-italic: "inter-italic", Helvetica, Arial, sans-serif;
@@ -575,7 +621,7 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --body-color: #f6f4f2;
-  --action-color: #ffec83; }
+  --action-color: #ffd906; }
 
 html {
   font-size: 17px; }
@@ -583,7 +629,20 @@ html {
     html {
       font-size: 15px; } }
 .ts blockquote p, .ts em, .ts strong, .ts em strong,
-.ts strong em, .ts .todo, body, .index__title, .intro p, .article__title, .ts h1, .index--featured .item__title, .toc__title {
+.ts strong em, .ts .todo, body, .index__title, .intro p, .article__title,
+.ts h1,
+.index--featured .item__title,
+.toc__title,
+.ts h2,
+.index:not(.index--featured) .index__link,
+.ts h3,
+.ts table th,
+.article .index__title,
+.toc__title--sub,
+.admonition .admonition-title,
+.ts h4,
+.ts h5,
+.ts h6, .ts code {
   font-style: normal;
   font-weight: normal;
   line-height: 1.6;

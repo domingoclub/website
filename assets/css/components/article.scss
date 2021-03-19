@@ -1,0 +1,15 @@
+.article--sub .article__title a {
+  border: none;
+  &:hover {
+    background-color: var(--body-color);
+  }
+}
+
+.toc__title--sub {
+  @extend %ts-body;
+  font-family: var(--font-body);
+}
+
+.article--sub {
+  border-top-style: dashed;
+}

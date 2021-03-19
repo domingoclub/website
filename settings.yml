@@ -1,7 +1,8 @@
 title: Domingo Club
 description: documentation system
-introduction: "Dok, a low-tech tool that allows you to document (almost) everything"
+introduction: "Domingo Club ... check our [[news]] and our [[about]] page"
+footer: "Domingo Club ☼ 2021 — ✿ [[about]], ⁂ [[content]], ✉ [[newsletter]], ☺ [Instagram](https://www.instagram.com/domingoclub/)."
 navigation:
   "☼☼☼": "index"
-  "Content": "content"
+  "News": "news"
   "About": "about"

@@ -32,12 +32,25 @@
   @extend %font-base;
 }
 
-%ts-title-0 {
-  @extend %font-var;
-  font-size: var(--size-xxl);
-  line-height: 1.2;
+%font-monospace {
+  font-family: var(--font-monospace);
+  @extend %font-base;
 }
-%ts-title-1 {
+
+%ts-title-0,
+%ts-title-1,
+%ts-title-2,
+%ts-title-3,
+%ts-title-4 {
   @extend %font-var;
-  font-size: var(--size-xl);
+}
+
+.ts {
+  code {
+    @extend %font-monospace;
+  }
+  p code {
+    border-radius: var(--size-xxs);
+    font-size: 95%;
+  }
 }
