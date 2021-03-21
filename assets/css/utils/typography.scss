@@ -54,4 +54,10 @@
     border-radius: var(--size-xxs);
     font-size: 95%;
   }
+  blockquote {
+    border-left: calc(var(--border-sm)*3) solid var(--base-color);
+    p {
+      @extend %ts-title-3;
+    }
+  }
 }

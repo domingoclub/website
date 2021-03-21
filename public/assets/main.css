@@ -574,6 +574,9 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
   border-radius: var(--size-xxs);
   font-size: 95%; }
 
+.ts blockquote {
+  border-left: calc(var(--border-sm)*3) solid var(--base-color); }
+
 .intro {
   width: 820px;
   max-width: 100%; }
@@ -594,9 +597,6 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 
 .article--sub {
   border-top-style: dashed; }
-
-.ts blockquote {
-  border-left: calc(var(--border-sm)*3) solid var(--base-color); }
 
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
