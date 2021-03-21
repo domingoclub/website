@@ -6,7 +6,7 @@ title: About
 
 Domingo Club is a collective initiated by Maud Bausier and Antoine Jaunard, a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.
 
-We make fermented foods, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
+We make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
 
 > Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
 
@@ -34,7 +34,7 @@ With the support of Fab Lab Barcelona and its European program Food Tech 3.0, we
 In the meantime, we already use our first incubator prototype to make delicious tempeh that is now part of our daily diet.
 
 !!! notes "What is tempeh?"
-    Tempeh is an Indonesian fermented food product originally made out of soy beans, the taste evokes aromas of mushroom, nut and yeast. ¡Qué rico!
+    Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
 
 ![Our tempeh after ~30 hours of incubation](tempeh-1.jpg)
 
