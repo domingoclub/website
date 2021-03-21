@@ -116,7 +116,7 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
 .ts .todo, .ts em, .ts blockquote p {
   font-family: var(--font-body-italic); }
 
-.ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
+.ts strong, .ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
   font-family: var(--font-body-bold); }
 
 .ts em strong,
@@ -144,7 +144,7 @@ a {
 .index:not(.index--featured) .index__link, .ts h2 {
   font-size: var(--size-lg); }
 
-.admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3 {
+.ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3 {
   font-size: var(--size-md); }
 
 .index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
@@ -555,6 +555,7 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .toc__title,
 .ts h2,
 .index:not(.index--featured) .index__link,
+.ts blockquote p,
 .ts h3,
 .ts table th,
 .article .index__title,
@@ -563,7 +564,8 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts h4,
 .ts h5,
 .ts h6 {
-  font-family: var(--font-var); }
+  font-family: var(--font-var);
+  line-height: 1.2 !important; }
 
 .ts code {
   font-family: var(--font-monospace); }
@@ -571,6 +573,10 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts p code {
   border-radius: var(--size-xxs);
   font-size: 95%; }
+
+.intro {
+  width: 820px;
+  max-width: 100%; }
 
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
@@ -588,6 +594,9 @@ label.sender-form-label, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 
 .article--sub {
   border-top-style: dashed; }
+
+.ts blockquote {
+  border-left: calc(var(--border-sm)*3) solid var(--base-color); }
 
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
@@ -621,7 +630,8 @@ footer a {
   --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --body-color: #f6f4f2;
-  --action-color: #ffd906; }
+  --action-color: #ffd906;
+  --content-max-width: 570px; }
 
 html {
   font-size: 17px; }

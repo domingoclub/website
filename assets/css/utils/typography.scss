@@ -25,6 +25,7 @@
 %font-var {
   font-family: var(--font-var);
   @extend %font-base;
+  line-height: 1.2 !important;
 }
 
 %font-var-italic {
