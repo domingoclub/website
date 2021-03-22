@@ -1,18 +1,16 @@
 ---
-title: About
+title: About the Domingo Club
 ---
 
-## What
-
-Domingo Club is a collective initiated by Maud Bausier and Antoine Jaunard, a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.
+Domingo Club is a collective initiated by [Maud Bausier](https://maudbausier.com/) and [Antoine Jaunard](https://antoine.studio/), a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.
 
 We make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
 
-> Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
+Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
 
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
-## Why
+## Philosophy
 
 Fermented food provides delicious, protein-packed meals from natural ingredients that require little effort for maximum benefit. Power food is at our fingertips.
 
@@ -20,7 +18,7 @@ We advocate open source tools (hardware and software) to allow others to underst
 
 We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.
 
-## How 
+## Focus
 
 With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.
 
@@ -38,6 +36,10 @@ In the meantime, we already use our first incubator prototype to make delicious 
 
 ![Our tempeh after ~30 hours of incubation](tempeh-1.jpg)
 
+## Contact
+
 Email us at [hola@domingoclub.com](mailto:hola@domingoclub.com) if you would like to discuss any of these topics with us. We speak English, Spanish and French.
+
+To be notified of our future news, you can subscribe to our [[newsletter]] and follow us on [Instagram](https://instagram.com/domingoclub).
 
 

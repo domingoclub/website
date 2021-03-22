@@ -18,8 +18,9 @@
 %font-base {
   font-style: normal;
   font-weight: normal;
+  letter-spacing: 0.02em;
   line-height: 1.4;
-  letter-spacing: 0.03em;
+  word-spacing: 0;
 }
 
 %font-var {
@@ -31,6 +32,7 @@
 %font-var-italic {
   font-family: var(--font-var-italic);
   @extend %font-base;
+  line-height: 1.2 !important;
 }
 
 %font-monospace {
@@ -55,7 +57,7 @@
     font-size: 95%;
   }
   blockquote {
-    border-left: calc(var(--border-sm)*3) solid var(--base-color);
+    border-left: calc(var(--border-sm)*3) dotted var(--base-color);
     p {
       @extend %ts-title-3;
     }
