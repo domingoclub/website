@@ -1,8 +1,8 @@
 title: "Domingo Club"
 description: "Fermented foods & open-source tools"
 introduction: "We make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system."
-footer: "Domingo Club ☼&nbsp;2021 — ✿&nbsp;[[about]], ⁂&nbsp;[[content]], ✉&nbsp;[[newsletter]], ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/)."
+footer: "Domingo Club ☼&nbsp;2021 — ✿&nbsp;[About](about-en.html), ⁂&nbsp;[Content](content.html), ✉&nbsp;[[newsletter]], ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/)."
 navigation:
   "☼☼☼": "index"
-  "About": "about"
+  "About": "about-en"
   "Newsletter": "newsletter"

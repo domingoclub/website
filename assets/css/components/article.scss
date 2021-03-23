@@ -13,3 +13,12 @@
 .article--sub {
   border-top-style: dashed;
 }
+
+.article__parent {
+  @extend %ts-small;
+  @extend %ts-link-alt;
+}
+.article__backlinks {
+  @extend %ts-small;
+  @extend %ts-link-alt;
+}

@@ -1,4 +1,26 @@
 .intro {
   width: 820px;
   max-width: 100%;
+  p {
+    margin-bottom: .5em;
+    & + p {
+      margin-top: 0;
+    }
+  }
+  .traduction {
+    margin-top: var(--size-xxl);
+    p {
+      @extend %font-var-italic;
+    }
+    p, a {
+      color:var(--translation-color);
+    }
+    a {
+      border-color: var(--translation-color);
+      &:hover {
+        color: var(--base-color);
+        border-color: var(--base-color);
+      }
+    }
+  }
 }
