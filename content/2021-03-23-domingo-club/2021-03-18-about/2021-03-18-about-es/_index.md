@@ -6,7 +6,7 @@ Domingo Club es un colectivo iniciado por [Maud Bausier](https://maudbausier.com
 
 Elaboramos alimentos fermentados, herramientas de código abierto y exploramos la colaboración con los procesos naturales para promover la comprensión, la transparencia, la resiliencia y la equidad en nuestro sistema alimentario global.
 
-Los grandes cambios surgen de los hábitos cotidianos, únete a nosotros en el club y hagamos que nuestro domingo sea más impactante.
+Los grandes cambios surgen de los hábitos cotidianos, únete a nosotrxs en el club y hagamos que nuestro domingo sea más impactante.
 
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
@@ -14,7 +14,7 @@ Los grandes cambios surgen de los hábitos cotidianos, únete a nosotros en el c
 
 Los alimentos fermentados proporcionan comidas deliciosas y llenas de proteínas a partir de ingredientes naturales que requieren poco esfuerzo para obtener el máximo beneficio. La comida de poder está al alcance de nuestra mano.
 
-Defendemos las herramientas de código abierto (hardware y software) para que otrxs puedan entender, modificar y reparar las herramientas que producimos. Juntos desarrollaremos una actitud proactiva y hacktivista.
+Defendemos las herramientas de código abierto (hardware y software) para que otrxs puedan entender, modificar y reparar las herramientas que producimos. Juntxs desarrollaremos una actitud proactiva y hacktivista.
 
 Creemos que asociarnos con sistemas vivos nos impulsa a alejarnos de los procesos de fabricación rápidos y globales, ayudándonos a ser más conscientes de nuestro entorno natural y sus recursos. Avancemos hacia una bio-economía circular para un futuro próspero.
 
@@ -29,9 +29,9 @@ Con el deseo de promover los alimentos fermentados y el reciclaje de residuos al
 
 Con el apoyo del [Fab Lab Barcelona](https://fablabbcn.org/) y su programa europeo [Food Shift 2030](https://foodshift2030.eu/) (Food Tech 3.0), utilizamos técnicas de fabricación digital para prototipar y producir nuestro dispositivo. Permitiendo que se (re)produzca en cualquier Fab Lab / espacio maker del mundo según los principios de la fabricación de código abierto y descentralizada.
 
-![Un molde de tempeh que hemos diseñado e imprimido en 3D](tempeh-0.jpg)
+![Un molde de tempeh que diseñamos e imprimimos en 3D](tempeh-0.jpg)
 
-Mientras tanto, ya utilizamos nuestro primer prototipo de incubadora para hacer un delicioso tempeh que ya forma parte de nuestra dieta diaria.
+Mientras tanto, ya utilizamos nuestro primer prototipo de incubadora para hacer deliciosos tempeh que ya forman parte de nuestra dieta diaria.
 
 !!! notes "¿Qué es tempeh?"
     El tempeh es un producto indonesio fermentado, elaborado originalmente a partir de habas de soja, su sabor evoca aromas de seta, nuez y levadura. ¡Qué rico!
@@ -42,7 +42,7 @@ Mientras tanto, ya utilizamos nuestro primer prototipo de incubadora para hacer 
 
 Envíanos un correo electrónico a [hola@domingoclub.com](mailto:hola@domingoclub.com) si quieres tratar alguno de estos temas con nosotrxs. Hablamos inglés, español y francés.
 
-Para estar al tanto de nuestras futuras noticias, puedes suscribirse a nuestra [[newsletter]] y seguirnos en [Instagram](https://instagram.com/domingoclub).
+Para estar al tanto de nuestras futuras noticias, puedes suscribirte a nuestra [[newsletter]] y seguirnos en [Instagram](https://instagram.com/domingoclub).
 
 
 

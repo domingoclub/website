@@ -22,7 +22,7 @@ We believe that partnering with living systems encourages us to move away from r
 
 With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.
 
-!!! notes "What is an incubator"
+!!! notes "What is an incubator?"
     An incubator is a device that maintains the necessary parameters, such as temperature and humidity, for an environment suitable for the growth of mycelium (the vegetative part of fungi) and microorganisms of all kinds.
 
 ![](incubator-v-0-2-collage.png)
