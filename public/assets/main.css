@@ -655,7 +655,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .index--list .index__item + .index__item {
   margin-top: var(--size-xxs); }
 
-.article {
+.article:not(.index) {
   margin: var(--size-xl) auto; }
 
 .article--sub .article__title a {

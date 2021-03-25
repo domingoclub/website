@@ -1,4 +1,4 @@
-.article {
+.article:not(.index) {
   margin: var(--size-xl) auto;
 }
 .article--sub .article__title a {
