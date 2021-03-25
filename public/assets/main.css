@@ -656,7 +656,9 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   margin-top: var(--size-xxs); }
 
 .article:not(.index) {
-  margin: var(--size-xl) auto; }
+  margin: var(--size-xl) auto;
+  width: 100%;
+  max-width: var(--content-max-width); }
 
 .article--sub .article__title a {
   border: none; }

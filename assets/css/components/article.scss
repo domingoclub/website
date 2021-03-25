@@ -1,5 +1,7 @@
 .article:not(.index) {
   margin: var(--size-xl) auto;
+  width: 100%;
+  max-width: var(--content-max-width);
 }
 .article--sub .article__title a {
   border: none;

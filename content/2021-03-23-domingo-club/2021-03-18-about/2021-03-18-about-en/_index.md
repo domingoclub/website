@@ -33,11 +33,8 @@ With the support of [Fab Lab Barcelona](https://fablabbcn.org/) and its European
 
 In the meantime, we already use our first incubator prototype to make delicious tempeh that is now part of our daily diet.
 
-
-
 !!! notes "What is tempeh?"
     Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
-
 
 ![Our tempeh after ~30 hours of incubation](tempeh-1.jpg)
 
