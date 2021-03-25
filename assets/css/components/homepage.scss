@@ -43,8 +43,8 @@
   background-repeat: no-repeat;
   background-position: right top;
   background-attachment: fixed;
+  background-size: auto 110%;
   @include media('<md') {
-    background-size: auto 90%;
-    background-position: 70%;
+    background-position: 50%;
   }
 }

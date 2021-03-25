@@ -644,11 +644,11 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   background-size: auto 110%;
   background-repeat: no-repeat;
   background-position: right top;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  background-size: auto 110%; }
   @media (max-width: 1023px) {
     .page--homepage .main {
-      background-size: auto 90%;
-      background-position: 70%; } }
+      background-position: 50%; } }
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
 
