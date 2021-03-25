@@ -647,8 +647,8 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   background-attachment: fixed; }
   @media (max-width: 1023px) {
     .page--homepage .main {
-      background-size: auto 100%;
-      background-position: top center; } }
+      background-size: auto 90%;
+      background-position: 70%; } }
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
 
