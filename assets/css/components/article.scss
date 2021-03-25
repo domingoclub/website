@@ -1,3 +1,6 @@
+.article {
+  margin: var(--size-xl) auto;
+}
 .article--sub .article__title a {
   border: none;
   &:hover {
@@ -21,4 +24,13 @@
 .article__backlinks {
   @extend %ts-small;
   @extend %ts-link-alt;
+}
+
+.article figure img {
+  width: calc(100% + var(--size-xl)*4);
+  margin-left: calc(-1 * var(--size-xl)*2);
+  @include media('<sm') {
+    width: calc(100% + var(--size-xl)*2);
+    margin-left: calc(-1 * var(--size-xl));
+  }
 }

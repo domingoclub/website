@@ -6,14 +6,26 @@
     & + p {
       margin-top: 0;
     }
+    span {
+      background-color: var(--body-color);
+      line-height: 1.35;
+    }
+  }
+  .button {
+    display: inline-block;
+    padding: 0.2em 0.6em 0.4em 0.2em; 
   }
   .traduction {
     margin-top: var(--size-xxl);
+    @include media('>sm') {
+      width: 64%;
+    }
     p {
       @extend %font-var-italic;
     }
     p, a {
       color:var(--translation-color);
+      @extend %ts-title-2;
     }
     a {
       border-color: var(--translation-color);
@@ -22,5 +34,17 @@
         border-color: var(--base-color);
       }
     }
+  }
+}
+
+.page--homepage .main {
+  background-image: url('images/drawing-house.png');
+  background-size: auto 110%;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  @include media('<md') {
+    background-size: auto 100%;
+    background-position: top center;
   }
 }
