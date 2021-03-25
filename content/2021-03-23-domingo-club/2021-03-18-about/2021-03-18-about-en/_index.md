@@ -25,18 +25,23 @@ With the desire to encourage fermented food and food waste recycling, we design 
 !!! notes "What is an incubator"
     An incubator is a device that maintains the necessary parameters, such as temperature and humidity, for an environment suitable for the growth of mycelium (the vegetative part of fungi) and microorganisms of all kinds.
 
+![](incubator-v-0-2-collage.png)
+
 With the support of [Fab Lab Barcelona](https://fablabbcn.org/) and its European program [Food Shift 2030](https://foodshift2030.eu/) (Food Tech 3.0), we use digital fabrication techniques to prototype and produce our device. Allowing it to be (re)produced in any Fab Lab / maker space around the world according to the principles of open-source and decentralized fabrication.
 
 ![A tempeh mold that we designed and 3D printed](tempeh-0.jpg)
 
 In the meantime, we already use our first incubator prototype to make delicious tempeh that is now part of our daily diet.
 
+
+
 !!! notes "What is tempeh?"
     Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
 
+
 ![Our tempeh after ~30 hours of incubation](tempeh-1.jpg)
 
-## Contact
+# Contact
 
 Email us at [hola@domingoclub.com](mailto:hola@domingoclub.com) if you would like to discuss any of these topics with us. We speak English, Spanish and French.
 
