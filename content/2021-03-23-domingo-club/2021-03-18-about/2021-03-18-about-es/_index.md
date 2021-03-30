@@ -2,7 +2,7 @@
 title: Sobre el Domingo Club
 ---
 
-Domingo Club es un colectivo iniciado por [Maud Bausier](https://maudbausier.com/) y [Antoine Jaunard](https://antoine.studio/), un dúo de diseñadores belgas con fuerzas complementarias, recién instaladxs en Barcelona, España.
+Domingo Club es una iniciativa de [Maud Bausier](https://maudbausier.com/) y [Antoine Jaunard](https://antoine.studio/), un dúo de diseñadores belgas con fuerzas complementarias, recién instaladxs en Barcelona, España.
 
 Elaboramos alimentos fermentados, herramientas de código abierto y exploramos la colaboración con los procesos naturales para promover la comprensión, la transparencia, la resiliencia y la equidad en nuestro sistema alimentario global.
 
