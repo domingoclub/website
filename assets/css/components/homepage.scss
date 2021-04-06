@@ -9,6 +9,9 @@
     span {
       background-color: var(--body-color);
       line-height: 1.35;
+      a {
+        position: relative;
+      }
     }
   }
   .button {

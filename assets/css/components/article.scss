@@ -36,3 +36,10 @@
     margin-left: calc(-1 * var(--size-xl));
   }
 }
+
+.article.index {
+  footer,
+  .article__backlinks {
+    display: none;
+  }
+}

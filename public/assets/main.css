@@ -623,6 +623,8 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
     .intro p span {
       background-color: var(--body-color);
       line-height: 1.35; }
+      .intro p span a {
+        position: relative; }
   .intro .button {
     display: inline-block;
     padding: 0.2em 0.6em 0.4em 0.2em; }
@@ -678,6 +680,10 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
     .article figure img {
       width: calc(100% + var(--size-xl)*2);
       margin-left: calc(-1 * var(--size-xl)); } }
+.article.index footer,
+.article.index .article__backlinks {
+  display: none; }
+
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
   .sender-subs-embeded-form form {
