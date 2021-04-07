@@ -6,7 +6,9 @@ title: Sourdough starter
 
 The sourdough "starter" is a mixture of flour and water that naturally collects yeast and bacteria. It is part of the bread making process called "pre-ferment".
 
-Making your own sourdough is very easy, the only ingredients you need are water, flour and a few days. Once you have it, making bread, banana bread and pancakes of all kinds will be absolutely delicious for your body and mind.
+Making your own sourdough is very easy, the only ingredients you need are water, flour and a few days. The microorganisms will do the work for you.
+
+Once you have it, making bread, banana bread and pancakes of all kinds will be absolutely delicious for your body and mind.
 
 
 !!! notes "What kind of flour?"
@@ -41,13 +43,12 @@ Repeat the operation the following days.
 
 
 !!! notes "The set aside part"
-    We use the set aside part can be used to make delicious pancakes. Though if the sourdough taste is too strong, mix it with a little flour and water.
+    We use the set aside part to make delicious pancakes. Though if the sourdough taste is too strong, mix it with a little flour and water.
 
 ## How to keep it alive?
 
-The starter, to stay alive and active, needs to be fed. The best way to feed it is to use it. If we take a part of the leaven, we add the same weight as the part taken. Let's say that if we took 200 g to make a sourdough bread, we will add 100 g of water and 100 g of flour to our sourdough to keep it happy.
+The starter, to stay alive and active, needs to be fed. The best way to feed it is to use it. If we take a part of the sourdough, we add the same weight as the part taken. Let's say that if we took 200 g to make a sourdough bread, we will add 100 g of water and 100 g of flour to our sourdough to keep it happy.
 
 By being stored in a cool environment (a fridge), the fermentation process slows down and the sourdough can live for ~10 days without being fed.
 
-
-To keep it alive without using it, simply remove a small amount from the jar and replace it with fresh water and flour.
+To keep it alive without using it, just remove a small amount from the jar and replace it with fresh water and flour. But it's better to use it, isn't it?

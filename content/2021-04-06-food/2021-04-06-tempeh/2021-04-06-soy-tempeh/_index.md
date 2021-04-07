@@ -14,6 +14,8 @@ title: Soy tempeh
 - 250 g soybeans
 - ​1⁄4 tablespoon of tempeh starter (rhizopus)
 - 1 tablespoon of vinegar
+  
+![Organic soybeans, rhizopus & rice vinegar](process-01.jpg)
 
 ### Material
 
@@ -31,24 +33,39 @@ The following process takes about 30 hours.
 - Remove the hulls from the water (by pouring the water from the basin, the hulls will come out first)
 - Repeat until there are almost no hulls left
 
+![Cooking facilitates and accelerates the removal of the hulls](process-02.jpg)
+![A little massage does the trick](process-03.jpg)
+![Much easier than expected, isn't it?](process-04.jpg)
+
 !!! notes "Why remove the hulls?"
     The hulls of the soybeans prevent a good growth of the fungi and lead to bad tempeh.
 
 ### Cook the soybeans
 
 - In a pot of boiling water: add a tablespoon of vinegar and cook the soybeans for 25 minutes
-- Rinse briefly with water
+- Drain the soybeans in a colander and rinse briefly with water
 
-### Innoculate the rizopus
+![A tablespoon of vinegar helps keep bad bacteria away](process-05.jpg)
 
-- Let the soybeans cool to room temperature and dry them very well (we use kitchen towels, but some use fans)
+### Innoculate the rhizopus
+
+- Dry the soybeans very well (we use kitchen towels, but some use fans) and let them cool to room temperature
 - Add 1⁄4 tablespoon of tempeh starter (rhizopus) and mix well
+
+![Drying the soybeans well allows the rhizopus to grow quickly](process-06.jpg)
+![1⁄4 tablespoon of tempeh starter (rhizopus)](process-07.jpg)
+![Can you see the spores?](process-08.jpg)
   
 ### Shape the tempeh
 
 - Put the enhanced soybeans in plastic wrap, a zipper lock freezer bag or a mold
-- Make sure that the soybeans are well compacted and that there is not too much space between them
+- Make sure that the soybeans are well compacted (that there is not too much space between them)
 - Using a needle or a toothpick, make small holes on all sides to allow the rhizopus to breathe
+
+
+![](process-09.jpg)
+![The tempeh are ready to go into the incubator](process-11.jpg)
+
 
 ### Let it incubate
 
@@ -65,4 +82,3 @@ Take the tempeh out of the incubator when the rhizopus has grown all around the 
 ### Storage
 
 Fresh tempeh can be stored in the refrigerator for up to one week. Freezing is also an option to keep it longer but it is so good that we usually eat it in a few days, no need for preservation techniques in the club.
-
