@@ -79,6 +79,8 @@ The following process takes about 30 hours.
 
 Take the tempeh out of the incubator when the rhizopus has grown all around the soybean, turning it into a compact white block. Yaaay, fresh tempeh!
 
+<div class='embed-container'><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rfHd1FFaiaQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ### Storage
 
 Fresh tempeh can be stored in the refrigerator for up to one week. Freezing is also an option to keep it longer but it is so good that we usually eat it in a few days, no need for preservation techniques in the club.

@@ -1,5 +1,6 @@
 ---
 title: Sourdough starter
+featured_image: 02.jpg
 ---
 
 ## What is it?
@@ -33,13 +34,15 @@ Keep it at room temperature for approximately 24 hours.
 
 Add 100 g water and 100 g flour, mix well.
 
-Life is slowly settling in.
+![Life is slowly settling in.](01.jpg)
 
 ### Day 3+
 
 When the starter starts to become active, keep ~100 g of the activated mixture and set the rest (~200 g) aside. Add 100 g of water and 100 g of flour. Mix well.
 
 Repeat the operation the following days.
+
+
 
 
 !!! notes "The set aside part"
