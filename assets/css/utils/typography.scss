@@ -32,9 +32,10 @@
 }
 
 %font-var {
-  font-family: var(--font-var);
   @extend %font-base;
+  font-family: var(--font-var);
   line-height: 1.2 !important;
+  word-spacing: 0 !important;
 }
 
 %font-var-italic {

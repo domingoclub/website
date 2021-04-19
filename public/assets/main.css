@@ -613,7 +613,8 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .ts h5,
 .ts h6 {
   font-family: var(--font-var);
-  line-height: 1.2 !important; }
+  line-height: 1.2 !important;
+  word-spacing: 0 !important; }
 
 .intro .traduction p {
   font-family: var(--font-var-italic);
