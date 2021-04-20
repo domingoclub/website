@@ -690,15 +690,21 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .article--sub {
   border-top-style: dashed; }
 
-.article figure img {
+.article figure img,
+.article .embed-container {
   width: calc(100% + var(--size-xl)*4);
   margin-left: calc(-1 * var(--size-xl)*2); }
   @media (max-width: 767px) {
-    .article figure img {
+    .article figure img,
+    .article .embed-container {
       width: calc(100% + var(--size-xl)*2);
       margin-left: calc(-1 * var(--size-xl)); } }
 .article .embed-container {
   max-width: none; }
+
+.embed-container {
+  width: 100vw;
+  padding-bottom: 67.25%; }
 
 .article.index footer,
 .article.index .article__backlinks {

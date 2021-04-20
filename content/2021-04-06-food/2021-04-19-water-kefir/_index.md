@@ -1,9 +1,7 @@
 ---
 title: Water kefir
-featured-image: kefir.jpg
+featured_image: kefir.jpg
 ---
-
-![](large:kefir.jpg)
 
 ## What is it?
 

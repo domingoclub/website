@@ -1,10 +1,13 @@
 ---
 title: Soy tempeh
+featured_image: tempeh-rect.jpg
 ---
 
 ## What is it?
 
- Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
+Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
+
+![](tempeh-cooked-01.jpg)
 
  
 ## What do we need to make it?
@@ -79,8 +82,13 @@ The following process takes about 30 hours.
 
 Take the tempeh out of the incubator when the rhizopus has grown all around the soybean, turning it into a compact white block. Yaaay, fresh tempeh!
 
+![](tempeh-mold-rect-01.jpg)
+
 <div class='embed-container'><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rfHd1FFaiaQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### Storage
 
 Fresh tempeh can be stored in the refrigerator for up to one week. Freezing is also an option to keep it longer but it is so good that we usually eat it in a few days, no need for preservation techniques in the club.
+
+
+![](tempeh-cooked-02.jpg)
