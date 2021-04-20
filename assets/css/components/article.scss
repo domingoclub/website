@@ -28,8 +28,7 @@
   @extend %ts-link-alt;
 }
 
-.article figure img,
-.article .embed-container {
+.article figure img {
   width: calc(100% + var(--size-xl)*4);
   margin-left: calc(-1 * var(--size-xl)*2);
   @include media('<sm') {

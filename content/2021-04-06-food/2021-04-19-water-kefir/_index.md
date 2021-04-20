@@ -11,6 +11,10 @@ Water kefir is an ancient fermented carbonated drink made from water kefir grain
 
 The mixture ferments for ~36 hours, producing a probiotic drink rich in beneficial bacteria. This drink is refreshing, easy to enjoy and full of health benefits. We love it and drink it every day throughout the year.
 
+![](kefir-05.jpg)
+
+
+
 ## What do we need to make it?
 
 ### Ingredients (for 2 liters)
@@ -20,6 +24,8 @@ The mixture ferments for ~36 hours, producing a probiotic drink rich in benefici
 - ​3 tablespoon of sugar
 - 1 dried fig
 - Juice of half an organic lemon
+
+![](kefir-02.jpg)
 
 ### Material
 
@@ -44,6 +50,8 @@ The following process takes from 24 to 48h depending on your taste. The first fe
 
 !!! notes "How can I tell if the first fermentation is done?"
     The kefir is ready when the dried fig has risen to the surface (it acts as an indicator)  and there are more and more bubbles.
+
+![](kefir-03.jpg)
   
 ### Second fermentation
 
@@ -51,6 +59,8 @@ After the first fermentation comes the time to add fizz and flavor to the kefir.
 
 - Add the flavoring to the strained kefir
 - After ~24 hours, filter the kefir again to prevent the added flavor from being too strong and place the bottle in the fridge
+  
+![](kefir-04.jpg)
 
 !!! notes "When can I drink my kefir?"
     You can drink it straight away! However, we prefer it cold, so we put it in the fridge for a few hours days before drinking it, or we serve it on the rocks.
@@ -77,3 +87,5 @@ The best thing to do when you have too much grain is to share your fermenting pr
 ### Don't waste bacteria
 
 In addition, you can also use the kefir grains in your compost, they are good bacteria for the decomposition process.
+
+![](kefir-01.jpg)
