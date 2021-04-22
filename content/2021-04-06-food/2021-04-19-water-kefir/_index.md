@@ -59,6 +59,7 @@ After the first fermentation comes the time to add fizz and flavor to the kefir.
 - After ~24 hours, filter the kefir again to prevent the added flavor from being too strong and place the bottle in the fridge
   
 ![](kefir-04.jpg)
+![](kefir-06.jpg)
 
 !!! notes "When can I drink my kefir?"
     You can drink it straight away! However, we prefer it cold, so we put it in the fridge for a few hours days before drinking it, or we serve it on the rocks.
