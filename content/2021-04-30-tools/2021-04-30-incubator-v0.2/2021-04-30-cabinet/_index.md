@@ -4,7 +4,7 @@ title: cabinet
 
 There are several known ways to build an incubation cabinet: you can use a decommissioned refrigerator, a speed rack with a vinyl cover, styrofoam coolers, or wooden boxes. The two basic criteria for a good container are insulation and water resistance.
 
-We first experimented with a styrofoam cooler box that we picked up (for free) from a fish shop. It worked well but we wanted to design something more personal, with the size we want and the shape we like, and have our tailored incubator as it is the main advantage of doing things yourself.
+We first experimented with a styrofoam cooler box that we picked up (for free) from a fish shop. It worked well but we wanted to design something more personal, with the size we want and the shape we like, using a parametric software to allow anyone to easily open the file and modify the parameters.
 
 ![The Noma Restaurant's Fermentation Chamber made with a Covered Speed Rack](small:noma_FermentationChamber_02.png)
 ![The Noma Restaurant's Fermentation Chamber made out of a styrofoam cooler](small:noma_FermentationChamber_01.png)
