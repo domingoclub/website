@@ -8,6 +8,13 @@ Elaboramos alimentos fermentados, herramientas de código abierto y exploramos l
 
 Los grandes cambios surgen de los hábitos cotidianos, únete a nosotrxs en el club y hagamos que nuestro domingo sea más impactante.
 
+!!! notes "¿Qué se está haciendo?"
+    Visita la página [[now]] para ver lo que estamos haciendo.
+
+¿Qué se está haciendo?
+
+¿Quieres saber lo que estamos haciendo ahora? Visite nuestra página de actualidad.
+
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
 ## Filosofía

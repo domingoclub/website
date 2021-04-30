@@ -8,6 +8,9 @@ We make fermented [[food]], open-source tools and explore collaboration with nat
 
 Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
 
+!!! notes "What's in the making?"
+    Want to know what we are doing now? Visit our [[now]] page.
+
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
 ## Philosophy

@@ -21,10 +21,10 @@
   .traduction {
     margin-top: var(--size-xxl);
     @include media('>sm') {
-      width: 64%;
+      width: 66%;
     }
     p {
-      @extend %font-var-italic;
+      @extend %font-var;
     }
     p, a {
       color:var(--translation-color);
