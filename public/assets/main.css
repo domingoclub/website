@@ -666,7 +666,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
 
-.index--list .index__item + .index__item {
+.index--list .index__item {
   margin-top: var(--size-xxs); }
 
 .article:not(.index) {
