@@ -4,7 +4,5 @@
 }
 
 .index--list .index__item {
-  & + .index__item {
-    margin-top: var(--size-xxs);
-  }
+  margin-top: var(--size-xxs);
 }
