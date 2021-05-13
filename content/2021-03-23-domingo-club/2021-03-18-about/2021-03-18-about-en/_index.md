@@ -28,6 +28,7 @@ With the desire to encourage fermented food and food waste recycling, we design 
 !!! notes "What is an incubator?"
     An incubator is a device that maintains the necessary parameters, such as temperature and humidity, for an environment suitable for the growth of mycelium (the vegetative part of fungi) and microorganisms of all kinds.
 
+![](incubator-distributed.jpg)
 ![](incubator-v-0-2-collage.png)
 
 With the support of [Fab Lab Barcelona](https://fablabbcn.org/) and its European program [Food Shift 2030](https://foodshift2030.eu/) (Food Tech 3.0), we use digital fabrication techniques to prototype and produce our device. Allowing it to be (re)produced in any Fab Lab / maker space around the world according to the principles of open-source and decentralized fabrication.
