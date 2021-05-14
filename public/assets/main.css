@@ -626,7 +626,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   border-left: calc(var(--border-sm)*3) dotted var(--base-color); }
 
 .intro {
-  width: 820px;
+  width: 760px;
   max-width: 100%; }
   .intro p {
     margin-bottom: .5em; }
@@ -637,21 +637,23 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
       line-height: 1.35; }
       .intro p span a {
         position: relative; }
-  .intro .button {
-    display: inline-block;
-    padding: 0.2em 0.6em 0.4em 0.2em; }
+  .intro section {
+    color: var(--base-color); }
+  .intro section:first-of-type {
+    --base-color: #7308bd; }
+  .intro section:last-of-type {
+    --base-color: #28ae75; }
   .intro .traduction {
     margin-top: var(--size-xxl); }
     @media (min-width: 769px) {
       .intro .traduction {
         width: 66%; } }
-    .intro .traduction p, .intro .traduction a {
-      color: var(--translation-color); }
-    .intro .traduction a {
-      border-color: var(--translation-color); }
-      .intro .traduction a:hover {
-        color: var(--base-color);
-        border-color: var(--base-color); }
+  .intro .button {
+    color: var(--body-color);
+    background-color: var(--base-color);
+    border: var(--border-md) solid var(--body-color); }
+    .intro .button:hover {
+      background-color: var(--action-color); }
 
 .page--homepage .main {
   background-image: url("images/drawing-house.png");
@@ -732,8 +734,8 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --body-color: #f6f4f2;
+  --border-md: 3px;
   --action-color: #ffd906;
-  --translation-color: #28ae75;
   --content-max-width: 570px; }
 
 html {
