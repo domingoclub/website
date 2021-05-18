@@ -32,6 +32,7 @@ Con el deseo de promover los alimentos fermentados y el reciclaje de residuos al
 !!! notes "¿Qué es una incubadora?"
     Una incubadora es un dispositivo que mantiene los parámetros necesarios, como la temperatura y la humedad, para un entorno adecuado para el crecimiento del micelio (la parte vegetativa de los hongos) y los microorganismos de todo tipo.
 
+![](incubator-distributed.jpg)
 ![](incubator-v-0-2-collage.png)
 
 Con el apoyo del [Fab Lab Barcelona](https://fablabbcn.org/) y su programa europeo [Food Shift 2030](https://foodshift2030.eu/) (Food Tech 3.0), utilizamos técnicas de fabricación digital para prototipar y producir nuestro dispositivo. Permitiendo que se (re)produzca en cualquier Fab Lab / espacio maker del mundo según los principios de la fabricación de código abierto y descentralizada.

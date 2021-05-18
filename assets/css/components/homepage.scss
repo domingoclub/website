@@ -1,5 +1,5 @@
 .intro {
-  width: 820px;
+  width: 760px;
   max-width: 100%;
   p {
     margin-bottom: .5em;
@@ -14,9 +14,14 @@
       }
     }
   }
-  .button {
-    display: inline-block;
-    padding: 0.2em 0.6em 0.4em 0.2em; 
+  section {
+    color: var(--base-color);
+  }
+  section:first-of-type {
+    --base-color: #7308bd;
+  }
+  section:last-of-type {
+    --base-color: #28ae75;
   }
   .traduction {
     margin-top: var(--size-xxl);
@@ -27,15 +32,15 @@
       @extend %font-var;
     }
     p, a {
-      color:var(--translation-color);
       @extend %ts-title-2;
     }
-    a {
-      border-color: var(--translation-color);
-      &:hover {
-        color: var(--base-color);
-        border-color: var(--base-color);
-      }
+  }
+  .button {
+    color: var(--body-color);
+    background-color: var(--base-color);
+    border: var(--border-md) solid var(--body-color);
+    &:hover {
+      background-color: var(--action-color);
     }
   }
 }
