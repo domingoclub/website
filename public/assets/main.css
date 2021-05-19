@@ -241,10 +241,12 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
 
 .nav__list {
   list-style: none;
-  display: flex; }
+  display: flex;
+  flex-wrap: wrap; }
 
 .nav__item, .toc__list li, .toc__list--sub li {
-  display: block; }
+  display: block;
+  margin-bottom: var(--size-xs); }
   .nav__item:not(:last-child), .toc__list li:not(:last-child), .toc__list--sub li:not(:last-child) {
     margin-right: var(--size-sm); }
 
