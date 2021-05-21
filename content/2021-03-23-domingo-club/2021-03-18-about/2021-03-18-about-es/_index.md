@@ -51,6 +51,3 @@ Mientras tanto, ya utilizamos nuestro primer prototipo de incubadora para hacer 
 Envíanos un correo electrónico a [hola@domingoclub.com](mailto:hola@domingoclub.com) si quieres tratar alguno de estos temas con nosotrxs. Hablamos inglés, español y francés.
 
 Para estar al tanto de nuestras futuras noticias, puedes suscribirte a nuestra [[newsletter]] y seguirnos en [Instagram](https://instagram.com/domingoclub).
-
-
-
