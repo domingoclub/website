@@ -6,7 +6,8 @@ introduction: "We make fermented food, open-source tools and explore collaborati
 footer: "✿&nbsp;[About](about-en.html), ⁂&nbsp;[Content](content.html), ✉&nbsp;[[newsletter]], ▤&nbsp;[RSS feed](https://domingoclub.com/rss.xml), ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/).<br>Domingo Club ☼&nbsp;2021 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 navigation:
   "☼☼☼": "index"
-  "Food": "food"
-  "Tools": "tools"
+  # "Food": "food"
+  # "Tools": "tools"
+  "Journal": "journal"
   "About": "about-en"
-  "Join" : "join-en"
+  "Join the club ✿" : "join-en"

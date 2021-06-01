@@ -101,7 +101,7 @@ textarea {
   padding-right: var(--size-xl); }
 
 .ts code, .intro .traduction p, .ts em strong,
-.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .intro .traduction a, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .article__backlinks, .article__parent, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
+.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .intro .traduction a, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .article__backlinks, .article__parent, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
 label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
   font-style: normal;
@@ -116,7 +116,7 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
 .ts .todo, .ts em, .ts blockquote p {
   font-family: var(--font-body-italic); }
 
-.ts strong, .ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .intro .traduction p, .intro .traduction a, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
+.ts strong, .ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .intro .traduction p, .intro .traduction a, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
   font-family: var(--font-body-bold); }
 
 .ts em strong,
@@ -140,7 +140,7 @@ a {
   @media (max-width: 569px) {
     .article__title, .intro p, .index__title {
       font-size: calc(var(--size-xxl)/4*3); } }
-.sender-form-title p, .toc__title, .index--featured .item__title, .ts h1 {
+.sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1 {
   font-size: var(--size-xl); }
 
 .intro .traduction p, .intro .traduction a, .index:not(.index--featured) .index__link, .ts h2 {
@@ -405,10 +405,7 @@ img {
 
 .ts .btn {
   display: inline-block;
-  background-color: var(--action-color);
-  color: var(--base-color);
-  padding: var(--size-lg);
-  border: var(--border-sm) solid var(--base-color); }
+  padding: var(--size-xs); }
 
 .ts video {
   max-width: 100%;
@@ -576,6 +573,7 @@ footer a, .article__backlinks a, .article__parent a {
 .sender-form-title p,
 .ts h1,
 .index--featured .item__title,
+.article--sub .article__title,
 .toc__title,
 .intro .traduction a,
 .ts h2,
@@ -600,6 +598,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .sender-form-title p,
 .ts h1,
 .index--featured .item__title,
+.article--sub .article__title,
 .toc__title,
 .intro .traduction a,
 .ts h2,
@@ -738,7 +737,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   --body-color: #f6f4f2;
   --border-md: 3px;
   --action-color: #ffd906;
-  --content-max-width: 570px; }
+  --content-max-width: 610px; }
 
 html {
   font-size: 17px; }
@@ -749,6 +748,7 @@ html {
 .ts strong em, .ts .todo, body, .index__title, .intro p, .article__title,
 .ts h1,
 .index--featured .item__title,
+.article--sub .article__title,
 .toc__title,
 .ts h2,
 .index:not(.index--featured) .index__link,
