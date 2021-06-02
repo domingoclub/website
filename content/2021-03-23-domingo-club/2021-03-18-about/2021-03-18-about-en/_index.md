@@ -11,7 +11,7 @@ Big changes come from everyday habits, join us in the club and let's make our Su
 !!! notes "What's in the making?"
     Want to know what we are doing now? Visit our [[now]] page.
 
-![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
+![Toni & Maudi, Barcelona, 2021](large:gif-duo.gif)
 
 ## Philosophy
 

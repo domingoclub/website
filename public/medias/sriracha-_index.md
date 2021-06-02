@@ -1,3 +1,0 @@
----
-title: Sriracha sauce
----
