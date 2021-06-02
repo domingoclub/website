@@ -1,6 +1,6 @@
 ---
 title: Sriracha sauce in the making
-last_update: 2021-06-01
+last_update: 2021-06-02
 ---
 
 This morning I came back from the local fruit and vegetable shop with a ton of chillies, with the idea of making a new sriracha sauce (a fermented chilli sauce from Thailand). This sauce never lasts long in our house, we eat it with just about everything.

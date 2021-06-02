@@ -368,14 +368,16 @@ img {
 
 .article figure.sm {
   max-width: 100%;
-  width: 100%;
+  width: calc(50% - var(--size-sm));
   display: inline-block;
   vertical-align: top;
   margin-bottom: var(--size-md); }
-  @media (min-width: 769px) {
-    .article figure.sm {
-      width: calc(var(--content-max-width)/2 - var(--size-sm)/2);
-      margin-right: var(--size-sm)/2; } }
+  .article figure.sm:nth-child(odd) {
+    margin-right: var(--size-sm); }
+  .article figure.sm img {
+    width: 100%;
+    margin: 0; }
+
 .ts ul {
   list-style: none;
   padding: 0; }
