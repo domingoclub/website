@@ -643,7 +643,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   .intro section {
     color: var(--base-color); }
   .intro section:first-of-type {
-    --base-color: #590195; }
+    --base-color: #6b00b5; }
   .intro section:last-of-type {
     --base-color: #28ae75; }
   .intro .traduction {
