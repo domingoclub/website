@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 22 Jun 2021 21:31:35 +0000</lastBuildDate><item><title>The new version of the incubator is coming</title><link>https://domingoclub.com/2021-06-22.html</link><description>&lt;!DOCTYPE html&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 22 Jun 2021 22:12:15 +0000</lastBuildDate><item><title>The new version of the incubator is coming</title><link>https://domingoclub.com/2021-06-22.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -995,9 +995,8 @@
         &lt;a href="domingo-club.html"&gt;domingo-club&lt;/a&gt;.
       &lt;/p&gt;
 &lt;section class="article__content ts" id="content"&gt;
-&lt;p&gt;We are in the process of defining our project, and what a club means to us. What form can it take, how to welcome members, what would be our common goals?&lt;/p&gt;
-&lt;p&gt;Our first incubator prototype needs to be completed and documented, we are busy doing that. Looking for a natural food-safe coating for wood, finishing the shelves, refining the electronics, mastering the heating system.&lt;/p&gt;
-&lt;p&gt;We have started designing and 3D printing tempeh molds in PETG (a food grade plastic), but they are not as good a...</description><pubDate>Thu, 29 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Water kefir</title><link>https://domingoclub.com/water-kefir.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;p&gt;We are designing the next version of our incubator, taking into account the feedback received since our previous prototype. In short: a modular system for the electronics, an integrated screen and a parametric size for the cabinet.&lt;/p&gt;
+&lt;p&gt;We will be fabricating the new prototype this summer at &lt;a class="external" href="https://fablabbcn.org/" target="_blank"&gt;Fab Lab Barcelona&lt;/a&gt; as part of &lt;a class="external" href="https://foodshift2030.eu/" target="_blank"&gt;Food Shift&lt;/a&gt;'s Food Tech 3.0 programme...</description><pubDate>Wed, 23 Jun 2021 00:00:00 +0200</pubDate></item><item><title>Water kefir</title><link>https://domingoclub.com/water-kefir.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
