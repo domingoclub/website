@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 22 Jun 2021 22:12:15 +0000</lastBuildDate><item><title>The new version of the incubator is coming</title><link>https://domingoclub.com/2021-06-22.html</link><description>&lt;!DOCTYPE html&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 23 Jun 2021 16:32:58 +0000</lastBuildDate><item><title>The new version of the incubator is coming</title><link>https://domingoclub.com/2021-06-22.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -1677,6 +1677,7 @@
       &lt;/p&gt;
 &lt;section class="article__content ts" id="content"&gt;
 &lt;ul&gt;
+&lt;li&gt;Now ☼ &lt;a class="external" href="https://domingoclub.com/now.html" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Our proposal for the Distributed Design Award 2021 &lt;a class="external" href="https://distributeddesign.eu/awards/entries/domingo-club-incubator/" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The sources of our tempeh mold are now available on Wikifactory for the #FromOneToMany challenge to win a Mayku FormBox &lt;a class="external" href="https://wikifactory.com/@domingoclub/tempeh-molds" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;New recipe in our online documentation: Tempeh &lt;a class="external" href="https://domingoclub...</description><pubDate>Wed, 19 May 2021 00:00:00 +0200</pubDate></item></channel></rss>
+&lt;li&gt;The sources of our tempeh mold are now available on Wikifactory for the #FromOneToMany challenge &lt;a class="external" href="https://wikifactory.com/@domingoclub/tempeh-molds" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;New recipe in...</description><pubDate>Wed, 19 May 2021 00:00:00 +0200</pubDate></item></channel></rss>
