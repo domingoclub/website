@@ -10,4 +10,9 @@ We're part of the innovating protein cohort.
 
 ![](gamechangerlab.png)
 
-[Thought For Food](https://thoughtforfood.org/) [The Rockefeller Foundation](https://www.rockefellerfoundation.org/) [IDEO](https://www.openideo.com/) [EAT](https://eatforum.org/) [Forum For the Future](https://www.forumforthefuture.org/) [UN Food Systems Summit](https://www.un.org/en/food-systems-summit)
+- [Thought For Food](https://thoughtforfood.org/)
+- [The Rockefeller Foundation](https://www.rockefellerfoundation.org/)
+- [IDEO](https://www.openideo.com/)
+- [EAT](https://eatforum.org/)
+- [Forum For the Future](https://www.forumforthefuture.org/)
+- [UN Food Systems Summit](https://www.un.org/en/food-systems-summit)

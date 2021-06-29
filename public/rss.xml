@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 29 Jun 2021 15:22:19 +0000</lastBuildDate><item><title>Soon, an integrated screen on the incubator!</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 29 Jun 2021 16:09:15 +0000</lastBuildDate><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -33,23 +33,22 @@
 &lt;/header&gt;
 &lt;!-- content --&gt;
 &lt;article class="article" id="2021-06-30"&gt;
-&lt;h1 class="article__title"&gt;Soon, an integrated screen on the incubator!&lt;/h1&gt;
+&lt;h1 class="article__title"&gt;New electronics on the way&lt;/h1&gt;
 &lt;p class="article__parent"&gt;
         This article is part of:
         &lt;a href="journal.html"&gt;journal&lt;/a&gt;.
       &lt;/p&gt;
 &lt;section class="article__content ts" id="content"&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-newscreen.JPG"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-antoineisprototyping.JPG"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;New electronic system for the incubator being prototyped, soon with a Raspberry Pico and an OLED screen.&lt;/p&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-antoineisprototyping.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-newscreen.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;footer&gt;
 &lt;p&gt;✎ &lt;span&gt;Created&lt;/span&gt; 30/06/2021&lt;/p&gt;
 &lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/06/2021&lt;/p&gt;
 &lt;/footer&gt;
 &lt;/article&gt;
-&lt;!-- /content --&gt;
-&lt;footer class="footer"&gt;
-&lt;p&gt;⁂ &lt;a href="content.html"&gt;Content&lt;/a&gt;, ✉ &lt;a href="ne...</description><pubDate>Wed, 30 Jun 2021 00:00:00 +0200</pubDate></item><item><title>Food System Game Changer</title><link>https://domingoclub.com/2021-06-29.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;!...</description><pubDate>Wed, 30 Jun 2021 00:00:00 +0200</pubDate></item><item><title>Food System Game Changer</title><link>https://domingoclub.com/2021-06-29.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -839,18 +838,18 @@
 &lt;article class="article" id="journal"&gt;
 &lt;h1 class="article__title"&gt;The Domingo Journal&lt;/h1&gt;
 &lt;article class="article--sub" id="2021-06-30"&gt;
-&lt;h1 class="article__title"&gt;Soon, an integrated screen on the incubator! &lt;a href="2021-06-30.html"&gt;➹&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 class="article__title"&gt;New electronics on the way &lt;a href="2021-06-30.html"&gt;➹&lt;/a&gt;&lt;/h1&gt;
 &lt;section class="article__content ts"&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-newscreen.JPG"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-antoineisprototyping.JPG"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;New electronic system for the incubator being prototyped, soon with a Raspberry Pico and an OLED screen.&lt;/p&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-antoineisprototyping.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-newscreen.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;aside&gt;
 &lt;p&gt;✎ &lt;span&gt;Created&lt;/span&gt; 30/06/2021&lt;/p&gt;
 &lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/06/2021&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/article&gt;
-&lt;article class="article--sub" id="2021-06-29"&gt;
-&lt;h1 class="article__title"&gt;Food System Game Changer ...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.2</title><link>https://domingoclub.com/incubator-v0-2.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;arti...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.2</title><link>https://domingoclub.com/incubator-v0-2.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
