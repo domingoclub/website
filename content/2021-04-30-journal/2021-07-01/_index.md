@@ -8,6 +8,8 @@ Our project was first selected, among the 12 finalists, in the *Adaptable and op
 
 We'll receive 2000€ to finance the development of the Domingo Club and our incubator. Long live the Domingo Club!
 
+Thanks distributeddesign!
+
 
 ![](dd-prize.png)
 
