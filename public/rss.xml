@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< HEAD
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 02 Jul 2021 14:20:19 +0000</lastBuildDate><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
+=======
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 01 Jul 2021 13:56:47 +0000</lastBuildDate><item><title>Distributed Design 2021</title><link>https://domingoclub.com/2021-07-01.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"/&gt;
+&lt;meta content="IE=edge" http-equiv="X-UA-Compatible"/&gt;
+&lt;meta content="width=device-width, initial-scale=1" name="viewport"/&gt;
+&lt;title property="schema:name"&gt;Domingo Club - Fermented food &amp;amp; open-source tools&lt;/title&gt;
+&lt;meta content="Fermented food &amp;amp; open-source tools" name="description"/&gt;
+&lt;meta content="Domingo Club" property="schema:name"/&gt;
+&lt;meta content="Fermented food &amp;amp; open-source tools" property="schema:description"/&gt;
+&lt;link href="assets/main.min.css" rel="stylesheet"/&gt;
+&lt;/head&gt;
+&lt;body class="page page--article"&gt;
+&lt;main class="main"&gt;
+&lt;header class="header"&gt;
+&lt;nav class="nav"&gt;
+&lt;ul class="nav__list"&gt;
+&lt;li class="nav__item"&gt;
+&lt;a class="nav__link" href="index.html"&gt;☼☼☼&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="nav__item"&gt;
+&lt;a class="nav__link" href="journal.html"&gt;Journal&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="nav__item"&gt;
+&lt;a class="nav__link" href="about-en.html"&gt;About&lt;/a&gt;
+&lt;/li&gt;
+&lt;li class="nav__item"&gt;
+&lt;a class="nav__link" href="join-en.html"&gt;Join the club ✿&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/header&gt;
+&lt;!-- content --&gt;
+&lt;article class="article" id="2021-07-01"&gt;
+&lt;h1 class="article__title"&gt;Distributed Design 2021&lt;/h1&gt;
+&lt;p class="article__parent"&gt;
+        This article is part of:
+        &lt;a href="journal.html"&gt;journal&lt;/a&gt;.
+      &lt;/p&gt;
+&lt;section class="article__content ts" id="content"&gt;
+&lt;p&gt;Good news! We won the Distributed Design Award 2021!&lt;/p&gt;
+&lt;p&gt;Our project was first selected, among the 12 finalists, in the &lt;em&gt;Adaptable and open-design&lt;/em&gt; category and now, after a few weeks of suspense, we have just learned that we won the award for excellence! Woop woop!&lt;/p&gt;
+&lt;p&gt;We'll receive 2000€ to finance the development of the Domingo Club and our incubator. Long live the Domingo Club!&lt;/p&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-07-01-dd-prize.png"&gt;&lt;...</description><pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate></item><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
+>>>>>>> ebcfa307122cba7dbd2fb28a8001ffd334d60df6
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -827,19 +874,13 @@
 &lt;!-- content --&gt;
 &lt;article class="article" id="journal"&gt;
 &lt;h1 class="article__title"&gt;The Domingo Journal&lt;/h1&gt;
-&lt;article class="article--sub" id="2021-06-30"&gt;
-&lt;h1 class="article__title"&gt;New electronics on the way &lt;a href="2021-06-30.html"&gt;➹&lt;/a&gt;&lt;/h1&gt;
+&lt;article class="article--sub" id="2021-07-01"&gt;
+&lt;h1 class="article__title"&gt;Distributed Design 2021 &lt;a href="2021-07-01.html"&gt;➹&lt;/a&gt;&lt;/h1&gt;
 &lt;section class="article__content ts"&gt;
-&lt;p&gt;New electronic system for the incubator being prototyped, soon with a Raspberry Pico and an OLED screen.&lt;/p&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-antoineisprototyping.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-30-newscreen.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/section&gt;
-&lt;aside&gt;
-&lt;p&gt;✎ &lt;span&gt;Created&lt;/span&gt; 30/06/2021&lt;/p&gt;
-&lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/06/2021&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/article&gt;
-&lt;arti...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.2</title><link>https://domingoclub.com/incubator-v0-2.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;p&gt;Good news! We won the Distributed Design Award 2021!&lt;/p&gt;
+&lt;p&gt;Our project was first selected, among the 12 finalists, in the &lt;em&gt;Adaptable and open-design&lt;/em&gt; category and now, after a few weeks of suspense, we have just learned that we won the award for excellence! Woop woop!&lt;/p&gt;
+&lt;p&gt;We'll receive 2000€ to finance the development of the Domingo Club and our incubator. Long live the Domingo Club!&lt;/p&gt;
+&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-07-01-dd-prize.png"&gt;&lt;f...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.2</title><link>https://domingoclub.com/incubator-v0-2.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
