@@ -555,7 +555,7 @@ body {
 a {
   color: var(--base-color);
   text-decoration: none;
-  background-color: #FFFFFF;
+  background-color: var(--body-color);
   border: var(--border-sm) solid var(--base-color);
   padding: calc(var(--size-xxs)/2) var(--size-xxs);
   border-radius: var(--size-xs); }
@@ -726,7 +726,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   --font-var: "savate-regular", Helvetica, Arial, sans-serif;
   --font-var-italic: "savate-italic", Helvetica, Arial, sans-serif;
   --font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --body-color: #eee;
+  --body-color: #f6f4f2;
   --border-md: 3px;
   --action-color: #ffd906;
   --content-max-width: 610px; }

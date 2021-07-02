@@ -13,7 +13,7 @@ Big changes come from everyday habits, join us in the club and let's make our Su
 
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
-## Philosophy
+# Philosophy
 
 Fermented food provides delicious, protein-packed meals from natural ingredients that require little effort for maximum benefit. Power food is at our fingertips.
 
@@ -21,7 +21,7 @@ We advocate open source tools (hardware and software) to allow others to underst
 
 We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.
 
-## Focus
+# Focus
 
 With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.
 

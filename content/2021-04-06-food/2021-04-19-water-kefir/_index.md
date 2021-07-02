@@ -3,7 +3,7 @@ title: Water kefir
 featured_image: kefir.jpg
 ---
 
-## What is it?
+# What is it?
 
 Water kefir is an ancient fermented carbonated drink made from water kefir grains. Unlike ordinary kefir, which is made from milk, water kefir is made by combining sugar water with water kefir grains — a culture of bacteria and yeast.
 
@@ -13,9 +13,9 @@ The mixture ferments for ~36 hours, producing a probiotic drink rich in benefici
 
 
 
-## What do we need to make it?
+# What do we need to make it?
 
-### Ingredients (for 2 liters)
+## Ingredients (for 2 liters)
 
 - 6 tablespoon of Water kefir grains
 - 2 liters of water
@@ -25,7 +25,7 @@ The mixture ferments for ~36 hours, producing a probiotic drink rich in benefici
 
 ![](kefir-02.jpg)
 
-### Material
+## Material
 
 - A glass jar
 - A wooden spoon
@@ -34,11 +34,11 @@ The mixture ferments for ~36 hours, producing a probiotic drink rich in benefici
 !!! notes "Why can't I use metal utensils?"
     Exposure to metal can weaken the kefir grains. Indeed, kefir, being acidic, undergoes a modification of its structure in contact with aluminum, iron or copper. Stainless steel can be used without any problem.
 
-## how to make it?
+# how to make it?
 
 The following process takes from 24 to 48h depending on your taste. The first fermentation produces the natural kefir, the second one brings the flavours and the fizz.
 
-### First fermentation
+## First fermentation
 
 - Add kefir grains, water and sugar to the jar
 - Stir to dissolve the sugar
@@ -51,7 +51,7 @@ The following process takes from 24 to 48h depending on your taste. The first fe
 
 ![](kefir-03.jpg)
   
-### Second fermentation
+## Second fermentation
 
 After the first fermentation comes the time to add fizz and flavor to the kefir. We like to use mint leaves, ibiscus flowers, rosemary sprigs, apple and pear slices, hot pepper (so good!), or anything else that can enhance our daily drink.
 
@@ -65,25 +65,25 @@ After the first fermentation comes the time to add fizz and flavor to the kefir.
     You can drink it straight away! However, we prefer it cold, so we put it in the fridge for a few hours days before drinking it, or we serve it on the rocks.
 
 
-## What to do with the grains?
+# What to do with the grains?
 
-### Make another kefir
+## Make another kefir
 
 We usually start a new kefir right after the first fermentation, with the freshly filtered grains. This allows us to have this delicious beverage always available in our fridge.
 
-### Conserve the grains for later
+## Conserve the grains for later
 
 If you want to take a break from making kefir, you can store your grains in sugar water in the fridge for up to two weeks.
 
 The grains feed on sugar and the cold of the fridge slows down their growth, and therefore their appetite.
 
-### Spread your practice
+## Spread your practice
 
 The grains grow day by day until they break into smaller pieces, so that they become more and more numerous. Soon the time comes when you have too much grain for your own use.
 
 The best thing to do when you have too much grain is to share your fermenting practice with the rest of the world by giving away your extra grain to your friends and family.
 
-### Don't waste bacteria
+## Don't waste bacteria
 
 In addition, you can also use the kefir grains in your compost, they are good bacteria for the decomposition process.
 
