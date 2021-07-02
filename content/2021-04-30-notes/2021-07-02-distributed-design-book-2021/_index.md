@@ -8,7 +8,7 @@ Few weeks ago, we wrote a paper for the Profiles/Case Studies section of the [Di
 You'll find below the transcript. We hope to share with you a bit more about our philosophy.
 
 
-## Context and history
+# Context and history
 
 The industrial revolution and globalisation have increasingly distanced us from food production and the processes that transform the raw products of agriculture into what we eat and drink every day. Making us more and more dependent on modified industrial products that we do not understand.
 
@@ -17,7 +17,7 @@ But this detour towards abstraction is relatively recent. All over the world and
 At the Domingo Club, we like to think of fermentation as a process of partnering with micro-organisms to improve our local and seasonal foods, making them more digestible and getting more energy from them. This partnership with living systems is an invitation to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources.
 
 
-## What is the need it tackles?
+# What is the need it tackles?
 
 To promote and encourage understanding, transparency, resilience and equity in our global food system, we design and develop an open-source incubator. An incubator is a device that maintains the necessary parameters for an environment suitable for the growth of fungi and micro-organisms of all kinds. A necessary tool for the practice of fermentation.
 
@@ -28,7 +28,7 @@ We started to develop our incubator to make our tempeh. Tempeh is an Indonesian 
 But using an incubator to make tempeh is just one example. There are many other ways to use it and many more ways to be found.
 
 
-## What is the relationship global-local of the project?
+# What is the relationship global-local of the project?
 
 No more knowledge that gets stuck in proprietary software or behind a paywall. No more capitalist practices that only allow a few privileged people to be even more so. By publishing the sources and plans of our projects, by documenting our work as much as possible, we want knowledge to travel freely around the world so that everyone can learn and understand at the same time and in the same way. To enable full collaboration.
 
@@ -43,7 +43,7 @@ The transparency of the process is more than important in our way of seeing our 
 We deeply believe that what we do has much more meaning and impact when we are not the only ones doing it. We therefore invite everyone to join the club and move towards a sustainable society where we understand what we eat, what we do, what we use in our daily lives, a society where we observe and question what we usually take for granted.
 
 
-## How was the development process of the project?
+# How was the development process of the project?
 
 In the kitchen, it seems natural to share a good recipe and tips and tricks on how to please our taste buds. We share knowledge from one generation to the next. We preserve the cultural heritage while allowing it to be augmented by the findings of the community.
 
@@ -54,7 +54,7 @@ What if we liberate knowledge and allow it to flow in all directions? What if we
 That's what we want to be a part of.
 
 
-## What results did your project accomplish?
+# What results did your project accomplish?
 
 We have our first incubator prototype. We use it almost daily for our own tempeh production. From the outside, it is a CNC-cut wooden box that can be stacked and easily assembled and disassembled without glue or screws. Inside is a temperature and humidity sensor and a heating system (heating pad and fan) which, controlled by a microcontroller, regulate the temperature as desired. This allows the micro-organisms to grow optimally.
 
@@ -63,7 +63,7 @@ The next version will have parametric dimensions so that anyone can decide on th
 Organizing workshops is our next big step. It's time for us to get out of our lab and pass on our knowledge and practice in a tangible and direct way with people. It's a great way for us to interact but also to see how people react to our tools, giving us an enriching feedback and the possibility to co-create and therefore amplify our message, all together.
 
 
-## Why is this (your project) distributed design?
+# Why is this (your project) distributed design?
 
 At Domingo Club, we advocate open source tools to allow others to understand, modify and repair what we produce. We use digital fabrication techniques to prototype and produce our devices. Allowing them to be (re)produced in any Fab Lab / maker space around the world according to the principles of open-source and decentralized fabrication.
 
