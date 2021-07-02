@@ -15,25 +15,9 @@
     }
   }
   section {
+    --base-color: #20a56b;
     color: var(--base-color);
-  }
-  section:first-of-type {
-    --base-color: #6b00b5;
-  }
-  section:last-of-type {
-    --base-color: #28ae75;
-  }
-  .traduction {
-    margin-top: var(--size-xxl);
-    @include media('>sm') {
-      width: 66%;
-    }
-    p {
-      @extend %font-var;
-    }
-    p, a {
-      @extend %ts-title-2;
-    }
+    
   }
   .button {
     color: var(--body-color);
