@@ -1,7 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<<<<<<< HEAD
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 02 Jul 2021 14:20:19 +0000</lastBuildDate><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
-=======
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 01 Jul 2021 13:56:47 +0000</lastBuildDate><item><title>Distributed Design 2021</title><link>https://domingoclub.com/2021-07-01.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -46,7 +43,6 @@
 &lt;p&gt;Our project was first selected, among the 12 finalists, in the &lt;em&gt;Adaptable and open-design&lt;/em&gt; category and now, after a few weeks of suspense, we have just learned that we won the award for excellence! Woop woop!&lt;/p&gt;
 &lt;p&gt;We'll receive 2000€ to finance the development of the Domingo Club and our incubator. Long live the Domingo Club!&lt;/p&gt;
 &lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-07-01-dd-prize.png"&gt;&lt;...</description><pubDate>Thu, 01 Jul 2021 00:00:00 +0200</pubDate></item><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
->>>>>>> ebcfa307122cba7dbd2fb28a8001ffd334d60df6
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
