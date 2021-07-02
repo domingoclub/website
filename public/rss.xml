@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 29 Jun 2021 16:09:15 +0000</lastBuildDate><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 02 Jul 2021 14:20:19 +0000</lastBuildDate><item><title>New electronics on the way</title><link>https://domingoclub.com/2021-06-30.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -256,9 +256,9 @@
         &lt;a href="journal.html"&gt;journal&lt;/a&gt;.
       &lt;/p&gt;
 &lt;section class="article__content ts" id="content"&gt;
-&lt;p&gt;Last month we participated in &lt;a class="external" href="https://wikifactory.com/" target="_blank"&gt;WikiFactory&lt;/a&gt;'s #FromOneToMany challenge and they just announced that we won the functionality prize with our &lt;a class="internal" href="tempeh-molds.html"&gt;tempeh-molds&lt;/a&gt;, woop woop!&lt;/p&gt;
+&lt;p&gt;Last month we participated in &lt;a class="external" href="https://wikifactory.com/" target="_blank"&gt;WikiFactory&lt;/a&gt;'s #FromOneToMany challenge and they just announced that we won the functionality prize with our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh-moulds&lt;/a&gt;, woop woop!&lt;/p&gt;
 &lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/2021-06-02-compilation.png"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;We have won a form box machine that will help us to develop our mold series and r...</description><pubDate>Wed, 02 Jun 2021 00:00:00 +0200</pubDate></item><item><title>Tempeh molds</title><link>https://domingoclub.com/tempeh-molds.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;p&gt;We have won a form box machine that will help us to develop our mould series an...</description><pubDate>Wed, 02 Jun 2021 00:00:00 +0200</pubDate></item><item><title>Tempeh moulds</title><link>https://domingoclub.com/tempeh-moulds.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -291,8 +291,8 @@
 &lt;/nav&gt;
 &lt;/header&gt;
 &lt;!-- content --&gt;
-&lt;article class="article index" id="tempeh-molds"&gt;
-&lt;h1 class="article__title"&gt;Tempeh molds&lt;/h1&gt;
+&lt;article class="article index" id="tempeh-moulds"&gt;
+&lt;h1 class="article__title"&gt;Tempeh moulds&lt;/h1&gt;
 &lt;p class="article__parent"&gt;
         This article is part of:
         &lt;a href="tools.html"&gt;tools&lt;/a&gt;.
@@ -300,7 +300,7 @@
 &lt;section class="index index--list"&gt;
 &lt;ul class="index__list"&gt;
 &lt;li class="index__item"&gt;
-&lt;a class="index__link" href="rectangle-mold.html"&gt;3D printed rectangle mold&lt;/a&gt;
+&lt;a class="index__link" href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;
 &lt;span class="index__update"&gt;30/05/2021&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -316,7 +316,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="2021-06-02.html"&gt;2021-06-02&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/s...</description><pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate></item><item><title>3D printed rectangle mold</title><link>https://domingoclub.com/rectangle-mold.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;/sect...</description><pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate></item><item><title>3D printed moulds</title><link>https://domingoclub.com/3D-printed-moulds.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -349,24 +349,15 @@
 &lt;/nav&gt;
 &lt;/header&gt;
 &lt;!-- content --&gt;
-&lt;article class="article" id="rectangle-mold"&gt;
-&lt;h1 class="article__title"&gt;3D printed rectangle mold&lt;/h1&gt;
+&lt;article class="article" id="3D-printed-moulds"&gt;
+&lt;h1 class="article__title"&gt;3D printed moulds&lt;/h1&gt;
 &lt;p class="article__parent"&gt;
         This article is part of:
-        &lt;a href="tempeh-molds.html"&gt;tempeh-molds&lt;/a&gt;.
+        &lt;a href="tempeh-moulds.html"&gt;tempeh-moulds&lt;/a&gt;.
       &lt;/p&gt;
 &lt;section class="article__content ts" id="content"&gt;
-&lt;p&gt;We are currently working on it!&lt;/p&gt;
-&lt;p&gt;Pending a new transcription, the documentation and sources are available on &lt;a class="external" href="https://wikifactory.com/@domingoclub/tempeh-molds" target="_blank"&gt;wikifactory&lt;/a&gt;&lt;/p&gt;
-&lt;/section&gt;
-&lt;footer&gt;
-&lt;p&gt;✎ &lt;span&gt;Created&lt;/span&gt; 30/05/2021&lt;/p&gt;
-&lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/05/2021&lt;/p&gt;
-&lt;/footer&gt;
-&lt;/article&gt;
-&lt;!-- /content --&gt;
-&lt;footer class="footer"&gt;
-&lt;p&gt;⁂ &lt;a href="content.html"&gt;Content&lt;/a&gt;, ✉ &lt;a href="newsletter.html"&gt;newslett...</description><pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate></item><item><title>Sriracha sauce in the making</title><link>https://domingoclub.com/2021-05-30.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;figure class="md"&gt;&lt;img alt="Domingo Club 3D printed mould with tempeh preparation before incubation" loading="lazy" src="medias/3D-printed-moulds-tempeh-0.jpg"&gt;&lt;figcaption&gt;Domingo Club 3D printed mould with tempeh preparation before incubation&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="md"&gt;&lt;img alt="Fresh tempeh out of a Domingo Club 3D printed mould" loading="lazy" src="medias/3D-printed-moulds-tempeh-mould-rect-01.jpg"&gt;&lt;figcaption&gt;Fresh tempeh out of a Domingo Club 3D printe...</description><pubDate>Fri, 02 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Sriracha sauce in the making</title><link>https://domingoclub.com/2021-05-30.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -742,18 +733,17 @@
 &lt;a class="index__link" href="toolbox.html"&gt;Toolbox&lt;/a&gt;
 &lt;span class="index__update"&gt;30/04/2021&lt;/span&gt;
 &lt;/li&gt;
+&lt;li class="index__item"&gt;
+&lt;a class="index__link" href="distributed-design-book-2021.html"&gt;Distributed Design Book 2021&lt;/a&gt;
+&lt;span class="index__update"&gt;02/07/2021&lt;/span&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/section&gt;
 &lt;section class="article__content ts" id="content"&gt;
 &lt;/section&gt;
 &lt;footer&gt;
 &lt;p&gt;✎ &lt;span&gt;Created&lt;/span&gt; 30/04/2021&lt;/p&gt;
-&lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/04/2021&lt;/p&gt;
-&lt;/footer&gt;
-&lt;/article&gt;
-&lt;!-- /content --&gt;
-&lt;footer class="footer"&gt;
-&lt;p&gt;⁂ &lt;a href="content.html"&gt;Content&lt;/a&gt;, ✉ &lt;a href="newsletter.html"&gt;newsletter&lt;/a&gt;, ▤ &lt;a href="https://domin...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Lasercut shelves</title><link>https://domingoclub.com/lasercut-shelves.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;p&gt;⁂ &lt;span&gt;Updated&lt;/span&gt; 30/04/2021&lt;/p...</description><pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Lasercut shelves</title><link>https://domingoclub.com/lasercut-shelves.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -1235,9 +1225,7 @@
 &lt;figure class="md"&gt;&lt;img alt="" class="article__featured" loading="lazy" src="medias/soy-tempeh-tempeh-rect.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;section class="article__content ts" id="content"&gt;
 &lt;h2 id="what-is-it"&gt;What is it?&lt;/h2&gt;
-&lt;p&gt;Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.&lt;/p&gt;
-&lt;figure class="md"&gt;&lt;img alt="" loading="lazy" src="medias/soy-tempeh-tempeh-cooked-01.jpg"&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id="what-do-we-need-to-make-it"&gt;What do we need to...</description><pubDate>Tue, 06 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Sourdough starter</title><link>https://domingoclub.com/sourdough-starter.html</link><description>&lt;!DOCTYPE html&gt;
+&lt;p&gt;Tempeh is an Indonesian fermented food product originally made out of soy beans and a fungus called rhizopus. During the fermentation process, the spores of the fungus develop and its mycelium grows around the soybeans, breaking down their molecules. This process changes the properties of soybeans and makes them mor...</description><pubDate>Tue, 06 Apr 2021 00:00:00 +0200</pubDate></item><item><title>Sourdough starter</title><link>https://domingoclub.com/sourdough-starter.html</link><description>&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"/&gt;
@@ -1777,5 +1765,5 @@
 &lt;ul&gt;
 &lt;li&gt;Now ☼ &lt;a class="external" href="https://domingoclub.com/now.html" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Our proposal for the Distributed Design Award 2021 &lt;a class="external" href="https://distributeddesign.eu/awards/entries/domingo-club-incubator/" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The sources of our tempeh mold are now available on Wikifactory for the #FromOneToMany challenge &lt;a class="external" href="https://wikifactory.com/@domingoclub/tempeh-molds" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;New recipe in...</description><pubDate>Wed, 19 May 2021 00:00:00 +0200</pubDate></item></channel></rss>
+&lt;li&gt;The sources of our tempeh mould are now available on Wikifactory for the #FromOneToMany challenge &lt;a class="external" href="https://wikifactory.com/@domingoclub/tempeh-moulds" target="_blank"&gt;→ link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;New recipe ...</description><pubDate>Wed, 19 May 2021 00:00:00 +0200</pubDate></item></channel></rss>

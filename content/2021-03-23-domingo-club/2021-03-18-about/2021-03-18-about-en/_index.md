@@ -33,7 +33,7 @@ With the desire to encourage fermented food and food waste recycling, we design 
 
 With the support of [Fab Lab Barcelona](https://fablabbcn.org/) and its European program [Food Shift 2030](https://foodshift2030.eu/) (Food Tech 3.0), we use digital fabrication techniques to prototype and produce our device. Allowing it to be (re)produced in any Fab Lab / maker space around the world according to the principles of open-source and decentralized fabrication.
 
-![A tempeh mold that we designed and 3D printed](tempeh-0.jpg)
+![A tempeh mould that we designed and 3D printed](tempeh-0.jpg)
 
 In the meantime, we already use our first incubator prototype to make delicious tempeh that is now part of our daily diet.
 
