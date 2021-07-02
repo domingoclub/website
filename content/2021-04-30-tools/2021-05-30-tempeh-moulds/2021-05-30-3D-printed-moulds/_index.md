@@ -3,8 +3,10 @@ title: 3D printed moulds
 last_update: 2021-07-02
 ---
 
-![Domingo Club 3D printed mould with tempeh preparation before incubation](tempeh-0.jpg)
+![Domingo Club 3D printed mould with tempeh preparation before incubation](tempeh-mould-rect-00.jpg)
+![Ready to incubate!](tempeh-mould-rect-01.jpg)
 ![Fresh tempeh out of a Domingo Club 3D printed mould](tempeh-mould-rect-01.jpg)
+![Ready to cook!](tempeh-mould-rect-07.jpg)
 
 ## Why do we need moulds to make tempeh?
 
