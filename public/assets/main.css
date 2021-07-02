@@ -428,7 +428,6 @@ img {
 
 .article__backlinks {
   border-top: var(--border-sm) dashed var(--base-color);
-  border-bottom: var(--border-sm) dashed var(--base-color);
   margin-top: var(--size-xl); }
 
 @media (min-width: 769px) {
