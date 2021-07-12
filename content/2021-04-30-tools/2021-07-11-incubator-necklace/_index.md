@@ -9,7 +9,7 @@ Wear this necklace for 3 weeks and incubate edible mushrooms with the heat of yo
 
 This incubator necklace is a playful invitation to observe and understand the collaboration with natural processes. The glass petri dish contains fungus spores and those spores need constant humidity and temperature to develop. So if you wear the necklace for 3 weeks in a row, the roots of the mushrooms will grow and when the necklace has turned white, mini edible mushrooms will grow in the bright spot where you will have left the necklace.
 
-# Fabrication:
+# Fabrication
 
 ![](body-incub07.JPG)
 
@@ -24,7 +24,7 @@ The source file is available on [GitHub](https://github.com/domingoclub/incubato
 Then, we inoculated mushroom spawn/mycelium into fresh coffee grounds and sealed the petri dish with a strip of paraffin film.
 
 
-# Instructions:
+# Instructions
 
 - Wear the necklace against your skin, under your t-shirt.
 - When the necklace is not being worn, it is recommended to store it in a dark place with a room temperature between 20°C and 27°C.
