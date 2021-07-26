@@ -53,3 +53,10 @@
     display: none;
   }
 }
+
+.article a.external {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  text-decoration: underline;
+}

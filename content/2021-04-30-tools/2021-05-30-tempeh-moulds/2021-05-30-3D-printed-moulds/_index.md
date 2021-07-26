@@ -43,7 +43,7 @@ We therefore use the principles of distributed design and decentralized manufact
 - the zigzag tempeh mould v1 (stl file and freeCAD file)
 - the round stackable tempeh mould v1 (stl and freeCAD file)
 
-available on [github](https://github.com/domingoclub/tempeh-moulds) and [wikifactory](https://wikifactory.com/@domingoclub/tempeh-moulds)
+available on [github](https://github.com/domingoclub/tempeh-moulds) and [wikifactory](https://wikifactory.com/@domingoclub/tempeh-molds)
 
 
 ## Here are some instructions you have to pay attention if you wish to 3D print our mould yourself:

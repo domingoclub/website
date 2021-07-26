@@ -699,6 +699,12 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .article.index .article__backlinks {
   display: none; }
 
+.article a.external {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  text-decoration: underline; }
+
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
   .sender-subs-embeded-form form {
@@ -714,7 +720,7 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   border-radius: var(--size-md) !important;
   padding: var(--size-xl) !important; }
 
-#news.article > .article__toc, #news.article > footer {
+.article#news > .article__toc, .article#news > footer {
   display: none; }
 
 :root {
