@@ -40,3 +40,6 @@ First attempt at making a silicone mould for tempeh production. We used a mini-m
 
 <video><source src="IMG_8211.mp4"></video>
 
+## Demoulding
+
+<video><source src="IMG_8223.mp4"></video>
