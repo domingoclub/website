@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 26 Jul 2021 18:14:48 +0000</lastBuildDate><item><title>Incubator v0.3</title><link>https://domingoclub.com/incubator-v0-3.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are currently designing and fabricating the new version of our incubator. The documentation will come.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>MakersXchange</title><link>https://domingoclub.com/2021-07-15.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Back to the post office today, but this time bound for Amsterdam.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 30 Jul 2021 16:56:53 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
+&lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
+&lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Documentation page for the fabrication of our silicone tempeh moulds. These silicone moulds are supposed to be an improved version of our &lt;a href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;. They use the same model but are first moulded in a block of wax and then cast in food grade silicone. This would allow us to increase our production speed while guaranteeing high quality.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds 01</title><link>https://domingoclub.com/silicon-mouds-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_4802.jpg"/&gt;
+&lt;img alt="" src="IMG_4807.jpg"/&gt;
+&lt;img alt="" src="IMG_4808.jpg"/&gt;
+&lt;img alt="" src="IMG_4812.jpg"/&gt;
+&lt;img alt="" src="IMG_4815.jpg"/&gt;
+&lt;img alt="" src="IMG_4821.jpg"/&gt;
+&lt;img alt="" src="IMG_4824.jpg"/&gt;
+&lt;img alt="" src="IMG_4811.jpg"/&gt;
+&lt;img alt="" src="IMG_4857.jpg"/&gt;&lt;/p&gt;
+&lt;video&gt;&lt;source src="IMG_8211.mp4"/&gt;&lt;/video&gt;
+&lt;video&gt;&lt;source src="IMG_8257.mp4"/&gt;&lt;/video&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Wed, 21 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.3</title><link>https://domingoclub.com/incubator-v0-3.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are currently designing and fabricating version 0.3 of our incubator. The documentation is in progress.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>MakersXchange</title><link>https://domingoclub.com/2021-07-15.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Back to the post office today, but this time bound for Amsterdam.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="shipped-moulds02.JPG"/&gt;
 &lt;img alt="" src="shipped-moulds01.JPG"/&gt;&lt;/p&gt;
 &lt;p&gt;Indeed, in the context of the &lt;a href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we are teaming up with Valentina from &lt;a href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh-moulds&lt;/a&gt;.&lt;/p&gt;

@@ -332,7 +332,7 @@ img {
 
 .article__content {
   margin-top: var(--size-md); }
-  .article__content > *:not(.lg):not(pre):not(.embed-container) {
+  .article__content > *:not(.lg):not(pre):not(.embed-container):not(video) {
     max-width: var(--content-max-width); }
 
 .article .index {
@@ -410,7 +410,7 @@ img {
   padding: var(--size-xs); }
 
 .ts video {
-  max-width: 100%;
+  max-width: auto;
   width: 100%;
   display: block; }
 
@@ -680,11 +680,13 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   border-top-style: dashed; }
 
 .article figure img,
+.article video,
 .article .embed-container {
   width: calc(100% + var(--size-xl)*4);
   margin-left: calc(-1 * var(--size-xl)*2); }
   @media (max-width: 767px) {
     .article figure img,
+    .article video,
     .article .embed-container {
       width: calc(100% + var(--size-xl)*2);
       margin-left: calc(-1 * var(--size-xl)); } }

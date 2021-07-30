@@ -29,6 +29,7 @@
 }
 
 .article figure img,
+.article video,
 .article .embed-container {
   width: calc(100% + var(--size-xl)*4);
   margin-left: calc(-1 * var(--size-xl)*2);
@@ -37,6 +38,7 @@
     margin-left: calc(-1 * var(--size-xl));
   }
 }
+
 
 .article .embed-container {
   max-width: none;
