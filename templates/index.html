@@ -6,5 +6,18 @@
   </section>
 </article>
 
+<section class="index index--grid">
+  <h1 class="index__title">Selected content</h2>
+  <ul class="index__grid">
+    {% for article in articles|reverse if articles[article]['featured'] and not articles[article]['draft'] %}
+      {% set slug = articles[article]['slug'] %}
+      <li class="index__item">
+        {% set article = articles[slug] %}
+        {% include 'components/index_grid_item_content.html' %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
 
 {% endblock %}

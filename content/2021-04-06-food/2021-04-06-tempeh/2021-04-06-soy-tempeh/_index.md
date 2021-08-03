@@ -1,6 +1,8 @@
 ---
 title: Soy tempeh
-featured_image: tempeh-rect.jpg
+featured: True
+featured_image: tempeh-cooked-02.jpg
+featured_desc: How to make tempeh in a few steps
 ---
 
 # What is it?

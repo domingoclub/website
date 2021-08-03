@@ -1,6 +1,10 @@
 ---
 title: Silicon moulds 01
 last_update: 2021-07-30
+featured: True
+featured_image: IMG_4807.jpg
+featured_desc: First attempt at making a silicone mould for tempeh production
+tags: tempeh
 ---
 
 First attempt at making a silicone mould for tempeh production. We used a mini-milling machine to mill our design into a block of wax, then poured food grade silicone into it to produce the desired silicone tempeh mould.
