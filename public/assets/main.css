@@ -308,6 +308,15 @@ img {
 .index--featured .item__excerpt {
   margin-top: var(--size-sm); }
 
+@media (min-width: 1025px) {
+  .index__grid {
+    display: grid; } }
+
+.index__grid .index__item,
+.index__grid .index__link {
+  display: block;
+  width: 100%; }
+
 .index--tags .index__list {
   display: flex;
   flex-wrap: wrap; }
