@@ -2,7 +2,7 @@
 title: From One to Many
 ---
 
-Last month we participated in [WikiFactory](https://wikifactory.com/)'s #FromOneToMany challenge and they just announced that we won the functionality prize with our [[tempeh-moulds]], woop woop!
+Last month we participated in [WikiFactory](https://wikifactory.com/)'s #FromOneToMany challenge and they just announced that we won the functionality prize with our [tempeh moulds](tempeh-moulds.html), woop woop!
 
 ![](compilation.png)
 

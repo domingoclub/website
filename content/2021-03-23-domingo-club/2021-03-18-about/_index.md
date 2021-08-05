@@ -4,12 +4,12 @@ title: About the Domingo Club
 
 Domingo Club is an initiative by [Maud Bausier](https://maudbausier.com/) and [Antoine Jaunard](https://antoine.studio/), a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.
 
-We make fermented [[food]], open-source [[tools]] and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
+We make fermented [food](food.html), open-source [tools](tools.html) and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
 
 Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
 
 !!! notes "What's in the making?"
-    Want to know what we are doing now? Visit our [[now]] page.
+    Want to know what we are doing now? Visit our [now](now.html) page.
 
 ![Toni & Maudi, Barcelona, 2021](gif-duo.gif)
 
@@ -46,4 +46,4 @@ In the meantime, we already use our first incubator prototype to make delicious 
 
 Email us at [hola@domingoclub.com](mailto:hola@domingoclub.com) if you would like to discuss any of these topics with us. We speak English, Spanish and French.
 
-To be notified of our future news, you can subscribe to our [[newsletter]] and follow us on [Instagram](https://instagram.com/domingoclub).
+To be notified of our future news, you can subscribe to our [newsletter](newsletter.html) and follow us on [Instagram](https://instagram.com/domingoclub).
