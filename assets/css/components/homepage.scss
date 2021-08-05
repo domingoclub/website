@@ -46,6 +46,9 @@
     color: var(--body-color);
     background-color: transparent;
     border: var(--border-md) solid var(--body-color);
+    @include media('<sm') {
+      border-width: var(--border-sm);
+    }
     display: inline-block;
     &:hover {
       transform: rotate(-6deg);
