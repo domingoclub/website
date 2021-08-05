@@ -1,42 +1,63 @@
+.page--homepage header {
+  position: fixed;
+}
 .intro {
-  width: 760px;
-  max-width: 100%;
+  width: 100%;
+  min-height: 85vh;
+  display: flex;
+  background-image: url('images/incubator.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 75%;
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    background-color: var(--base-color);
+    // opacity: .2;
+    opacity: 0;
+  }
+  section {
+    position: relative;
+    color: var(--body-color);
+    width: 100%;
+    max-width: 980px;
+    margin-top: auto;
+    margin-bottom: var(--size-xxl);
+  }
   p {
     margin-bottom: .5em;
     & + p {
       margin-top: 0;
     }
     span {
-      background-color: var(--body-color);
       line-height: 1.35;
       a {
         position: relative;
       }
     }
   }
-  section {
-    --base-color: #20a56b;
-    color: var(--base-color);
-    
-  }
   .button {
     color: var(--body-color);
-    background-color: var(--base-color);
+    background-color: transparent;
     border: var(--border-md) solid var(--body-color);
+    display: inline-block;
     &:hover {
-      background-color: var(--action-color);
+      transform: rotate(-6deg);
     }
   }
 }
 
-.page--homepage .main {
+.page--homepage footer {
+  margin-top: var(--size-xxl);
+  min-height: 100vh;
   background-image: url('images/drawing-house.png');
-  background-size: auto 110%;
   background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
-  background-size: auto 110%;
-  @include media('<md') {
-    background-position: 50%;
+  background-size: auto 100%;
+  background-position: right bottom;
+  display: flex;
+  p {
+    margin-top: auto;
   }
 }

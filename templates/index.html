@@ -2,16 +2,16 @@
 
 <article class="intro ts">
   <section>
-    <p><span><a href="about.html" class="button">Domingo Club</a> makes fermented <a href="food.html" class="button">food</a>, open-source <a href="tools.html" class="button">tools</a> and explores collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system. <a href="join.html" class="button">Join the club!</a></span></p>
+    <p><span><a href="about.html" class="button">Domingo Club</a> makes fermented <a href="food.html" class="button">food</a>, open-source <a href="tools.html" class="button">tools</a> and explores collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system. <a href="join.html" class="button">Join&nbsp;the&nbsp;club&nbsp;✿</a></span></p>
   </section>
 </article>
 
 <section class="index index--grid">
   <h1 class="index__title">Selected content</h2>
-  <ul class="index__grid">
+  <ul class="grid">
     {% for article in articles|reverse if articles[article]['featured'] and not articles[article]['draft'] %}
       {% set slug = articles[article]['slug'] %}
-      <li class="index__item">
+      <li class="grid__item">
         {% set article = articles[slug] %}
         {% include 'components/index_grid_item_content.html' %}
       </li>

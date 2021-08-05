@@ -6,3 +6,12 @@
 .index--list .index__item {
   margin-top: var(--size-xxs);
 }
+
+.index--grid {
+  .grid__item {
+    background-color: var(--body-color);
+  }
+  .item__link:hover {
+    transform: rotate(-2deg);
+  }
+}

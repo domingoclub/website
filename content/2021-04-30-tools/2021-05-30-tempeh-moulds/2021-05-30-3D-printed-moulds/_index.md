@@ -3,7 +3,7 @@ title: 3D printed moulds
 last_update: 2021-07-02
 featured: True
 featured_image: tempeh-mould-rect-00.jpg
-featured_desc: A 3D printed tempeh mould that uses the power of distributed design and decentralised manufacturing to bring plant-based protein to everyone's plate
+featured_desc: A 3D printed tempeh mould that aims to reduce the consumption of single-use plastics 
 ---
 
 ![Domingo Club 3D printed mould with tempeh preparation before incubation](tempeh-mould-rect-00.jpg)

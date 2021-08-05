@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 03 Aug 2021 17:39:06 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 05 Aug 2021 13:09:59 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
 &lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;Documentation page for the fabrication of our silicone tempeh moulds. These silicone moulds are supposed to be an improved version of our &lt;a href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;. They use the same model but are first moulded in a block of wax and then cast in food grade silicone. This would allow us to increase our production speed while guaranteeing high quality.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds 01</title><link>https://domingoclub.com/silicon-mouds-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;First attempt at making a silicone mould for tempeh production. We used a mini-milling machine to mill our design into a block of wax, then poured food grade silicone into it to produce the desired silicone tempeh mould.&lt;/p&gt;
+&lt;p&gt;Documentation page for the fabrication of our silicone tempeh moulds. These silicone moulds are supposed to be an improved version of our &lt;a href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;. They use the same model but are first moulded in a block of wax and then cast in food grade silicone. This would allow us to increase our production speed while guaranteeing high quality.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds 01</title><link>https://domingoclub.com/silicon-mouds-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_4807.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;First attempt at making a silicone mould for tempeh production. We used a mini-milling machine to mill our design into a block of wax, then poured food grade silicone into it to produce the desired silicone tempeh mould.&lt;/p&gt;
 &lt;h1 id="good-points"&gt;Good points&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;The result is very promising, we really like it!&lt;/li&gt;
@@ -16,8 +17,7 @@
 &lt;li&gt;The container mould was difficult to peel off, we need to find a trick in our design to make this step easier&lt;/li&gt;
 &lt;li&gt;The overall result is a bit sticky, maybe the mixing wasn't done properly (ratio 1/1)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" src="IMG_4807.jpg"/&gt;
-&lt;img alt="" src="IMG_4802.jpg"/&gt;
+&lt;p&gt;&lt;img alt="" src="IMG_4802.jpg"/&gt;
 &lt;img alt="" src="IMG_4808.jpg"/&gt;
 &lt;img alt="" src="IMG_4812.jpg"/&gt;
 &lt;img alt="" src="IMG_4815.jpg"/&gt;

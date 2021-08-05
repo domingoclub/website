@@ -19,7 +19,8 @@
   border-top-style: dashed;
 }
 
-.article__parent {
+.article__parent,
+.article__tags {
   @extend %ts-small;
   @extend %ts-link-alt;
 }

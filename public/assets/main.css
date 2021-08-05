@@ -101,14 +101,16 @@ textarea {
   padding-right: var(--size-xl); }
 
 .ts code, .ts em strong,
-.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .article__backlinks, .article__parent, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
+.ts strong em, .ts strong, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .grid .item__title, .ts h1, .article__title, .intro p, .index--grid .index__title, .index__title, .ts .todo, .ts em, .ts blockquote p, body, .article__backlinks, .article__parent,
+.article__tags, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
 label.sender-form-label, .index:not(.index--featured) .index__item--sub .index__link, .ts h4, .ts h5, .ts h6 {
   font-style: normal;
   font-weight: normal;
   line-height: 1.6; }
 
-body, .article__backlinks, .article__parent, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
+body, .article__backlinks, .article__parent,
+.article__tags, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p, .sender-form,
 label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__item--sub .index__link, .index:not(.index--featured) .index__link, .ts h4, .ts h5, .ts h6 {
   font-family: var(--font-body); }
@@ -116,7 +118,7 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
 .ts .todo, .ts em, .ts blockquote p {
   font-family: var(--font-body-italic); }
 
-.ts strong, .ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1, .article__title, .intro p, .index__title {
+.ts strong, .ts blockquote p, .admonition .admonition-title, .toc__title--sub, .article .index__title, .ts table th, .ts h3, .index:not(.index--featured) .index__link, .ts h2, .sender-form-title p, .toc__title, .article--sub .article__title, .grid .item__title, .ts h1, .article__title, .intro p, .index--grid .index__title, .index__title {
   font-family: var(--font-body-bold); }
 
 .ts em strong,
@@ -134,13 +136,13 @@ a {
   a.external:after {
     content: " ↗"; }
 
-.article__title, .intro p, .index__title {
+.article__title, .intro p, .index--grid .index__title, .index__title {
   font-size: var(--size-xxl);
   line-height: 1.2; }
   @media (max-width: 569px) {
-    .article__title, .intro p, .index__title {
+    .article__title, .intro p, .index--grid .index__title, .index__title {
       font-size: calc(var(--size-xxl)/4*3); } }
-.sender-form-title p, .toc__title, .article--sub .article__title, .index--featured .item__title, .ts h1 {
+.sender-form-title p, .toc__title, .article--sub .article__title, .grid .item__title, .ts h1 {
   font-size: var(--size-xl); }
 
 .index:not(.index--featured) .index__link, .ts h2 {
@@ -156,7 +158,8 @@ a {
 label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__item--sub .index__link {
   font-size: var(--size-md); }
 
-.article__backlinks, .article__parent, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
+.article__backlinks, .article__parent,
+.article__tags, .index--grid .index__list figcaption, .article figure figcaption, .article__toc, .index--list .index__tags,
 .index--list .index__update, .ts blockquote blockquote p {
   font-size: var(--size-sm); }
 
@@ -288,34 +291,42 @@ img {
   display: inline-block;
   margin-bottom: var(--size-xxs); }
 
-.index--featured .index__item:not(:last-child) {
-  margin-bottom: var(--size-xxl); }
+.index--grid .index__title {
+  margin-bottom: var(--size-xl); }
 
-.index--featured .index__link {
-  display: block;
-  background-color: var(--body-color);
-  color: var(--base-color); }
-  .index--featured .index__link > *:not(img) {
-    max-width: var(--content-max-width); }
-  .index--featured .index__link .item__title {
-    display: table; }
-
-.index--featured .item__image {
-  max-width: 100%;
-  max-height: 90vh;
-  margin-bottom: var(--size-sm); }
-
-.index--featured .item__excerpt {
-  margin-top: var(--size-sm); }
-
-@media (min-width: 1025px) {
-  .index__grid {
-    display: grid; } }
-
-.index__grid .index__item,
-.index__grid .index__link {
-  display: block;
-  width: 100%; }
+.grid {
+  list-style: none;
+  display: grid;
+  grid-gap: var(--size-xl); }
+  @media (min-width: 769px) {
+    .grid {
+      grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1441px) {
+    .grid {
+      grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 1921px) {
+    .grid {
+      grid-template-columns: repeat(4, 1fr); } }
+  .grid .item__link {
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    padding: 0; }
+    .grid .item__link:hover {
+      background: none;
+      opacity: .75; }
+  .grid .item__img {
+    display: block;
+    width: 100%;
+    border-radius: var(--size-md); }
+  .grid .item__title {
+    display: block;
+    margin-top: var(--size-xs); }
+  .grid .item__desc {
+    margin-top: var(--size-xs); }
+    .grid .item__desc:before {
+      content: "↪ "; }
 
 .index--tags .index__list {
   display: flex;
@@ -574,15 +585,16 @@ a {
   a.external:after {
     content: "\00a0↗"; }
 
-footer a, .article__backlinks a, .article__parent a {
+footer a, .article__backlinks a, .article__parent a,
+.article__tags a {
   padding: 0;
   border: none;
   text-decoration: underline; }
 
-.ts code, .index__title, .intro p, .article__title,
+.ts code, .index__title, .index--grid .index__title, .intro p, .article__title,
 .sender-form-title p,
 .ts h1,
-.index--featured .item__title,
+.grid .item__title,
 .article--sub .article__title,
 .toc__title,
 .ts h2,
@@ -595,7 +607,8 @@ footer a, .article__backlinks a, .article__parent a {
 .ts h4,
 .ts h5,
 .ts h6, .sender-form,
-label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p, .ts em, .ts strong, .ts em strong,
+label.sender-form-label, .article__backlinks, .article__parent,
+.article__tags, .ts blockquote p, .ts em, .ts strong, .ts em strong,
 .ts strong em, .ts .todo, body {
   font-style: normal;
   font-weight: normal;
@@ -603,10 +616,10 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
   line-height: 1.4;
   word-spacing: 0; }
 
-.index__title, .intro p, .article__title,
+.index__title, .index--grid .index__title, .intro p, .article__title,
 .sender-form-title p,
 .ts h1,
-.index--featured .item__title,
+.grid .item__title,
 .article--sub .article__title,
 .toc__title,
 .ts h2,
@@ -634,43 +647,72 @@ label.sender-form-label, .article__backlinks, .article__parent, .ts blockquote p
 .ts blockquote {
   border-left: calc(var(--border-sm)*3) dotted var(--base-color); }
 
+.page--homepage header {
+  position: fixed; }
+
 .intro {
-  width: 760px;
-  max-width: 100%; }
+  width: 100%;
+  min-height: 85vh;
+  display: flex;
+  background-image: url("images/incubator.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0% 75%;
+  position: relative; }
+  .intro:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--base-color);
+    opacity: 0; }
+  .intro section {
+    position: relative;
+    color: var(--body-color);
+    width: 100%;
+    max-width: 980px;
+    margin-top: auto;
+    margin-bottom: var(--size-xxl); }
   .intro p {
     margin-bottom: .5em; }
     .intro p + p {
       margin-top: 0; }
     .intro p span {
-      background-color: var(--body-color);
       line-height: 1.35; }
       .intro p span a {
         position: relative; }
-  .intro section {
-    --base-color: #20a56b;
-    color: var(--base-color); }
   .intro .button {
     color: var(--body-color);
-    background-color: var(--base-color);
-    border: var(--border-md) solid var(--body-color); }
+    background-color: transparent;
+    border: var(--border-md) solid var(--body-color);
+    display: inline-block; }
     .intro .button:hover {
-      background-color: var(--action-color); }
+      transform: rotate(-6deg); }
 
-.page--homepage .main {
+.page--homepage footer {
+  margin-top: var(--size-xxl);
+  min-height: 100vh;
   background-image: url("images/drawing-house.png");
-  background-size: auto 110%;
   background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
-  background-size: auto 110%; }
-  @media (max-width: 1023px) {
-    .page--homepage .main {
-      background-position: 50%; } }
+  background-size: auto 100%;
+  background-position: right bottom;
+  display: flex; }
+  .page--homepage footer p {
+    margin-top: auto; }
+
 .index:not(.index--featured) .index__link {
   font-family: var(--font-body) !important; }
 
 .index--list .index__item {
   margin-top: var(--size-xxs); }
+
+.index--grid .grid__item {
+  background-color: var(--body-color); }
+
+.index--grid .item__link:hover {
+  transform: rotate(-2deg); }
 
 .article:not(.index) {
   margin: var(--size-xl) auto;
@@ -753,9 +795,9 @@ html {
     html {
       font-size: 15px; } }
 .ts blockquote p, .ts em, .ts strong, .ts em strong,
-.ts strong em, .ts .todo, body, .index__title, .intro p, .article__title,
+.ts strong em, .ts .todo, body, .index__title, .index--grid .index__title, .intro p, .article__title,
 .ts h1,
-.index--featured .item__title,
+.grid .item__title,
 .article--sub .article__title,
 .toc__title,
 .ts h2,

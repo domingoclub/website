@@ -2,7 +2,7 @@
 title: Soy tempeh
 featured: True
 featured_image: tempeh-cooked-02.jpg
-featured_desc: How to make tempeh in a few steps
+featured_desc: Let us show you how to make tempeh in a few steps
 ---
 
 # What is it?
