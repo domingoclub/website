@@ -694,7 +694,7 @@ label.sender-form-label, .article__backlinks, .article__parent,
     display: inline-block; }
     @media (max-width: 767px) {
       .intro .button {
-        border-width: var(--border-sm); } }
+        border-width: var(--border-md); } }
     .intro .button:hover {
       transform: rotate(-6deg); }
 

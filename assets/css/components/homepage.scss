@@ -47,7 +47,7 @@
     background-color: transparent;
     border: var(--border-md) solid var(--body-color);
     @include media('<sm') {
-      border-width: var(--border-sm);
+      border-width: var(--border-md);
     }
     display: inline-block;
     &:hover {
