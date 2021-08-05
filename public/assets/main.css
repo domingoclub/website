@@ -684,7 +684,7 @@ label.sender-form-label, .article__backlinks, .article__parent,
       line-height: 1.35; }
       @media (max-width: 767px) {
         .intro p span {
-          font-size: var(--size-lg); } }
+          font-size: var(--size-xl); } }
       .intro p span a {
         position: relative; }
   .intro .button {

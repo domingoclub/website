@@ -35,7 +35,7 @@
     span {
       line-height: 1.35;
       @include media('<sm') {
-        font-size: var(--size-lg);
+        font-size: var(--size-xl);
       }
       a {
         position: relative;
