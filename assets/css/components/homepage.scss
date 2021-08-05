@@ -10,6 +10,7 @@
   background-size: cover;
   background-position: 0% 75%;
   position: relative;
+  padding-top: calc(var(--size-xxl)*2);
   &:before {
     content: "";
     position: absolute;
@@ -33,6 +34,9 @@
     }
     span {
       line-height: 1.35;
+      @include media('<sm') {
+        font-size: var(--size-lg);
+      }
       a {
         position: relative;
       }
@@ -56,6 +60,11 @@
   background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: right bottom;
+  @include media('<sm') {
+    min-height: 80vh;
+    background-size: contain;
+    background-position: center;
+  }
   display: flex;
   p {
     margin-top: auto;
