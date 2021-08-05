@@ -7,6 +7,17 @@ featured_desc: Wear this necklace for 3 weeks and incubate edible mushrooms with
 
 Wear this necklace for 3 weeks and incubate edible mushrooms with the heat of your body. If you take well care of your micro pet, you may harvest some!
 
+<!-- <button class="snipcart-add-item"
+  data-item-id="incubator-necklace"
+  data-item-price="26.00"
+  data-item-url="/incubator-necklace.html"
+  data-item-description="Wear this necklace for 3 weeks and incubate edible mushrooms with the heat of your body. If you take well care of your micro pet, you may harvest some!"
+  data-item-image="medias/incubator-necklace-body-incub03.JPG"
+  data-item-name="Incubator Necklace">
+  Add to cart
+</button> -->
+
+
 ![](body-incub01.JPG)
 ![](body-incub03.JPG)
 

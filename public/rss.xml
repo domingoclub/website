@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 05 Aug 2021 15:50:22 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 05 Aug 2021 17:09:37 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
 &lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
 &lt;/div&gt;
@@ -45,6 +45,15 @@
 &lt;/div&gt;
 &lt;p&gt;She will test our moulds and give us feedback, we will then co-design the next version and finally, we will support her to 3D print the new version in a local makerspace in order to test the distributed design and decentralised fabrication side of the project. We'll keep you posted!&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="screenshot-HGHL.png"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Incubator Necklace</title><link>https://domingoclub.com/incubator-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Wear this necklace for 3 weeks and incubate edible mushrooms with the heat of your body. If you take well care of your micro pet, you may harvest some!&lt;/p&gt;
+&lt;!-- &lt;button class="snipcart-add-item"
+  data-item-id="incubator-necklace"
+  data-item-price="26.00"
+  data-item-url="/incubator-necklace.html"
+  data-item-description="Wear this necklace for 3 weeks and incubate edible mushrooms with the heat of your body. If you take well care of your micro pet, you may harvest some!"
+  data-item-image="medias/incubator-necklace-body-incub03.JPG"
+  data-item-name="Incubator Necklace"&gt;
+  Add to cart
+&lt;/button&gt; --&gt;
 &lt;p&gt;&lt;img alt="" src="body-incub01.JPG"/&gt;
 &lt;img alt="" src="body-incub03.JPG"/&gt;&lt;/p&gt;
 &lt;p&gt;This incubator necklace is a playful invitation to observe and understand the collaboration with natural processes. The glass petri dish contains fungus spores and those spores need constant humidity and temperature to develop. So if you wear the necklace for 3 weeks in a row, the roots of the mushrooms will grow and when the necklace has turned white, mini edible mushrooms will grow in the bright spot where you will have left the necklace.&lt;/p&gt;
@@ -58,8 +67,7 @@
 &lt;h1 id="instructions"&gt;Instructions&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Wear the necklace against your skin, under your t-shirt.&lt;/li&gt;
-&lt;li&gt;When the necklace is not being worn, it is recommended to store it in a dark place with a room temperature between 20°C and 27°C.&lt;/li&gt;
-&lt;li&gt;When the roots of the mushroom have fully developed and the content of glass petri dish has turned white (within 20-30 days), you can take the glass petri dish out of the necklace, remove the strip of paraffin film from around it and place the petri dish in a bright place out of direct sunlight. The petri di...</description><pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Bingo Escabelle</title><link>https://domingoclub.com/2021-07-11.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We sent a prototype version of our Incubator Necklace to &lt;a class="external" href="https://www.see-u.brussels/"&gt;See U Brussels&lt;/a&gt; in the context of their &lt;em&gt;Bingo Escabelle&lt;/em&gt; which took place on Sunday 11th July.&lt;/p&gt;
+...</description><pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Bingo Escabelle</title><link>https://domingoclub.com/2021-07-11.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We sent a prototype version of our Incubator Necklace to &lt;a class="external" href="https://www.see-u.brussels/"&gt;See U Brussels&lt;/a&gt; in the context of their &lt;em&gt;Bingo Escabelle&lt;/em&gt; which took place on Sunday 11th July.&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;What is an Incubator Necklace?&lt;/p&gt;
 &lt;p&gt;Our incubator necklace is a playful invitation to observe and understand the collaboration with natural processes. Visit the &lt;a class="internal" href="incubator-necklace.html"&gt;incubator necklace&lt;/a&gt; page to discover it.&lt;/p&gt;

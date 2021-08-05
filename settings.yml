@@ -11,3 +11,10 @@ navigation:
   "Journal": "journal"
   "About": "about"
   "Join the club ✿" : "join"
+shop:
+  isActive: True
+  header: '<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />'
+  menu: '<button class="snipcart-checkout"></span> Cart (<span class="snipcart-items-count"></span>)</button>'
+  footer: '<script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
+<div id="snipcart" data-config-modal-style="side" data-api-key="YTVkZTgyMmUtOWJjZi00YmYyLWFjNzctOWExZGQ1NWIwNjU5NjM3NjM3NzU3Nzk5MDQxNzM3" hidden></div>'
+
