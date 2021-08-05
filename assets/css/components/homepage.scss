@@ -44,11 +44,8 @@
   }
   .button {
     color: var(--body-color);
-    background-color: transparent;
+    background-color: #20a56b;
     border: var(--border-md) solid var(--body-color);
-    @include media('<sm') {
-      border-width: var(--border-md);
-    }
     display: inline-block;
     &:hover {
       transform: rotate(-6deg);

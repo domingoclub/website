@@ -689,12 +689,9 @@ label.sender-form-label, .article__backlinks, .article__parent,
         position: relative; }
   .intro .button {
     color: var(--body-color);
-    background-color: transparent;
+    background-color: #20a56b;
     border: var(--border-md) solid var(--body-color);
     display: inline-block; }
-    @media (max-width: 767px) {
-      .intro .button {
-        border-width: var(--border-md); } }
     .intro .button:hover {
       transform: rotate(-6deg); }
 
