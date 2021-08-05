@@ -4,7 +4,7 @@
   background-color: var(--body-color);
   border: var(--border-sm) solid var(--base-color);
   padding: calc(var(--size-xxs)/2) var(--size-xxs);
-  border-radius: var(--size-xs);
+  border-radius: var(--size-sm);
   &:hover {
     color: var(--base-color);
     text-decoration: none;
