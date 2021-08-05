@@ -1,5 +1,6 @@
 .page--homepage header {
   position: fixed;
+  .nav__link {border: none;}
 }
 .intro {
   width: 100%;
@@ -16,14 +17,14 @@
     position: absolute;
     top: 0; right: 0; bottom: 0; left: 0;
     background-color: var(--base-color);
-    // opacity: .2;
+    opacity: .2;
     opacity: 0;
   }
   section {
     position: relative;
     color: var(--body-color);
     width: 100%;
-    max-width: 980px;
+    max-width: 900px;
     margin-top: auto;
     margin-bottom: var(--size-xxl);
   }
@@ -33,7 +34,7 @@
       margin-top: 0;
     }
     span {
-      line-height: 1.35;
+      line-height: 1.2;
       @include media('<sm') {
         font-size: var(--size-xl);
       }
@@ -45,10 +46,10 @@
   .button {
     color: var(--body-color);
     background-color: #20a56b;
-    border: var(--border-md) solid var(--body-color);
+    border: none;
     display: inline-block;
     &:hover {
-      transform: rotate(-6deg);
+      background-color:var(--base-color);
     }
   }
 }
