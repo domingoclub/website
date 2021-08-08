@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% set page_class = 'homepage' %} {% block content %}
+
+<article class="intro ts">
+  <section>
+    <p><span><a href="about.html" class="button">Domingo Club</a> makes fermented <a href="food.html" class="button">food</a>, open-source <a href="tools.html" class="button">tools</a> and explores collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system</span></p>
+  </section>
+</article>
+
+<section class="index index--grid">
+  <h1 class="index__title">Selected content</h2>
+  <ul class="grid">
+    {% for article in articles|reverse if articles[article]['featured'] and not articles[article]['draft'] %}
+      {% set slug = articles[article]['slug'] %}
+      <li class="grid__item">
+        {% set article = articles[slug] %}
+        {% include 'components/index_grid_item_content.html' %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+
+{% endblock %}
