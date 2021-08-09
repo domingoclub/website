@@ -2,7 +2,7 @@
 title: Talk at FAB16 "Fabricating the commons"
 ---
 
-This morning we had the chance to present our open-source incubator at the [Fab16](https://fab16.org/) event! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.
+This morning we had the chance to present our open-source incubator at the [Fab16](https://fab16.org/), the worldwide event of the Fablab network! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.
 
 ![](fab16-slides-02_4.png)
 
