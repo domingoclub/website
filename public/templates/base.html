@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset=utf-8>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title property="schema:name">{{ settings.title }} - {{ settings.description }}</title>
+    <meta name="description" content="{{ settings.description }}">
+    <meta property="schema:name" content="{{ settings.title }}">
+    <meta property="schema:description" content="{{ settings.description }}">
+    <link rel="stylesheet" href="assets/main.min.css">
+  </head>
+
+  <body class="page page--{{ page_class }}">
+    <main class="main">
+      <header class="header">
+        <nav class="nav">
+          <ul class="nav__list">
+            {% for item in settings.navigation %}
+            <li class="nav__item">
+              <a href="{{ settings.navigation[item] }}.html" class="nav__link">{{ item }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
+      <!-- content -->
+      {% block content %}{% endblock %}
+      <!-- /content -->
+      <footer class="footer">
+        {{ settings.footer }}
+      </footer>
+    </main>
+  </body>
+</html>

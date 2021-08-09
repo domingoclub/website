@@ -1,8 +1,8 @@
 ---
 title: Links
-last_update: 2021-08-06
+last_update: 2021-05-19
 ---
-
+- Join us on [zoom](https://us02web.zoom.us/j/85990176282?pwd=enZrR2ZRYWtETFRFaVVuZTN6ZVdGdz09#success) for our online presentation at [FAB16](https://fab16.org/). *(Meeting ID: 859 9017 6282, Passcode: 513377)*
 - First attempt at making a [silicone mould](silicon-mouds-01.html) for tempeh
 - The prototype version of our [Incubator Necklace](incubator-necklace.html)
 - [Now ☼](now.html)
