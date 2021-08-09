@@ -298,13 +298,13 @@ img {
   list-style: none;
   display: grid;
   grid-gap: var(--size-xl); }
-  @media (min-width: 769px) {
+  @media (min-width: 768px) {
     .grid {
       grid-template-columns: repeat(2, 1fr); } }
-  @media (min-width: 1441px) {
+  @media (min-width: 1024px) {
     .grid {
       grid-template-columns: repeat(3, 1fr); } }
-  @media (min-width: 1921px) {
+  @media (min-width: 1440px) {
     .grid {
       grid-template-columns: repeat(4, 1fr); } }
   .grid .item__link {

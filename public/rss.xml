@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 06 Aug 2021 15:20:10 +0000</lastBuildDate><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 09 Aug 2021 10:13:29 +0000</lastBuildDate><item><title>Talk at FAB16 "Fabricating the commons"</title><link>https://domingoclub.com/2021-08-09.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This morning we had the chance to present our open-source incubator at the &lt;a class="external" href="https://fab16.org/"&gt;Fab16&lt;/a&gt; event! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="fab16-slides-02_4.png"/&gt;&lt;/p&gt;
+&lt;p&gt;We covered topics such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fermentation as a process of partnering with microorganisms&lt;/li&gt;
+&lt;li&gt;plant-based proteins as an effective solution for reducing greenhouse gas emissions&lt;/li&gt;
+&lt;li&gt;how to make tempeh&lt;/li&gt;
+&lt;li&gt;why we make open source tools&lt;/li&gt;
+&lt;li&gt;how to leverage the principles of distributed design and decentralised manufacturing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" src="fab16-slides-02_1.png"/&gt;&lt;/p&gt;
+&lt;p&gt;Thank you all for coming and we hope to share the recording soon for those interested who missed it :-)&lt;/p&gt;
+&lt;div class="admonition notes"&gt;
+&lt;p class="admonition-title"&gt;FAB16 event&lt;/p&gt;&lt;p&gt;FAB16 brings together members of the international Fab Lab network, as well as government officials, academic researchers, and experts in the field of digital fabrication, to present, envision, discuss, and build community around digital fabrication, technology, and innovation. This year, FAB16 and Fab City Summit will all be hosted online, with FAB16 Hubs creating events for their communities to join the online programming and local programming of their own. &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img alt="" src="fab16-slides-02_2.png"/&gt;
+&lt;img alt="" src="fab16-slides-02_3.png"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
 &lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
 &lt;/div&gt;
