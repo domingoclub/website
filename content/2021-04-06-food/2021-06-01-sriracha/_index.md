@@ -44,7 +44,7 @@ Sriracha sauce is a type of fermented hot sauce originated from Thailand made fr
     The vinegar is needed in the second step of the recipe, when the fermentation is done. The vinegar will help to preserve the sauce over time. If you add the vinegar now, you'll damage the fermentation process of the sauce.
 
 ![the blended mixture](sriracha-03.jpg)
-![Let ferment](sriracha-04.jpg)
+![Let ferment!](sriracha-04.jpg)
 
 - Put the paste in your clean jar and cover the jar with a clean piece of cloth and a rubber band
 
