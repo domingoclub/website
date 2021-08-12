@@ -2,6 +2,8 @@
 title: Links
 last_update: 2021-05-19
 ---
+
+- Check out our [sriracha recipe](sriracha.html)
 - [Now ☼](now.html)
 - First attempt at making a [silicone mould](silicon-mouds-01.html) for tempeh
 - The prototype version of our [Incubator Necklace](incubator-necklace.html)
