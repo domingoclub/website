@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<<<<<<< HEAD
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 12 Aug 2021 14:56:00 +0000</lastBuildDate><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 12 Aug 2021 14:58:13 +0000</lastBuildDate><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
 &lt;p&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;, try it at home and give us your review.&lt;/p&gt;
 &lt;p&gt;Hope it'll be hot as hell! 👹&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="sriracha-01.jpg"/&gt;
-&lt;img alt="" src="sriracha-03.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 12 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
-=======
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 09 Aug 2021 10:28:17 +0000</lastBuildDate><item><title>Talk at FAB16 "Fabricating the commons"</title><link>https://domingoclub.com/2021-08-09.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This morning we had the chance to present our open-source incubator at the &lt;a class="external" href="https://fab16.org/"&gt;Fab16&lt;/a&gt;, the worldwide event of the Fablab network! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.&lt;/p&gt;
+&lt;img alt="" src="sriracha-03.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 12 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Talk at FAB16 "Fabricating the commons"</title><link>https://domingoclub.com/2021-08-09.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This morning we had the chance to present our open-source incubator at the &lt;a class="external" href="https://fab16.org/"&gt;Fab16&lt;/a&gt;, the worldwide event of the Fablab network! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="fab16-slides-02_4.png"/&gt;&lt;/p&gt;
 &lt;p&gt;We covered topics such as:&lt;/p&gt;
 &lt;ul&gt;
@@ -23,7 +20,6 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;img alt="" src="fab16-slides-02_2.png"/&gt;
 &lt;img alt="" src="fab16-slides-02_3.png"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 09 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
->>>>>>> db495e776b035036a6ceb1880a17ef1d2aed5a71
 &lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
 &lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
 &lt;/div&gt;
