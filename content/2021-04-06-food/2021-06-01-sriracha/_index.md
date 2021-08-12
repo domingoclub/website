@@ -73,4 +73,4 @@ Sriracha sauce is a type of fermented hot sauce originated from Thailand made fr
 - Bottle it and place in the refrigerator.
 - It will keep for several months.
 
-![from left to right: chilli oil and srirachas](sriracha-05.jpg)
+![from left to right: chilli oil and srirachas](sriracha-06.jpg)
