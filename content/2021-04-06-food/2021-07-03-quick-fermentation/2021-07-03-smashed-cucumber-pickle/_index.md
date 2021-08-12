@@ -1,6 +1,5 @@
 ---
 title: Smashed cucumber pickle
-draft: True
 ---
 
 # What is it?
@@ -46,9 +45,12 @@ Perform the ita zuri technique: Put some salt in the palm of your hand and rub t
 
 Put the cucumber pieces in your container and mix them with your hands with the remaining sea salt and the marinade. Put the press lid on top, push it lightly, and let pickle at room temperature for 1 hours.
 
+# Storage
+
+Keep it in the fridge for up to 2-3 days.
 
 # Sources
 
 - press lid
 
-This recipe comes from Peter van Berckel's book ["Tsukémono: snelle groentefermentaties uit japan book"](https://tsukemono.nl/)
+This recipe comes from Peter van Berckel's book [Tsukémono](https://tsukemono.nl/)

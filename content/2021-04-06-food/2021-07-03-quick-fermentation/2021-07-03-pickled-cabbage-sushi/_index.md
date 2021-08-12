@@ -1,6 +1,5 @@
 ---
 title: Pickled cabbage sushi
-draft: True
 ---
 
 # What is it?
@@ -71,7 +70,10 @@ Add the sugar, soy sauce, salt and vinegar and stir well.
 Place the cabbage rolls upright against each other in your container and sprinkle with sesame seeds.
 Pour the hot marinade over the cabbage rolls and put the press lid on top, push it lightly, and let pickle at room temperature for 3 hours.
 
+# Storage
+
+Keep it in the fridge for up to 4-5 days.
 
 # Sources
 
-This recipe comes from Peter van Berckel's book ["Tsukémono: snelle groentefermentaties uit japan book"](https://tsukemono.nl/)
+This recipe comes from Peter van Berckel's book [Tsukémono](https://tsukemono.nl/)
