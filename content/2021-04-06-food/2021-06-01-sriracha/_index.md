@@ -28,6 +28,7 @@ Sriracha sauce is a type of fermented hot sauce originated from Thailand made fr
 - a blender
 - a container with a clean piece of cloth as a lid
 - a rubber band or a string
+- a sieve (for the second step)
 
 # How to make it?
 
