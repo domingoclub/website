@@ -1,47 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 19 Aug 2021 17:13:48 +0000</lastBuildDate><item><title>Press-lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;The pressure on salty food accelerates the chemical and physical transformation process of vegetables.
-What this does is collapse the cell walls of the vegetable, releasing the moisture and concentrating the flavor.
-So adding some pressure to the veggies helps the salt do its work.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Pickled cabbage sushi</title><link>https://domingoclub.com/pickled-cabbage-sushi.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h1 id="what-is-it"&gt;What is it?&lt;/h1&gt;
-&lt;h1 id="what-you-need-to-make-it"&gt;What you need to make it?&lt;/h1&gt;
-&lt;h2 id="ingredients"&gt;Ingredients&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;dried shiitaké&lt;/li&gt;
-&lt;li&gt;sesame seeds&lt;/li&gt;
-&lt;li&gt;6 large Chinese cabbage leaves&lt;/li&gt;
-&lt;li&gt;1-2 carrots&lt;/li&gt;
-&lt;li&gt;1 stalk of celery&lt;/li&gt;
-&lt;li&gt;3cm of ginger root&lt;/li&gt;
-&lt;li&gt;1 (dried) chilipeper&lt;/li&gt;
-&lt;li&gt;1 tablespoon of toasted sesame oil&lt;/li&gt;
-&lt;li&gt;1 spring onion&lt;/li&gt;
-&lt;li&gt;1 teaspoon of sugar (Barley Malt Syrup)&lt;/li&gt;
-&lt;li&gt;2 tablespoon of soja sauce (shoyu)&lt;/li&gt;
-&lt;li&gt;1 teaspoon of seasalt&lt;/li&gt;
-&lt;li&gt;3 tablespoon of vinegar&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="material"&gt;Material&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;a sushi mat&lt;/li&gt;
-&lt;li&gt;a container and a press lid&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id="how-to-make-it"&gt;How to make it?&lt;/h1&gt;
-&lt;h2 id="preparation"&gt;Preparation&lt;/h2&gt;
-&lt;p&gt;Soak the shiitaké in warm water.
-Roast the sesame seeds in a pan until they smell good.&lt;/p&gt;
-&lt;h2 id="cabbage-leaves"&gt;Cabbage Leaves&lt;/h2&gt;
-&lt;p&gt;Cut off the bottom of the cabbage and carefully pick out 6 beautiful leaves.
-Dip the leaves in a large amount of boiling salted water or steam them until they are soft enough to be rolled up. As soon as they are, cool them immediately in iced cold water.&lt;/p&gt;
-&lt;p&gt;Drain the leaves in a strainer and dry them with a clean towel. Cut off the ribbed part of each cabbage leaf, so that you have a flat surface.&lt;/p&gt;
-&lt;h2 id="filling"&gt;Filling&lt;/h2&gt;
-&lt;p&gt;Cut the shiitake, carrots and celery into fine julienne strips.
-Finely chop the ginger and chilli.
-Mix it all together.&lt;/p&gt;
-&lt;h2 id="sushi-making"&gt;Sushi making&lt;/h2&gt;
-&lt;p&gt;Lay two cabbage leaves lengthwise in different directions on the sushi mat.
-Spread 1/3 of the filling slightly below the middle across the width of the mat.
-Do not use too much stuffing, otherwise the cabbage leaf will tear.
-Roll everything tightly in the mat, as if making sushi.
-Hold...</description><pubDate>Sun, 15 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 22 Aug 2021 14:49:11 +0000</lastBuildDate><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful. For instance, a press lid.&lt;/p&gt;
+&lt;p&gt;Basically, it is just a lid on which you put pressure.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="press-lid-01.jpg"/&gt;
+&lt;img alt="" src="press-lid-02.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;You may have seen different kind of pickle press, from the very traditional japanese one made with a wooden barrel, a board and stones (called tsukémono ishi) to a plastic press with a screw thread system or a glass press.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="glass-press.jpg"/&gt;
+&lt;img alt="" src="petervanberckel-press.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;But the thing is, we all have containers at home in which we can ferment our vegetables. Any plate or smaller container can do the job of the press-lid. However, as your fermenting practice grows and diversifies, it is nice to have the right tools.&lt;/p&gt;
+&lt;p&gt;So we used our 3D printer to make us custom lids that match the containers we have at home.&lt;/p&gt;
+&lt;h2 id="the-design"&gt;The design&lt;/h2&gt;
+&lt;p&gt;It is a 2 mm thick lid 3D-printed in PETG. There are small perforationson the lid to allow the liquid to comes up during the fermentation process, so that the lid stay in contact with the veggies.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="freecad.png"/&gt;&lt;/p&gt;
+&lt;p&gt;The special feature of this lid is that the handle is hollow so that it can hold weight. You can insert whatever heavy you find like stones, glass marbles, or like us a solid stainless steel stem.&lt;/p&gt;
+&lt;p&gt;Because we designed this lid in a parametric software, its size can be adapted to any container!&lt;/p&gt;
+&lt;h2 id="what-the-press-lid-for"&gt;What the press lid for?&lt;/h2&gt;
+&lt;p&gt;The pressure on salty food accelerates the chemical and physical transformation process of vegetables.
+What this does is collapse the cell walls of the vegetable, relea...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
 &lt;p&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;, try it at home and give us your review.&lt;/p&gt;
 &lt;p&gt;Hope it'll be hot as hell! 👹&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="sriracha-01.jpg"/&gt;
@@ -184,7 +158,7 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;Due to its quick process, you won't get the tang of a sour pickle. It can therefore be a starting point for the most sensitive among you.&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;Want to discover more about those "impatient pickles"?&lt;/p&gt;
-&lt;p&gt;Read &lt;a class="external" href="https://tsukemono.nl/home-engels/"&gt;this page&lt;/a&gt; of Peter van Berckel. Most of our recipes come from his book.&lt;/p&gt;
+&lt;p&gt;Read &lt;a class="external" href="https://tsukemono.nl/home-engels/"&gt;this page&lt;/a&gt; about the "tsukémono" book of Peter van Berckel. Most of our recipes come from there.&lt;/p&gt;
 &lt;/div&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Sat, 03 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Distributed Design and Decentralized Fabrication</title><link>https://domingoclub.com/distributed-design.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;In the kitchen, it seems natural to share a good recipe and tips and tricks on how to please our taste buds. We share knowledge from one generation to the next. We preserve the cultural heritage while allowing it to be augmented by the findings of the community.&lt;/p&gt;
 &lt;p&gt;Sharing, collaboration, cooperation and re-appropriation are keys to the success of our project in order to move towards a sustainable society where we understand what we eat, what we do, what we use in our daily lives, a society where we observe and question what we usually take for granted.&lt;/p&gt;
 &lt;p&gt;We therefore use the principles of distributed design and decentralized manufacturing for the tools we make. Which means that you can download our models, review and adapt them, and produce them yourself.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 02 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Distributed Design 2021</title><link>https://domingoclub.com/2021-07-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Good news! We won the Distributed Design Award 2021!&lt;/p&gt;

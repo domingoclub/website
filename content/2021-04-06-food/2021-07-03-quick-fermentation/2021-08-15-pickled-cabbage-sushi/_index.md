@@ -1,9 +1,9 @@
 ---
 title: Pickled cabbage sushi
+draft: True
 ---
 
 # What is it?
-
 
 # What you need to make it?
 
@@ -73,7 +73,3 @@ Pour the hot marinade over the cabbage rolls and put the press lid on top, push 
 # Storage
 
 Keep it in the fridge for up to 4-5 days.
-
-# Sources
-
-This recipe comes from Peter van Berckel's book [Tsukémono](https://tsukemono.nl/)
