@@ -1,5 +1,6 @@
 ---
 title: Quick Fermentation
+open: True
 ---
 Let us introduce you to quick fermentation!
 
