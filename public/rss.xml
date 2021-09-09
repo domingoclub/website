@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 22 Aug 2021 14:49:11 +0000</lastBuildDate><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful. For instance, a press lid.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 09 Sep 2021 14:48:24 +0000</lastBuildDate><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.&lt;/p&gt;
+&lt;p&gt;For instance, a press lid.&lt;/p&gt;
 &lt;p&gt;Basically, it is just a lid on which you put pressure.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="press-lid-01.jpg"/&gt;
 &lt;img alt="" src="press-lid-02.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;You may have seen different kind of pickle press, from the very traditional japanese one made with a wooden barrel, a board and stones (called tsukémono ishi) to a plastic press with a screw thread system or a glass press.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="glass-press.jpg"/&gt;
-&lt;img alt="" src="petervanberckel-press.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;But the thing is, we all have containers at home in which we can ferment our vegetables. Any plate or smaller container can do the job of the press-lid. However, as your fermenting practice grows and diversifies, it is nice to have the right tools.&lt;/p&gt;
+&lt;p&gt;You may have seen different kind of pickle press, from the very traditional Japanese one made with a wooden barrel, a board and stones to a plastic press with a screw thread system or a glass press.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image from Peter van Berckel's book" src="small:wood-press.jpg"/&gt;
+&lt;img alt="Image from Peter van Berckel's book" src="small:plastic-press.jpg"/&gt;
+&lt;img alt="Image from Peter van Berckel's book" src="small:glass-press.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;But the thing is, we all have containers at home in which we can ferment our vegetables. Any plate or smaller container can do the job of the press lid. However, as your fermenting practice grows and diversifies, it is nice to have the right tools.&lt;/p&gt;
 &lt;p&gt;So we used our 3D printer to make us custom lids that match the containers we have at home.&lt;/p&gt;
 &lt;h2 id="the-design"&gt;The design&lt;/h2&gt;
-&lt;p&gt;It is a 2 mm thick lid 3D-printed in PETG. There are small perforationson the lid to allow the liquid to comes up during the fermentation process, so that the lid stay in contact with the veggies.&lt;/p&gt;
+&lt;p&gt;It is a 2 mm thick lid 3D-printed in PETG. There are small perforations on the lid to allow the liquid to comes up during the fermentation process, so that the lid stay in contact with the veggies.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="freecad.png"/&gt;&lt;/p&gt;
 &lt;p&gt;The special feature of this lid is that the handle is hollow so that it can hold weight. You can insert whatever heavy you find like stones, glass marbles, or like us a solid stainless steel stem.&lt;/p&gt;
 &lt;p&gt;Because we designed this lid in a parametric software, its size can be adapted to any container!&lt;/p&gt;
-&lt;h2 id="what-the-press-lid-for"&gt;What the press lid for?&lt;/h2&gt;
-&lt;p&gt;The pressure on salty food accelerates the chemical and physical transformation process of vegetables.
-What this does is collapse the cell walls of the vegetable, relea...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
+&lt;p&gt;The sources are available on &lt;a class="external" href="https://github.com/domingoclub/press-lid...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
 &lt;p&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;, try it at home and give us your review.&lt;/p&gt;
 &lt;p&gt;Hope it'll be hot as hell! 👹&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="sriracha-01.jpg"/&gt;
