@@ -15,3 +15,9 @@ Last but not least: Swimming as much as we can, contemplating the sea bed. Summe
 
 ![A view of Congost Mont-Rebei, where we stayed for a few days](congost.jpg)
 ![Part of our lovely monkey camp](hammocks.jpg)
+
+
+<!-- - Showcase foodtech, ending of our journey, will be presenting our products (incubator, tempeh kit)
+- Ending of our makerxchange, soon an online event, soon tempeh moulds ready for small production
+- Coming back from hollidays, inner energy full charged, focus on our favorite plant-based protein product aka tempeh
+- first tempeh lunch, really liked it, will do more, barcelona stay tuned, don't miss it -->

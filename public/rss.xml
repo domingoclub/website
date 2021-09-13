@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 13 Sep 2021 10:10:47 +0000</lastBuildDate><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 13 Sep 2021 14:40:34 +0000</lastBuildDate><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.&lt;/p&gt;
 &lt;p&gt;For instance, a press lid.&lt;/p&gt;
 &lt;p&gt;Basically, it is just a lid on which you put pressure.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="press-lid-01.jpg"/&gt;
@@ -298,7 +298,11 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;Have fun and delicious condiments with quick fermentation. Small dishes that only take a few days to ferment. More on this part soon as we would like to run workshops on this. &lt;/p&gt;
 &lt;p&gt;Last but not least: Swimming as much as we can, contemplating the sea bed. Summertime in Spain.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="A view of Congost Mont-Rebei, where we stayed for a few days" src="congost.jpg"/&gt;
-&lt;img alt="Part of our lovely monkey camp" src="hammocks.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Water kefir</title><link>https://domingoclub.com/water-kefir.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h1 id="what-is-it"&gt;What is it?&lt;/h1&gt;
+&lt;img alt="Part of our lovely monkey camp" src="hammocks.jpg"/&gt;&lt;/p&gt;
+&lt;!-- - Showcase foodtech, ending of our journey, will be presenting our products (incubator, tempeh kit)
+- Ending of our makerxchange, soon an online event, soon tempeh moulds ready for small production
+- Coming back from hollidays, inner energy full charged, focus on our favorite plant-based protein product aka tempeh
+- first tempeh lunch, really liked it, will do more, barcelona stay tuned, don't miss it --&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Water kefir</title><link>https://domingoclub.com/water-kefir.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h1 id="what-is-it"&gt;What is it?&lt;/h1&gt;
 &lt;p&gt;Water kefir is an ancient fermented carbonated drink made from water kefir grains. Unlike ordinary kefir, which is made from milk, water kefir is made by combining sugar water with water kefir grains — a culture of bacteria and yeast.&lt;/p&gt;
 &lt;p&gt;The mixture ferments for ~36 hours, producing a probiotic drink rich in beneficial bacteria. This drink is refreshing, easy to enjoy and full of health benefits. We love it and drink it every day throughout the year.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="kefir-05.jpg"/&gt;&lt;/p&gt;
@@ -415,6 +419,7 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="external" href="https://www.makery.info/en/2021/09/11/english-domingo-club-wed-like-to-share-fabrication-recipes-like-we-share-food-recipes/"&gt;Interview by Makery&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="now.html"&gt;Now ☼&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;First attempt at making a &lt;a class="internal" href="silicon-mouds-01.html"&gt;silicone mould&lt;/a&gt; for tempeh&lt;/li&gt;
