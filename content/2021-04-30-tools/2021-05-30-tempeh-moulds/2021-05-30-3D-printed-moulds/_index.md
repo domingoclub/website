@@ -1,7 +1,7 @@
 ---
 title: 3D printed moulds
 last_update: 2021-07-02
-featured: True
+featured: False
 featured_image: tempeh-mould-rect-00.jpg
 featured_desc: A 3D printed tempeh mould that aims to reduce the consumption of single-use plastics
 ---

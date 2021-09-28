@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 28 Sep 2021 13:19:50 +0000</lastBuildDate><item><title>3D printed moulds v-02</title><link>https://domingoclub.com/3D-printed-moulds-v-02.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;In the context of the &lt;a class="external" href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we teamed up with Valentina from &lt;a class="external" href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh moulds&lt;/a&gt;.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 28 Sep 2021 13:44:55 +0000</lastBuildDate><item><title>3D printed moulds v-02</title><link>https://domingoclub.com/3D-printed-moulds-v-02.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;In the context of the &lt;a class="external" href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we teamed up with Valentina from &lt;a class="external" href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh moulds&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="IMG_5871.jpg"/&gt;
+&lt;img alt="" src="IMG_5845.jpg"/&gt;&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
-&lt;p class="admonition-title"&gt;Let us introduce her&lt;/p&gt;
+&lt;p class="admonition-title"&gt;Let us introduce Valentina&lt;/p&gt;
 &lt;p&gt;Valentina is a professional tempeh maker based in Amsterdam. She has a burning passion for tempeh and that pushes her to get out and spread the love for this fantastic food. She is the one who gave us her tempeh recipe when we were in Amsterdam two years ago.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img alt="" src="screenshot-HGHL.png"/&gt;&lt;/p&gt;
@@ -14,13 +16,12 @@
 &lt;li&gt;We also have designed a larger model (10x15).&lt;/li&gt;
 &lt;li&gt;We have explored other materialities (silicon) that has &lt;a class="internal" href="silicon-moulds-01.html"&gt;its own article&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="here-are-the-sources-of"&gt;Here are the sources of:&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="IMG_5860.jpg"/&gt;
+&lt;img alt="" src="IMG_5859.jpg"/&gt;&lt;/p&gt;
+&lt;h1 id="here-are-the-sources"&gt;Here are the sources&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;the 8x12 rectangle tempeh mould V02 (stl file and fusion file)&lt;/li&gt;
-&lt;li&gt;the 10x15 rectangle tempeh mould V02 (stl file and fusion file)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;available on &lt;a class="external" href="https://github.com/domingoclub/tempeh-moulds-v-02"&gt;github&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id="how-to-f...</description><pubDate>Tue, 28 Sep 2021 00:00:00 +0200</pubDate></item><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.&lt;/p&gt;
+&lt;li&gt;the 8x12 rectangle tempeh mould V02 (STL and Fusion360 file)&lt;/li&gt;
+&lt;li&gt;the 10x15 rectangle tempeh mould V02 (STL and Fusion360 ...</description><pubDate>Tue, 28 Sep 2021 00:00:00 +0200</pubDate></item><item><title>Press lid</title><link>https://domingoclub.com/press-lid.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.&lt;/p&gt;
 &lt;p&gt;For instance, a press lid.&lt;/p&gt;
 &lt;p&gt;Basically, it is just a lid on which you put pressure.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="press-lid-01.jpg"/&gt;
@@ -94,11 +95,7 @@
 &lt;li&gt;Remove the stem of the cucumber&lt;/li&gt;
 &lt;li&gt;Put some salt in the palm of your hand and rub the cucumber vigorously with the salt. The skin becomes porous and the cucumber immediately begins to ooze moisture&lt;/li&gt;
 &lt;li&gt;Place the cucumber on a cutting board and compassionately beat it into irregular pieces with the rolling pin&lt;/li&gt;
-&lt;li&gt;Break the ...</description><pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
-&lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
-&lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Documentation page for the fabrication of our silicone tempeh moulds. These silicone moulds are supposed to be an improved version of our &lt;a class="internal" href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;. They use the same model but are first moulded in a block of wax and then cast in food grade silicone. This would allow us to increase our production speed while guaranteeing high quality.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds 01</title><link>https://domingoclub.com/silicon-mouds-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_4807.jpg"/&gt;&lt;/p&gt;
+&lt;li&gt;Break the ...</description><pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds 01</title><link>https://domingoclub.com/silicon-moulds-01.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_4807.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;First attempt at making a silicone mould for tempeh production. We used a mini-milling machine to mill our design into a block of wax, then poured food grade silicone into it to produce the desired silicone tempeh mould.&lt;/p&gt;
 &lt;h1 id="good-points"&gt;Good points&lt;/h1&gt;
 &lt;ul&gt;
@@ -130,7 +127,11 @@
 &lt;h2 id="pouring-silicon"&gt;Pouring silicon&lt;/h2&gt;
 &lt;video&gt;&lt;source src="IMG_8211.mp4"/&gt;&lt;/video&gt;
 &lt;h2 id="demoulding"&gt;Demoulding&lt;/h2&gt;
-&lt;video&gt;&lt;source src="IMG_8223.mp4"/&gt;&lt;/vi...</description><pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.3</title><link>https://domingoclub.com/incubator-v0-3.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are currently designing and fabricating version 0.3 of our incubator. The documentation is in progress.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>MakersXchange</title><link>https://domingoclub.com/2021-07-15.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Back to the post office today, but this time bound for Amsterdam.&lt;/p&gt;
+&lt;video&gt;&lt;source src="IMG_8223.mp4"/&gt;&lt;/vi...</description><pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Silicon moulds</title><link>https://domingoclub.com/silicon-moulds.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="admonition notes"&gt;
+&lt;p class="admonition-title"&gt;Work in progress&lt;/p&gt;
+&lt;p&gt;These moulds are currently being designed, fabricated and tested. What you see here is relatively temporary and subject to change. This is still experimental.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Documentation page for the fabrication of our silicone tempeh moulds. These silicone moulds are supposed to be an improved version of our &lt;a class="internal" href="3D-printed-moulds.html"&gt;3D printed moulds&lt;/a&gt;. They use the same model but are first moulded in a block of wax and then cast in food grade silicone. This would allow us to increase our production speed while guaranteeing high quality.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 29 Jul 2021 00:00:00 +0200</pubDate></item><item><title>Incubator v0.3</title><link>https://domingoclub.com/incubator-v0-3.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are currently designing and fabricating version 0.3 of our incubator. The documentation is in progress.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 26 Jul 2021 00:00:00 +0200</pubDate></item><item><title>MakersXchange</title><link>https://domingoclub.com/2021-07-15.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Back to the post office today, but this time bound for Amsterdam.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="shipped-moulds02.JPG"/&gt;
 &lt;img alt="" src="shipped-moulds01.JPG"/&gt;&lt;/p&gt;
 &lt;p&gt;Indeed, in the context of the &lt;a class="external" href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we are teaming up with Valentina from &lt;a class="external" href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh moulds&lt;/a&gt;.&lt;/p&gt;
