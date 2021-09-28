@@ -3,6 +3,7 @@ title: Links
 last_update: 2021-09-16
 ---
 
+- [3D printed moulds v-02](3D-printed-moulds-v-02.html)
 - [Video of our talk at the Fab16 event](https://www.youtube.com/watch?v=fuh9ZzpxUQI)
 - [Interview by Makery](https://www.makery.info/en/2021/09/11/english-domingo-club-wed-like-to-share-fabrication-recipes-like-we-share-food-recipes/)
 - [Interview by Makery](https://www.makery.info/en/2021/09/11/english-domingo-club-wed-like-to-share-fabrication-recipes-like-we-share-food-recipes/)
