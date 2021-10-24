@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 28 Sep 2021 14:51:31 +0000</lastBuildDate><item><title>3D printed moulds v-02</title><link>https://domingoclub.com/3D-printed-moulds-v-02.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;In the context of the &lt;a class="external" href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we teamed up with Valentina from &lt;a class="external" href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh moulds&lt;/a&gt;.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 24 Oct 2021 12:57:04 +0000</lastBuildDate><item><title>Domingo Shop</title><link>https://domingoclub.com/shop.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Hello&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo organic tee-shirt</title><link>https://domingoclub.com/domingo-organic-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+&lt;div class="item__price"&gt;€26,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
+&lt;div class="item__desc"&gt;
+    Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!
+  &lt;/div&gt;
+&lt;div id="product-component-1635063611737"&gt;&lt;/div&gt;
+&lt;div class="item__info"&gt;
+    Pickup available at Carrer de Pere IV 29 08018 Barcelona.&lt;br/&gt;Usually ready in 2-4 days.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img alt="" src="domingoclub-teeshirt-01-00001.jpg"/&gt;
+&lt;img alt="" src="domingoclub-teeshirt-01-00002.jpg"/&gt;
+&lt;img alt="" src="domingoclub-teeshirt-01-00003.jpg"/&gt;
+&lt;img alt="" src="domingoclub-teeshirt-01-00004.jpg"/&gt;
+&lt;img alt="" src="domingoclub-teeshirt-01-00005.jpg"/&gt;
+&lt;img alt="" src="domingoclub-teeshirt-01-00006.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate></item><item><title>3D printed moulds v-02</title><link>https://domingoclub.com/3D-printed-moulds-v-02.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;In the context of the &lt;a class="external" href="https://makersxchange.eu/"&gt;Hyper Global / Hyper Local exchange programme&lt;/a&gt;, we teamed up with Valentina from &lt;a class="external" href="https://www.myveganfam.com/"&gt;My Vegan Fam&lt;/a&gt; to improve our &lt;a class="internal" href="tempeh-moulds.html"&gt;tempeh moulds&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="IMG_5871.jpg"/&gt;
 &lt;img alt="" src="IMG_5845.jpg"/&gt;&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
@@ -37,11 +52,9 @@
 &lt;p&gt;&lt;img alt="" src="freecad.png"/&gt;&lt;/p&gt;
 &lt;p&gt;The special feature of this lid is that the handle is hollow so that it can hold weight. You can insert whatever heavy you find like stones, glass marbles, or like us a solid stainless steel stem.&lt;/p&gt;
 &lt;p&gt;Because we designed this lid in a parametric software, its size can be adapted to any container!&lt;/p&gt;
-&lt;p&gt;The sources are available on &lt;a class="external" href="https://github.com/domingoclub/press-lid...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh!&lt;/p&gt;
-&lt;p&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;, try it at home and give us your review.&lt;/p&gt;
-&lt;p&gt;Hope it'll be hot as hell! 👹&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="sriracha-01.jpg"/&gt;
-&lt;img alt="" src="sriracha-03.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 12 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Talk at FAB16 "Fabricating the commons"</title><link>https://domingoclub.com/2021-08-09.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This morning we had the chance to present our open-source incubator at the &lt;a class="external" href="https://fab16.org/"&gt;Fab16&lt;/a&gt;, the worldwide event of the Fablab network! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.&lt;/p&gt;
+&lt;p&gt;The sources are available on &lt;a class="external" href="https://github.com/domingoclub/press-lid...</description><pubDate>Wed, 18 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Our sriracha recipe is online</title><link>https://domingoclub.com/2021-08-12.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;We are Sriracha Lovers, we put it on almost everything. And even more on tempeh! Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;, try it at home and give us your review. Hope it'll be hot as hell! 👹&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="small:sriracha-01.jpg"/&gt;
+&lt;img alt="" src="small:sriracha-03.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 12 Aug 2021 00:00:00 +0200</pubDate></item><item><title>Talk at FAB16 "Fabricating the commons"</title><link>https://domingoclub.com/2021-08-09.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This morning we had the chance to present our open-source incubator at the &lt;a class="external" href="https://fab16.org/"&gt;Fab16&lt;/a&gt;, the worldwide event of the Fablab network! We gave a talk, or theory workshop as they call it, for the first time and we really enjoyed doing it.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="fab16-slides-02_4.png"/&gt;&lt;/p&gt;
 &lt;p&gt;We covered topics such as:&lt;/p&gt;
 &lt;ul&gt;

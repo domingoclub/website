@@ -14,4 +14,8 @@
   .item__link:hover {
     transform: rotate(-2deg);
   }
+  .item__price {
+    margin-top: var(--size-xs);
+  }
 }
+

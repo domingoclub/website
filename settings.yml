@@ -4,13 +4,13 @@ language: "en"
 main_url: "https://domingoclub.com"
 introduction: "We make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system."
 footer: "⁂&nbsp;[Content](content.html), ✉&nbsp;[newsletter](newsletter.html), ▤&nbsp;[RSS feed](https://domingoclub.com/rss.xml), ◌&nbsp;[Mastodon](https://sunbeam.city/@domingoclub/), ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/).<br>Domingo Club ☼&nbsp;2021 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+topbar: "We are in the process of updating our documentation, in the meantime check out our [new tee-shirt](domingo-organic-teeshirt.html)"
 navigation:
   "☼☼☼": "index"
   # "Food": "food"
-  # "Tools": "tools"
+  "Shop": "shop"
   "Journal": "journal"
   "About": "about"
-  "Join the club ✿" : "join"
 analytics:  "
 <script>
   var _paq = window._paq = window._paq || [];
@@ -24,10 +24,3 @@ analytics:  "
     g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>"
-shop:
-  isActive: True
-  header: '<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />'
-  menu: '<button class="snipcart-checkout"></span> Cart (<span class="snipcart-items-count"></span>)</button>'
-  footer: '<script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
-<div id="snipcart" data-config-modal-style="side" data-api-key="YTVkZTgyMmUtOWJjZi00YmYyLWFjNzctOWExZGQ1NWIwNjU5NjM3NjM3NzU3Nzk5MDQxNzM3" hidden></div>'
-
