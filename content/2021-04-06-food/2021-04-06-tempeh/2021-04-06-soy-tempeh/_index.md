@@ -7,7 +7,7 @@ featured_desc: Let us show you how to make tempeh in a few steps
 
 # What is it?
 
-Tempeh is an Indonesian fermented food product originally made out of soy beans and a fungus called rhizopus. During the fermentation process, the spores of the fungus develop and its mycelium grows around the soybeans, breaking down their molecules. This process changes the properties of soybeans and makes them more digestible for our body, allowing us to absorb all the proteins available, and making tempeh as high in protein as meat. The taste evokes aromas of mushroom, nut and yeast.
+Tempeh is a fermented product from Indonesia made from soybeans and a fungus called Rhizopus. During the fermentation, the fungus feeds on the soybeans and grows in the space around them, binding them together. This processs breaks down the molecules and this pre-digestion allows us to absorb many more nutrients from the soybeans. That makes tempeh as rich in protein and iron as meat. It is also higher in fibre and calcium while being lower in saturated fat and salt. The taste of tempeh evokes aromas of mushrooms, nuts and yeast, and its texture is firm, chunky and "meaty". Extremely delicious!
 
 ![](tempeh-cooked-01.jpg)
 

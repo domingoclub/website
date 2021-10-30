@@ -1,5 +1,5 @@
 ---
-title: 3D printed moulds v-02
+title: 3D printed moulds v0.2
 last_update: 2021-09-28
 featured: True
 featured_image: IMG_5871.jpg

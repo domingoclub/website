@@ -1,5 +1,5 @@
 ---
-title: Press lid
+title: Press lid v0.1
 ---
 
 Fermentation doesn't require any special tools. But there are tools that can make your fermentations more successful.

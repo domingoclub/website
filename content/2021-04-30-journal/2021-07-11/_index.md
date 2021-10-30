@@ -2,10 +2,10 @@
 title: Bingo Escabelle
 ---
 
-We sent a prototype version of our Incubator Necklace to [See U Brussels](https://www.see-u.brussels/) in the context of their *Bingo Escabelle* which took place on Sunday 11th July.
+We sent a prototype version of our Domingo Necklace to [See U Brussels](https://www.see-u.brussels/) in the context of their *Bingo Escabelle* which took place on Sunday 11th July.
 
-!!! notes "What is an Incubator Necklace?"
-    Our incubator necklace is a playful invitation to observe and understand the collaboration with natural processes. Visit the [incubator necklace](incubator-necklace.html) page to discover it.
+!!! notes "What is the Domingo Necklace?"
+    The Domingo Necklace is a playful invitation to observe and understand the collaboration with natural processes. Visit the [Domingo Necklace V0.1](domingo-necklace-v0-1.html) page to discover it.
 
 *Bingo Escabelle* put the spotlight on engaged Brussels projects and collectives by presenting their creative work during a fun and convivial moment.
 
