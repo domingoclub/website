@@ -63,3 +63,24 @@
   border-radius: 0;
   text-decoration: underline;
 }
+
+// Links
+#links .article__content ul {
+  list-style: none;
+  li {
+    display: block;
+    padding: 0;
+    margin-bottom: var(--size-xs);
+    &:before {content: none;}
+  }
+  a {
+    display: block;
+    color: var(--body-color);
+    background-color: var(--base-color);
+    padding: var(--size-xl);
+    text-decoration: none;
+    &:before {
+      content: "→  ";
+    }
+  }
+}

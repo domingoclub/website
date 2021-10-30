@@ -814,6 +814,23 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
   border-radius: 0;
   text-decoration: underline; }
 
+#links .article__content ul {
+  list-style: none; }
+  #links .article__content ul li {
+    display: block;
+    padding: 0;
+    margin-bottom: var(--size-xs); }
+    #links .article__content ul li:before {
+      content: none; }
+  #links .article__content ul a {
+    display: block;
+    color: var(--body-color);
+    background-color: var(--base-color);
+    padding: var(--size-xl);
+    text-decoration: none; }
+    #links .article__content ul a:before {
+      content: "→  "; }
+
 .sender-subs-embeded-form {
   margin: var(--size-xl) 0 !important; }
   .sender-subs-embeded-form form {

@@ -4,7 +4,7 @@ language: "en"
 main_url: "https://domingoclub.com"
 introduction: "We make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system."
 footer: "⁂&nbsp;[Content](content.html), ✉&nbsp;[newsletter](newsletter.html), ▤&nbsp;[RSS feed](https://domingoclub.com/rss.xml), ◌&nbsp;[Mastodon](https://sunbeam.city/@domingoclub/), ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/).<br>Domingo Club ☼&nbsp;2021 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-topbar: "We are in the process of updating our documentation, in the meantime check out our [new tee-shirt](domingo-organic-teeshirt.html)"
+topbar: "We are in the process of updating our documentation, in the meantime check out our [new tee-shirt](domingo-organic-teeshirt.html) ✿"
 navigation:
   "☼☼☼": "index"
   # "Food": "food"

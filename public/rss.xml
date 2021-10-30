@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 30 Oct 2021 14:53:03 +0000</lastBuildDate><item><title>This is Distributed Design</title><link>https://domingoclub.com/this-is-distributed-design.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This is our paper published in the Distributed Design book. We talk about our Domingo project, our vision and our values. Have a good read.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 30 Oct 2021 15:09:36 +0000</lastBuildDate><item><title>This is Distributed Design</title><link>https://domingoclub.com/this-is-distributed-design.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This is our paper published in the Distributed Design book. We talk about our Domingo project, our vision and our values. Have a good read.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="mockup04-2.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;To read the full book, go to &lt;a class="external" href="https://distributeddesign.eu/this-is-distributed-design-book-out-now/"&gt;This is Distributed Design Book&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="welcome-to-the-domingo-club"&gt;Welcome to the Domingo Club&lt;/h1&gt;
@@ -510,13 +510,14 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class="external" href="https://foodshift2030.eu/event/barcelona-showcase/"&gt;Register here&lt;/a&gt; to come and see us on October 18th at the Barcelona Foodshift2030 Event in Palo Alto&lt;/li&gt;
+&lt;li&gt;&lt;a class="internal" href="this-is-distributed-design.html"&gt;This is Distributed Design (book)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="internal" href="shop.html"&gt;Our shop is open!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="3D-printed-moulds-v-02.html"&gt;3D printed moulds v-02&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="external" href="https://www.youtube.com/watch?v=fuh9ZzpxUQI"&gt;Video of our talk at the Fab16 event&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="external" href="https://www.makery.info/en/2021/09/11/english-domingo-club-wed-like-to-share-fabrication-recipes-like-we-share-food-recipes/"&gt;Interview by Makery&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="now.html"&gt;Now ☼&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Check out our &lt;a class="internal" href="sriracha.html"&gt;sriracha recipe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="external" href="https://distributeddesign.eu/awards/entries/domingo-club-incubator/"&gt;Our proposal&lt;/a&gt; for the Distributed Design Award 2021 (selected winner for project excellence award)&lt;/li&gt;
-&lt;li&gt;How to make &lt;a class="internal" href="soy-tempeh.html"&gt;Tempeh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="internal" href="sriracha.html"&gt;Check out our sriracha recipe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="external" href="https://distributeddesign.eu/awards/entries/domingo-club-incubator/"&gt;Our proposal for the Distributed Design Award 2021 (selected winner for project excellence award)&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a class="internal" href="soy-tempeh.html"&gt;How to make tempeh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt="" src="grains.png"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Wed, 06 Oct 2021 00:00:00 +0200</pubDate></item></channel></rss>
