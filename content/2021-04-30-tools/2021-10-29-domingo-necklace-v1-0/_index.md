@@ -3,6 +3,7 @@ title: Domingo Necklace v1.0
 featured: True
 featured_image:
 featured_desc: Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body
+draft: True
 ---
 
 

@@ -1,51 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 30 Oct 2021 12:34:30 +0000</lastBuildDate><item><title>Domingo Necklace v1.0</title><link>https://domingoclub.com/domingo-necklace-v1-0.html</link><description>&lt;!-- &lt;button class="snipcart-add-item"
-  data-item-id="incubator-necklace"
-  data-item-price="26.00"
-  data-item-url="/domingo-necklace.html"
-  data-item-description="Wear this necklace for 24-30 hours to ferment your own plant-based protein (aka tempeh) with the heat of your body"
-  data-item-image="medias/incubator-necklace-body-incub03.JPG"
-  data-item-name="Domingo Necklace"&gt;
-  Add to cart
-&lt;/button&gt; --&gt;&lt;html&gt;&lt;body&gt;&lt;p&gt;Yes, you can ferment your food with the heat of your body! Domingo Club made a necklace for this. Wear it for 24-30 hours and ferment your own plant-based protein aka tempeh.&lt;/p&gt;
-&lt;h1 id="about-tempeh"&gt;About Tempeh&lt;/h1&gt;
-&lt;p&gt;Tempeh is a fermented product from Indonesia made from soybeans and fungi. During the fermentation, the fungus feeds on the soybeans and grows in the space around them, binding them together. This processs breaks down the molecules and this pre-digestion allows us to absorb many more nutrients from the soybeans. That makes tempeh as rich in protein and iron as meat. It is also higher in fibre and calcium while being lower in saturated fat and salt. The taste of tempeh evokes aromas of mushrooms, nuts and yeast, and its texture is firm, chunky and "meaty". Extremely delicious!&lt;/p&gt;
-&lt;h1 id="about-the-domingo-necklace"&gt;About the Domingo necklace&lt;/h1&gt;
-&lt;p&gt;The Domingo Necklace is a poetic invitation to anyone to start fermenting tempeh without any other device than your body.&lt;/p&gt;
-&lt;h1 id="how-to-make-tempeh-with-the-domingo-necklace"&gt;How to make tempeh with the Domingo Necklace&lt;/h1&gt;
-&lt;h2 id="prepare-the-soybeans"&gt;prepare the soybeans&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Measure the amount of beans by placing the moon-shaped measuring tool in the petri dish and filling the remaining space with the soybeans&lt;/li&gt;
-&lt;li&gt;Soak the prepared beans in a small container filled w...</description><pubDate>Fri, 29 Oct 2021 00:00:00 +0200</pubDate></item><item><title>We have just set up our E-shop!</title><link>https://domingoclub.com/2021-10-25.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;And we've launched it with the Domingo organic tee-shirts. The best way to support us while waiting for our other projects.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 30 Oct 2021 14:53:03 +0000</lastBuildDate><item><title>This is Distributed Design</title><link>https://domingoclub.com/this-is-distributed-design.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;This is our paper published in the Distributed Design book. We talk about our Domingo project, our vision and our values. Have a good read.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="mockup04-2.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;To read the full book, go to &lt;a class="external" href="https://distributeddesign.eu/this-is-distributed-design-book-out-now/"&gt;This is Distributed Design Book&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="welcome-to-the-domingo-club"&gt;Welcome to the Domingo Club&lt;/h1&gt;
+&lt;p&gt;At Domingo Club, we make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.&lt;/p&gt;
+&lt;h1 id="context-and-history"&gt;Context and History&lt;/h1&gt;
+&lt;p&gt;The industrial revolution and globalisation have increasingly distanced us from food production and the processes that transform the raw products of agriculture into what we eat and drink every day, thus making us more and more dependent on modified industrial products that we don’t understand.&lt;/p&gt;
+&lt;p&gt;But this detour towards abstraction is relatively recent. All over the world, and since ancient times, people have been growing and fermenting their food to preserve it through the seasons. We used to know where our food came from, from seed to plate, and how to improve it by giving it new nutritional properties.&lt;/p&gt;
+&lt;p&gt;At the Domingo Club, we like to think of fermentation as a process of partnering with microorganisms to improve our local and seasonal foods, making them more digestible and getting more energy from them. This partnership with living systems is an invitation to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources.&lt;/p&gt;
+&lt;h1 id="what-is-the-need-it-tackles"&gt;What is the Need it Tackles?&lt;/h1&gt;
+&lt;p&gt;To...</description><pubDate>Sat, 30 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Distributed Design book is out</title><link>https://domingoclub.com/2021-10-30.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Yaaaay! The Distributed Design book is out!&lt;/p&gt;
+&lt;p&gt;A few months ago we wrote an article about our Domingo project, our vision and our values, it has now been edited and published. Find it here: &lt;a class="internal" href="this-is-distributed-design.html"&gt;This is Distributed Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="dd-mockup04-2.jpg"/&gt;
+&lt;img alt="" src="dd-mockup07-2.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Sat, 30 Oct 2021 00:00:00 +0200</pubDate></item><item><title>We have just set up our E-shop!</title><link>https://domingoclub.com/2021-10-25.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;And we've launched it with the Domingo organic tee-shirts. The best way to support us while waiting for our other projects.&lt;/p&gt;
 &lt;p&gt;Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton.
 Get it now on our &lt;a class="internal" href="shop.html"&gt;shop&lt;/a&gt; page. We ship worldwide.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="domingo-tee-01.jpg"/&gt;
-&lt;img alt="" src="domingo-tee-02.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 25 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
-&lt;div class="item__price"&gt;€65,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
-&lt;div class="item__desc"&gt;
-  Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body.
-
-The Domingo Necklace is made of:  
-
-- a 1.5 mm wide fairtrade 925 sterling silver curb chain with a spring ring clasp
-- a lightweight petri dish holder designed and 3D printed by us in bioplastic (PLA)
-- a 60 cm diameter glass petri dish with the Domingo Club logo engraved on the back
-- a moon-shaped measuring tool designed and 3D printed by us in bioplastic (PLA)
-- organic split soybeans grown in Italy (non-GMO and no chemicals used during any stage of production)
-
-The necklace comes with:
-
-- instructions to make your own tempeh with the Domingo Necklace
-- soybeans and tempeh starter to create four tempehs with the Domingo Necklace
-
-Color: Galaxy Black or Vanilla White
-Size: One Size (71 cm neck size)
-  &lt;/div&gt;
-&lt;div id="product-component-1635064471258"&gt;&lt;/div&gt;
-&lt;div class="item__info"&gt;
-    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.&lt;br/&gt;Handmade in Barcelona. Made to order. Please allow 2-3 weeks for production.
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 29 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo Shop</title><link>https://domingoclub.com/shop.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Hello&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo organic tee-shirt</title><link>https://domingoclub.com/domingo-organic-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+&lt;img alt="" src="domingo-tee-02.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 25 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo Shop</title><link>https://domingoclub.com/shop.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Hello&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo organic tee-shirt</title><link>https://domingoclub.com/domingo-organic-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€26,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
     Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!

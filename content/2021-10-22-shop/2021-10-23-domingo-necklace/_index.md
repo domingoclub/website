@@ -5,6 +5,7 @@ featured_desc: Domingo necklace
 featured_price: 65,00
 last_update: 2021-10-29
 type: shop_item
+draft: True
 ---
 
 <div class="item_shop">
