@@ -3,6 +3,7 @@ title: Links
 last_update: 2021-10-06
 ---
 
+- [Get your Domingo necklace](domingo-necklace.html)
 - [This is Distributed Design (book)](this-is-distributed-design.html)
 - [Our shop is open!](shop.html)
 - [3D printed moulds v-02](3D-printed-moulds-v-02.html)
