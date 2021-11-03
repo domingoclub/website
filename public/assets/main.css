@@ -311,7 +311,7 @@ img {
       grid-template-columns: repeat(3, 1fr); }
       .grid.lg {
         grid-template-columns: repeat(2, 1fr); } }
-  @media (min-width: 1440px) {
+  @media (min-width: 1920px) {
     .grid {
       grid-template-columns: repeat(4, 1fr); }
       .grid.lg {
@@ -509,9 +509,10 @@ img {
 .topbar {
   background-color: var(--base-color);
   color: var(--body-color);
-  padding-top: var(--size-md);
-  padding-bottom: var(--size-md);
-  text-align: center; }
+  padding-top: var(--size-sm);
+  padding-bottom: var(--size-sm);
+  text-align: center;
+  font-size: var(--size-md); }
   .topbar a {
     border: none;
     padding: 0;
@@ -688,10 +689,10 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
   width: 100%;
   min-height: 85vh;
   display: flex;
-  background-image: url("images/incubator.jpg");
+  background-image: url("images/necklace-00006.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0% 75%;
+  background-position: 50% 80%;
   position: relative;
   padding-top: calc(var(--size-xxl)*2); }
   @media (max-width: 767px) {
@@ -711,7 +712,7 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
     position: relative;
     color: var(--body-color);
     width: 100%;
-    max-width: 900px;
+    max-width: 930px;
     margin-top: auto;
     margin-bottom: var(--size-xxl); }
   .intro p {
@@ -719,15 +720,20 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
     .intro p + p {
       margin-top: 0; }
     .intro p span {
-      font-size: calc(var(--size-xxl) * 1.5);
-      line-height: 1 !important; }
+      line-height: 1 !important;
+      background-color: var(--base-color);
+      padding: 2.5px 0;
+      box-shadow: 5px 0 0 var(--base-color), -5px 0 0 var(--base-color);
+      box-decoration-break: clone; }
       @media (max-width: 767px) {
         .intro p span {
-          font-size: var(--size-xxl); } }
+          font-size: var(--size-lg);
+          line-height: 1 !important; } }
   .intro .button {
     border-radius: var(--size-md); }
   .intro img {
     width: 260px;
+    margin-top: calc(var(--size-xxl) * 1.5);
     margin-bottom: calc(var(--size-xxl) * 1.5);
     display: block;
     animation: rotate 20s linear infinite; }

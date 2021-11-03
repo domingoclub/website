@@ -11,10 +11,10 @@
   width: 100%;
   min-height: 85vh;
   display: flex;
-  background-image: url('images/incubator.jpg');
+  background-image: url('images/necklace-00006.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0% 75%;
+  background-position: 50% 80%;
   position: relative;
   padding-top: calc(var(--size-xxl)*2);
   &:before {
@@ -29,7 +29,7 @@
     position: relative;
     color: var(--body-color);
     width: 100%;
-    max-width: 900px;
+    max-width: 930px;
     margin-top: auto;
     margin-bottom: var(--size-xxl);
   }
@@ -40,10 +40,14 @@
     }
     span {
       @extend %ts-title-0;
-      font-size: calc(var(--size-xxl) * 1.5);
       line-height: 1 !important;
+      background-color: var(--base-color);
+      padding: 2.5px 0;
+      box-shadow: 5px 0 0 var(--base-color), -5px 0 0 var(--base-color);
+      box-decoration-break: clone;
       @include media('<sm') {
-        font-size: var(--size-xxl);
+        font-size: var(--size-lg);
+        line-height: 1 !important;
       }
     }
   }
@@ -52,6 +56,7 @@
   }
   img {
     width: 260px;
+    margin-top: calc(var(--size-xxl) * 1.5);
     margin-bottom: calc(var(--size-xxl) * 1.5);
     display: block;
     @include media('<sm') {

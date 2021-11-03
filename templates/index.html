@@ -4,7 +4,8 @@
   <section>
     <img src="/assets/images/logo-sun-white.svg" alt="Domingo Club">
     <!-- <p><span><a href="about.html" class="button">Domingo Club</a> makes fermented <a href="food.html" class="button">food</a>, open-source <a href="tools.html" class="button">tools</a> and explores collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system</span></p> -->
-    <p><span>We make open source tools to ferment your homemade plant-based proteins</span></p>
+    <!-- <p><span>We make open source tools to ferment your homemade plant-based proteins</span></p> -->
+    <p><span>We promote fermented plant-based protein and build tools so that everyone can make them at home for the benefit of our lives and our planet</span></p>
   </section>
 </article>
 
@@ -12,7 +13,7 @@
 <section class="index index--grid">
   <h1 class="index__title">Shop</h2>
   <ul class="grid lg">
-    {% for article in articles if articles[article]['type'] == 'shop_item' and not articles[article]['draft'] %}
+    {% for article in articles|reverse if articles[article]['type'] == 'shop_item' and not articles[article]['draft'] %}
       {% set slug = articles[article]['slug'] %}
       {% set article = articles[slug] %}
       <li class="grid__item">

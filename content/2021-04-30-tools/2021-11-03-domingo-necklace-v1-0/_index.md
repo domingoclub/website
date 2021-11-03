@@ -1,24 +1,15 @@
 ---
 title: Domingo Necklace v1.0
 featured: True
-featured_image:
-featured_desc: Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body
-draft: True
+featured_image: IMG_6404.jpg
+featured_desc: Instructions for using the Domingo necklace
+draft: False
 ---
 
 
-<!-- <button class="snipcart-add-item"
-  data-item-id="incubator-necklace"
-  data-item-price="26.00"
-  data-item-url="/domingo-necklace.html"
-  data-item-description="Wear this necklace for 24-30 hours to ferment your own plant-based protein (aka tempeh) with the heat of your body"
-  data-item-image="medias/incubator-necklace-body-incub03.JPG"
-  data-item-name="Domingo Necklace">
-  Add to cart
-</button> -->
+![](IMG_6523.jpg)
 
-
-Yes, you can ferment your food with the heat of your body! Domingo Club made a necklace for this. Wear it for 24-30 hours and ferment your own plant-based protein aka tempeh.
+Yes, you can ferment your food with the heat of your body! Domingo Club made a necklace for this. Wear it for 24-30 hours and ferment your own plant-based protein aka tempeh. Get it on our [e-shop](domingo-necklace.html)
 
 # About Tempeh
 
@@ -27,6 +18,8 @@ Tempeh is a fermented product from Indonesia made from soybeans and fungi. Durin
 # About the Domingo necklace
 
 The Domingo Necklace is a poetic invitation to anyone to start fermenting tempeh without any other device than your body.
+
+![](IMG_6570.jpg)
 
 # How to make tempeh with the Domingo Necklace
 
@@ -54,6 +47,8 @@ The Domingo Necklace is a poetic invitation to anyone to start fermenting tempeh
 - You can also marinate it for several minutes and then fry it
 - If you don't want to eat it straight away, you can store it in the fridge for a day or freeze it for several days
 
+![](IMG_6404.jpg)
+<!-- ![](IMG_6601.jpg) -->
 
 # Fabrication
 
@@ -66,3 +61,5 @@ The Domingo Necklace is made of:
 - organic split soybeans grown in Italy (non-GMO and no chemicals used during any stage of production)
 
 → You can get it on our [e-shop](shop.html)
+
+

@@ -50,7 +50,7 @@ function ShopifyBuyInit() {
     });
     ui.createComponent('product', {
       id: '7340365611252',
-      node: document.getElementById('product-component-1635064471258'),
+      node: document.getElementById('product-component-1635946417365'),
       moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
       options: shopifyOptions
     });
