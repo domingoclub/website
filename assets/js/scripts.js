@@ -26,9 +26,28 @@ function introResize() {
   }
 }
 introResize();
-window.addEventListener('resize', introResize);
-window.addEventListener('load', introResize);
-document.addEventListener("pjax:success", introResize);
+
+
+// check nav scroll
+function checkNavScroll() {
+  let nav = document.querySelector('.header .nav__list');
+  if (nav) {
+    let contentWidth = 0;
+    let navElems = nav.childNodes;
+    for (let item in navElems) {
+      let itemWidth = navElems[item].offsetWidth;
+      if (itemWidth != undefined) {
+        contentWidth = contentWidth + itemWidth;
+      }
+    }
+    let screenWidth = window.screen.width;
+    if (contentWidth >= screenWidth) {
+      nav.style.overflow = 'scroll';
+    } else {
+      nav.style.overflow = 'hidden';
+    }
+  }
+}
 
 // Shopify
 var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
@@ -70,8 +89,6 @@ function ShopifyBuyInit() {
     });
   });
 }
-shopifyInit();
-document.addEventListener("pjax:success", shopifyInit);
 
 let shopifyOptions = {
   "product": {
@@ -268,4 +285,15 @@ let shopifyOptions = {
   }
 }
 
-
+function onLoadFunctions() {
+  introResize();
+  shopifyInit();
+  checkNavScroll();
+}
+function onResizeFunctions() {
+  introResize();
+  checkNavScroll();
+}
+window.addEventListener('resize', onResizeFunctions);
+window.addEventListener('load', onLoadFunctions);
+document.addEventListener("pjax:success", onLoadFunctions);
