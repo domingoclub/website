@@ -512,7 +512,7 @@ img {
   padding-top: var(--size-sm);
   padding-bottom: var(--size-sm);
   text-align: center;
-  font-size: var(--size-md); }
+  font-size: var(--size-sm); }
   .topbar a {
     border: none;
     padding: 0;

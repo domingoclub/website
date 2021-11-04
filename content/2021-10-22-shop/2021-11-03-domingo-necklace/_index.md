@@ -24,7 +24,7 @@ type: shop_item
 
 - a 1.5 mm wide fairtrade 925 sterling silver curb chain with a spring ring clasp
 - a lightweight petri dish holder designed and 3D printed by us in bioplastic (PLA)
-- a 60 cm diameter glass petri dish with the Domingo Club logo engraved on the back
+- a 60 mm diameter glass petri dish with the Domingo Club logo engraved on the back
 - a moon-shaped measuring tool designed and 3D printed by us in bioplastic (PLA)
 - organic split soybeans grown in Italy (non-GMO and no chemicals used during any stage of production)
 

@@ -13,7 +13,7 @@ type: shop_item
   </div>
   <div id='product-component-1635063611737'></div>
   <div class="item__info">
-    Pickup available at Carrer de Pere IV 29 08018 Barcelona.<br>Usually ready in 2-4 days.
+    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.<br>Usually ready in 2-4 days.
   </div>
 </div>
 
