@@ -11,6 +11,7 @@ navigation:
   "Shop": "shop"
   "Journal": "journal"
   "About": "about"
+  "Contact": "contact"
 analytics:  "
 <script>
   var _paq = window._paq = window._paq || [];

@@ -4,9 +4,9 @@ title: About the Domingo Club
 
 Domingo Club is an initiative by [Maud Bausier](https://maudbausier.com/) and [Antoine Jaunard](https://antoine.studio/), a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.
 
-We make fermented [food](food.html), open-source [tools](tools.html) and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
+We make fermented [food](food.html), open-source [tools](tools.html) and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system. Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
 
-Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.
+Visit our [contact](contact.html) page to get in touch with us.
 
 !!! notes "What's in the making?"
     Want to know what we are doing now? Visit our [now](now.html) page.
@@ -41,9 +41,3 @@ In the meantime, we already use our first incubator prototype to make delicious 
     Tempeh is an Indonesian fermented food product originally made out of soy beans. The taste evokes aromas of mushroom, nut and yeast.
 
 ![Our tempeh after ~30 hours of incubation](tempeh-1.jpg)
-
-# Contact
-
-Email us at [hola@domingoclub.com](mailto:hola@domingoclub.com) if you would like to discuss any of these topics with us. We speak English, Spanish and French.
-
-To be notified of our future news, you can subscribe to our [newsletter](newsletter.html) and follow us on [Instagram](https://instagram.com/domingoclub).

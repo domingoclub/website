@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Nov 2021 13:09:17 +0000</lastBuildDate><item><title>Domingo Necklace v1.0</title><link>https://domingoclub.com/domingo-necklace-v1-0.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_6523.jpg"/&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Nov 2021 16:41:31 +0000</lastBuildDate><item><title>Contact</title><link>https://domingoclub.com/contact.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h2 id="its-easy-to-contact-us"&gt;It's easy to contact us&lt;/h2&gt;
+&lt;p&gt;We will be happy to discuss our and/or your projects with you. We speak English, Spanish and French. Email us at &lt;a class="external" href="mailto:hola@domingoclub.com"&gt;hola@domingoclub.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our studio is located in sunny Barcelona, Spain (carrer de Pere IV 29, Poblenou).&lt;/p&gt;
+&lt;h2 id="to-be-notified-of-our-future-news"&gt;To be notified of our future news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;subscribe to our &lt;a class="internal" href="newsletter.html"&gt;newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;follow us on &lt;a class="external" href="https://instagram.com/domingoclub"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="This is us in our studio in Barcelona" src="IMG_6031.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 04 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Domingo Necklace v1.0</title><link>https://domingoclub.com/domingo-necklace-v1-0.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;&lt;img alt="" src="IMG_6523.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Yes, you can ferment your food with the heat of your body! Domingo Club made a necklace for this. Wear it for 24-30 hours and ferment your own plant-based protein aka tempeh. Get it on our &lt;a class="internal" href="domingo-necklace.html"&gt;e-shop&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id="about-tempeh"&gt;About Tempeh&lt;/h1&gt;
 &lt;p&gt;Tempeh is a fermented product from Indonesia made from soybeans and fungi. During the fermentation, the fungus feeds on the soybeans and grows in the space around them, binding them together. This processs breaks down the molecules and this pre-digestion allows us to absorb many more nutrients from the soybeans. That makes tempeh as rich in protein and iron as meat. It is also higher in fibre and calcium while being lower in saturated fat and salt. The taste of tempeh evokes aromas of mushrooms, nuts and yeast, and its texture is firm, chunky and "meaty". Extremely delicious!&lt;/p&gt;
@@ -546,8 +554,8 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;/script&gt;
 &lt;div class="sender-form-field" data-sender-form-id="kmf543xgaqn7qbtckzw"&gt;&lt;/div&gt;
 &lt;p&gt;We respect your privacy and will never share your email address with third parties. Never ever.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>About the Domingo Club</title><link>https://domingoclub.com/about.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Domingo Club is an initiative by &lt;a class="external" href="https://maudbausier.com/"&gt;Maud Bausier&lt;/a&gt; and &lt;a class="external" href="https://antoine.studio/"&gt;Antoine Jaunard&lt;/a&gt;, a duo of Belgian designers with complementary forces, freshly settled in Barcelona, Spain.&lt;/p&gt;
-&lt;p&gt;We make fermented &lt;a class="internal" href="food.html"&gt;food&lt;/a&gt;, open-source &lt;a class="internal" href="tools.html"&gt;tools&lt;/a&gt; and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.&lt;/p&gt;
-&lt;p&gt;Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.&lt;/p&gt;
+&lt;p&gt;We make fermented &lt;a class="internal" href="food.html"&gt;food&lt;/a&gt;, open-source &lt;a class="internal" href="tools.html"&gt;tools&lt;/a&gt; and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system. Big changes come from everyday habits, join us in the club and let's make our Sunday more impactful.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a class="internal" href="contact.html"&gt;contact&lt;/a&gt; page to get in touch with us.&lt;/p&gt;
 &lt;div class="admonition notes"&gt;
 &lt;p class="admonition-title"&gt;What's in the making?&lt;/p&gt;
 &lt;p&gt;Want to know what we are doing now? Visit our &lt;a class="internal" href="now.html"&gt;now&lt;/a&gt; page.&lt;/p&gt;
@@ -558,9 +566,7 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;We advocate open source tools (hardware and software) to allow others to understand, modify and repair the tools we produce. Together we will develop a proactive and hacktivist attitude.&lt;/p&gt;
 &lt;p&gt;We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.&lt;/p&gt;
 &lt;h1 id="focus"&gt;Focus&lt;/h1&gt;
-&lt;p&gt;With the desire to encourage fermented food and food waste recycling, we design and develop an incubator.&lt;/p&gt;
-&lt;div class="admonition notes"&gt;
-&lt;p class="admonition-title...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
+&lt;p&gt;With the desire to encourage fermented food and food waste recycling, we de...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class="internal" href="domingo-necklace.html"&gt;Get your Domingo necklace&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="this-is-distributed-design.html"&gt;This is Distributed Design (book)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="shop.html"&gt;Our shop is open!&lt;/a&gt;&lt;/li&gt;

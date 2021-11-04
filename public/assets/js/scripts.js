@@ -16,6 +16,19 @@ function pjaxInit() {
 }
 pjaxLoadScript();
 
+// Intro margin negative (topbar)
+function introResize() {
+  let header = document.querySelector('.header');
+  let headerHeight = header.offsetHeight;
+  let intro = document.querySelector('.page--homepage .intro');
+  console.log(headerHeight);
+  console.log(intro);
+  intro.style.marginTop = '-' + headerHeight + 'px'; 
+}
+introResize();
+window.addEventListener('resize', introResize);
+document.addEventListener("pjax:success", introResize);
+
 // Shopify
 var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
 function shopifyInit() {

@@ -4,10 +4,6 @@
 }
 
 .intro {
-  margin-top: -83px;
-  @include media('<sm') {
-    margin-top: -69px;
-  }
   width: 100%;
   min-height: 85vh;
   display: flex;
@@ -42,8 +38,7 @@
       @extend %ts-title-0;
       line-height: 1 !important;
       background-color: var(--base-color);
-      padding: 2.5px 0;
-      box-shadow: 5px 0 0 var(--base-color), -5px 0 0 var(--base-color);
+      box-shadow: var(--size-sm) 0 0 var(--base-color), calc(-1 * var(--size-sm)) 0 0 var(--base-color);
       box-decoration-break: clone;
       @include media('<sm') {
         font-size: var(--size-lg);
