@@ -96,11 +96,11 @@ textarea {
   --border-sm: 1px;
   --content-max-width: 640px; }
 
-.topbar, .article, .intro, .index, .footer, .header {
+.topbar, .article, .intro, .index, .footer {
   padding-left: var(--size-xxl);
   padding-right: var(--size-xxl); }
   @media (max-width: 569px) {
-    .topbar, .article, .intro, .index, .footer, .header {
+    .topbar, .article, .intro, .index, .footer {
       padding-left: var(--size-xl);
       padding-right: var(--size-xl); } }
 .ts code, .ts em strong,
@@ -241,21 +241,36 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
   z-index: 2; }
   .header .nav {
     padding-top: var(--size-md);
-    padding-bottom: var(--size-xl); }
+    padding-bottom: var(--size-xl);
+    width: 100%;
+    overflow: hidden; }
   .header .title {
     margin-right: var(--size-sm); }
 
 .nav__list {
   list-style: none;
   display: flex;
-  flex-wrap: wrap; }
+  flex-wrap: nowrap;
+  overflow-x: scroll; }
 
 .nav__item, .toc__list li, .toc__list--sub li {
   display: block;
   margin-bottom: var(--size-xs); }
+  .nav__item:first-child, .toc__list li:first-child, .toc__list--sub li:first-child {
+    padding-left: var(--size-xxl); }
+    @media (max-width: 569px) {
+      .nav__item:first-child, .toc__list li:first-child, .toc__list--sub li:first-child {
+        padding-left: var(--size-xl); } }
+  .nav__item:last-child, .toc__list li:last-child, .toc__list--sub li:last-child {
+    padding-right: var(--size-xxl); }
+    @media (max-width: 569px) {
+      .nav__item:last-child, .toc__list li:last-child, .toc__list--sub li:last-child {
+        padding-right: var(--size-xl); } }
   .nav__item:not(:last-child), .toc__list li:not(:last-child), .toc__list--sub li:not(:last-child) {
     margin-right: var(--size-sm); }
-
+    @media (max-width: 767px) {
+      .nav__item:not(:last-child), .toc__list li:not(:last-child), .toc__list--sub li:not(:last-child) {
+        margin-right: var(--size-xs); } }
 .footer {
   padding-top: var(--size-xxl);
   padding-bottom: var(--size-lg); }
@@ -512,7 +527,7 @@ img {
   padding-top: var(--size-sm);
   padding-bottom: var(--size-sm);
   text-align: center;
-  font-size: var(--size-sm); }
+  font-size: var(--size-md); }
   .topbar a {
     border: none;
     padding: 0;
