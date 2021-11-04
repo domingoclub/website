@@ -18,15 +18,16 @@ pjaxLoadScript();
 
 // Intro margin negative (topbar)
 function introResize() {
-  let header = document.querySelector('.header');
-  let headerHeight = header.offsetHeight;
   let intro = document.querySelector('.page--homepage .intro');
-  console.log(headerHeight);
-  console.log(intro);
-  intro.style.marginTop = '-' + headerHeight + 'px'; 
+  if (intro) {
+    let header = document.querySelector('.header');
+    let headerHeight = header.offsetHeight;
+    intro.style.marginTop = '-' + headerHeight + 'px'; 
+  }
 }
 introResize();
 window.addEventListener('resize', introResize);
+window.addEventListener('load', introResize);
 document.addEventListener("pjax:success", introResize);
 
 // Shopify

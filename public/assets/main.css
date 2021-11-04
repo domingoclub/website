@@ -255,6 +255,7 @@ label.sender-form-label, .toc__title--sub, .index:not(.index--featured) .index__
 
 .nav__item, .toc__list li, .toc__list--sub li {
   display: block;
+  margin-top: var(--size-xs);
   margin-bottom: var(--size-xs); }
   .nav__item:first-child, .toc__list li:first-child, .toc__list--sub li:first-child {
     padding-left: var(--size-xxl); }
@@ -786,8 +787,13 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
 .index--grid .item__price {
   margin-top: var(--size-xs); }
 
+.article {
+  margin-top: var(--size-lg);
+  margin-bottom: var(--size-lg); }
+
 .article:not(.index) {
-  margin: var(--size-xl) auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 100%;
   max-width: var(--content-max-width); }
 

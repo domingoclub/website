@@ -1,5 +1,10 @@
+.article {
+  margin-top: var(--size-lg);
+  margin-bottom: var(--size-lg);
+}
 .article:not(.index) {
-  margin: var(--size-xl) auto;
+  margin-left:  auto;
+  margin-right:  auto;
   width: 100%;
   max-width: var(--content-max-width);
 }
