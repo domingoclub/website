@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Nov 2021 19:26:42 +0000</lastBuildDate><item><title>Contact</title><link>https://domingoclub.com/contact.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h2 id="its-easy-to-contact-us"&gt;It's easy to contact us&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 09 Nov 2021 16:47:22 +0000</lastBuildDate><item><title>Domingo organic black tee-shirt</title><link>https://domingoclub.com/domingo-organic-black-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+&lt;div class="item__price"&gt;€26,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
+&lt;div class="item__desc"&gt;
+&lt;p&gt;Pre-order! We are launching a new t-shirt model. They will be delivered in three weeks.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id="product-component-1636476321283"&gt;&lt;/div&gt;
+&lt;div class="item__info"&gt;
+    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.&lt;br/&gt;Usually ready in 2-4 days.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img alt="" src="domingo-tee-black-back.jpg"/&gt;
+&lt;img alt="" src="domingo-tee-black-front.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Tue, 09 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Contact</title><link>https://domingoclub.com/contact.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h2 id="its-easy-to-contact-us"&gt;It's easy to contact us&lt;/h2&gt;
 &lt;p&gt;We will be happy to discuss our and/or your projects with you. We speak English, Spanish and French. Email us at &lt;a class="external" href="mailto:hola@domingoclub.com"&gt;hola@domingoclub.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Our studio is located in sunny Barcelona, Spain (carrer de Pere IV 29, Poblenou).&lt;/p&gt;
 &lt;h2 id="to-be-notified-of-our-future-news"&gt;To be notified of our future news&lt;/h2&gt;
