@@ -2,6 +2,7 @@
 title: Fermentor v0.3
 featured: True
 open: True
+draft: True
 ---
 
 At Domingo Club, we make fermented food, open-source tools and explore collaboration with natural processes to promote understanding, transparency, resilience and equity in our global food system.
