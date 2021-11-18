@@ -830,11 +830,15 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
 .article.index .article__backlinks {
   display: none; }
 
-.article a.external {
+.article a.external:not(.btn) {
   padding: 0;
   border: none;
   border-radius: 0;
   text-decoration: underline; }
+
+.article a.btn {
+  background-color: var(--base-color);
+  color: var(--body-color); }
 
 #links .article__content ul {
   list-style: none; }
