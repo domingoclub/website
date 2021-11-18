@@ -60,6 +60,6 @@ The Domingo Necklace is made of:
 - a moon-shaped measuring tool designed and 3D printed by us in bioplastic (PLA)
 - organic split soybeans grown in Italy (non-GMO and no chemicals used during any stage of production)
 
-→ You can get it on our [e-shop](shop.html)
+[Get it on our e-shop](button:domingo-necklace.html)
 
 

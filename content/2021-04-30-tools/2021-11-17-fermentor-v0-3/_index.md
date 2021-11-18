@@ -1,5 +1,6 @@
 ---
 title: Fermentor v0.3
+featured: True
 open: True
 ---
 
