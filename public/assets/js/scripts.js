@@ -22,7 +22,7 @@ function introResize() {
   if (intro) {
     let header = document.querySelector('.header');
     let headerHeight = header.offsetHeight;
-    intro.style.marginTop = '-' + headerHeight + 'px'; 
+    intro.style.marginTop = '-' + headerHeight + 'px';
   }
 }
 introResize();
@@ -92,6 +92,12 @@ function ShopifyBuyInit() {
       node: document.getElementById('product-component-1636476321283'),
       moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
       options: shopifyOptions
+    });
+    ui.createComponent('product', {
+       id: '7459269902580',
+       node: document.getElementById('product-component-1637603176028'),
+       moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
+       options: shopifyOptions
     });
   });
 }

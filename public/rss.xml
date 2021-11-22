@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 22 Nov 2021 11:38:10 +0000</lastBuildDate><item><title>Fermentor v0.3 Notes</title><link>https://domingoclub.com/fermentor-v0-3-notes.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Notes on the current build of the Fermenter, ideas and improvements for the next version, what we like and what we dislike.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 22 Nov 2021 19:10:05 +0000</lastBuildDate><item><title>Movimiento y Tempeh</title><link>https://domingoclub.com/movimiento-y-tempeh.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+&lt;div class="item__price"&gt;€35,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
+&lt;div class="item__desc"&gt;
+  Movement workshop by Zarina Rondón and tempeh dinner by Domingo Club on Wednesday 8th December from 18:30 to 22:00 at Espai Cosmos Poblenou.
+  &lt;/div&gt;
+&lt;div id="product-component-1637603176028"&gt;&lt;/div&gt;
+&lt;div class="item__info"&gt;
+    December 8, Espai Cosmos, C. de Pere IV 78-84, 6-8 / Metro L4 Bogatell
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;img alt="" src="movimiento-tempeh-flyer.png"/&gt;&lt;/p&gt;
+&lt;p&gt;We propose an event that nourishes the body, mind and soul through corporal movement and sustainable food.&lt;/p&gt;
+&lt;p&gt;We will start with a 2 hour session of the movement workshop given by Zarina Rondón where movement will be explored with exercises that open the doors of observation to detail our ability to dance, move and exercise with flexibility (mental and physical).&lt;/p&gt;
+&lt;p&gt;Afterwards, we will gather around a shared meal where the Domingo Club will introduce the world of fermentation and fungi with tempeh. They will offer a 100% vegan dish, in which tempeh will shine on its own and will be combined with seasonal vegetables and condiments.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 22 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Fermentor v0.3 Notes</title><link>https://domingoclub.com/fermentor-v0-3-notes.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Notes on the current build of the Fermenter, ideas and improvements for the next version, what we like and what we dislike.&lt;/p&gt;
 &lt;h1 id="next-version"&gt;Next version&lt;/h1&gt;
 &lt;p&gt;It is hard to finish one version without starting to think about the next.&lt;/p&gt;
 &lt;h2 id="fabrication"&gt;Fabrication&lt;/h2&gt;
