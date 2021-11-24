@@ -13,7 +13,7 @@ type: shop_item
   </div>
   <div id='product-component-1635946417365'></div>
   <div class="item__info">
-    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.<br>Made to order. Please allow 2-3 weeks for production.
+    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.<br>
   </div>
 </div>
 
@@ -46,6 +46,3 @@ type: shop_item
 ![](necklace-00003.jpg)
 ![](necklace-00005.jpg)
 ![](necklace-00004.jpg)
-
-
-
