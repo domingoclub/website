@@ -43,3 +43,6 @@ Unlinked components must be updated.
 ![PCB design](pcb-design.jpg)
 ![PCB front](pcb-front.jpg)
 ![PCB back](pcb-back.jpg)
+
+!!! notes "Documentation in progress"
+    This part is currently being documented. In the meantime, find the files [there](https://github.com/domingoclub/domingo-fermentor)
