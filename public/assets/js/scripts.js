@@ -99,6 +99,12 @@ function ShopifyBuyInit() {
        moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
        options: shopifyOptions
     });
+    ui.createComponent('product', {
+      id: '7469353107700',
+      node: document.getElementById('product-component-1638201115057'),
+      moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
+      options: shopifyOptions
+   });
   });
 }
 
