@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 29 Nov 2021 16:23:25 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 29 Nov 2021 16:31:57 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€65,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
   Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body. Handmade in Barcelona.
@@ -646,6 +646,7 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.&lt;/p&gt;
 &lt;h1 id="focus"&gt;Focus&lt;/h1&gt;
 &lt;p&gt;With the desire to encourage fermented food and food waste recycling, we de...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="internal" href="refill-tempeh-sm.htmli"&gt;Refill of organic split soybeans and tempeh starter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="movimiento-y-tempeh.html"&gt;Infos &amp;amp; tickets for Movimiento y Tempeh on Wednesday 8 December&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="external" href="https://docs.google.com/forms/d/e/1FAIpQLSfmPjNggsvqgmbdhAAzkrRvIsfapUNEPw3wgtHiGsFZe-7oOg/viewform"&gt;Pre-registration for All Ferments on Thursday 2 December&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="domingo-necklace.html"&gt;Get your Domingo necklace&lt;/a&gt;&lt;/li&gt;
