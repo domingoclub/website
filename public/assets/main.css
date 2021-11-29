@@ -528,7 +528,9 @@ img {
   padding-top: var(--size-sm);
   padding-bottom: var(--size-sm);
   text-align: center;
-  font-size: var(--size-sm); }
+  font-size: var(--size-sm);
+  position: relative;
+  z-index: 3; }
   .topbar a {
     border: none;
     padding: 0;
