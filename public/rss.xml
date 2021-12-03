@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 29 Nov 2021 16:47:59 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Dec 2021 16:33:02 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€65,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
   Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body. Handmade in Barcelona.
@@ -105,8 +105,7 @@
 &lt;p&gt;&lt;a class="btn external" href="https://github.com/domingoclub/domingo-fermentor"&gt;View and download all fabrication files&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Thu, 25 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Domingo organic black tee-shirt</title><link>https://domingoclub.com/domingo-organic-black-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€26,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
-&lt;p&gt;Pre-order! We are launching a new t-shirt model. They will be delivered in three weeks.&lt;/p&gt;&lt;p&gt;
-&lt;/p&gt;&lt;p&gt;Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!&lt;/p&gt;
+&lt;p&gt;Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id="product-component-1636476321283"&gt;&lt;/div&gt;
 &lt;div class="item__info"&gt;
@@ -646,11 +645,11 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.&lt;/p&gt;
 &lt;h1 id="focus"&gt;Focus&lt;/h1&gt;
 &lt;p&gt;With the desire to encourage fermented food and food waste recycling, we de...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="internal" href="domingo-organic-black-teeshirt.html"&gt;Get a Domingo black tee-shirt!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="refill-tempeh-sm.html"&gt;Refill of organic split soybeans and tempeh starter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="movimiento-y-tempeh.html"&gt;Infos &amp;amp; tickets for Movimiento y Tempeh on Wednesday 8 December&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="external" href="https://docs.google.com/forms/d/e/1FAIpQLSfmPjNggsvqgmbdhAAzkrRvIsfapUNEPw3wgtHiGsFZe-7oOg/viewform"&gt;Pre-registration for All Ferments on Thursday 2 December&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="domingo-necklace.html"&gt;Get your Domingo necklace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="internal" href="domingo-organic-black-teeshirt.html"&gt;Black tee-shirts available for pre-order&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="this-is-distributed-design.html"&gt;This is Distributed Design (book)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="3D-printed-moulds-v-02.html"&gt;3D printed moulds v-02&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="external" href="https://www.makery.info/en/2021/09/11/english-domingo-club-wed-like-to-share-fabrication-recipes-like-we-share-food-recipes/"&gt;Interview by Makery&lt;/a&gt;&lt;/li&gt;
