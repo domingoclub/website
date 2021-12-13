@@ -4,6 +4,7 @@ featured_image: movimiento-tempeh-flyer-ig.png
 featured_price: 35,00
 last_update: 2021-11-22
 type: shop_item
+draft: True
 ---
 
 <div class="item_shop">

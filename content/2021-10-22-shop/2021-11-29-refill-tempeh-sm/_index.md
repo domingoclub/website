@@ -19,6 +19,7 @@ type: shop_item
 
 ![](refill-tempeh-sm.jpg)
 
+This kit is made to be used with the [Domingo necklace](domingo-necklace.html).
 
 ## This kit contains
 

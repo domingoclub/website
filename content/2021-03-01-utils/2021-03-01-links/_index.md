@@ -2,6 +2,7 @@
 title: Links
 last_update: 2021-10-06
 ---
+- [Enter our shop](shop.html)
 - [Get a Domingo black tee-shirt!](domingo-organic-black-teeshirt.html)
 - [Refill of organic split soybeans and tempeh starter](refill-tempeh-sm.html)
 - [Infos & tickets for Movimiento y Tempeh on Wednesday 8 December](movimiento-y-tempeh.html)

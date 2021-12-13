@@ -41,8 +41,13 @@ type: shop_item
 
 - One Size (71 cm neck size)
 
+## Refill
+
+You get get a refill of organic split soybeans and tempeh starter [here](refill-tempeh-sm.html).
+
 ![](necklace-00001.jpg)
 ![](necklace-00002.jpg)
 ![](necklace-00003.jpg)
 ![](necklace-00005.jpg)
 ![](necklace-00004.jpg)
+

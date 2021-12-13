@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Dec 2021 16:33:02 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 13 Dec 2021 11:09:30 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€65,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
   Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body. Handmade in Barcelona.
@@ -31,11 +31,13 @@
 &lt;ul&gt;
 &lt;li&gt;One Size (71 cm neck size)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id="refill"&gt;Refill&lt;/h2&gt;
+&lt;p&gt;You get get a refill of organic split soybeans and tempeh starter &lt;a class="internal" href="refill-tempeh-sm.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="necklace-00001.jpg"/&gt;
 &lt;img alt="" src="necklace-00002.jpg"/&gt;
 &lt;img alt="" src="necklace-00003.jpg"/&gt;
 &lt;img alt="" src="necklace-00005.jpg"/&gt;
-&lt;img alt="" src="necklace-00004.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Wed, 03 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Refill of organic split soybeans and tempeh starter</title><link>https://domingoclub.com/refill-tempeh-sm.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+&lt;img ...</description><pubDate>Wed, 03 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Refill of organic split soybeans and tempeh starter</title><link>https://domingoclub.com/refill-tempeh-sm.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€4,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
   Refill of organic split soybeans and tempeh starter (rhizopus spores). With this refill you will have enough ingredients to grow 30 small tempeh using the Domingo necklace.
@@ -46,28 +48,13 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img alt="" src="refill-tempeh-sm.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;This kit is made to be used with the &lt;a class="internal" href="domingo-necklace.html"&gt;Domingo necklace&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="this-kit-contains"&gt;This kit contains&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;250 grams of organic split soybeans grown in Italy (non-GMO and no chemicals used at any stage of production)&lt;/li&gt;
 &lt;li&gt;2 grams of tempeh starter grown in Belgium from non-GMO ingredients&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It's important to know where our food comes from.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 29 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Movimiento y Tempeh</title><link>https://domingoclub.com/movimiento-y-tempeh.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
-&lt;div class="item__price"&gt;€35,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
-&lt;div class="item__desc"&gt;
-  Movement workshop by Zarina Rondón and tempeh dinner by Domingo Club on Wednesday 8th December from 18:30 to 22:00 at Espai Cosmos Poblenou.
-  &lt;/div&gt;
-&lt;div id="product-component-1637603176028"&gt;&lt;/div&gt;
-&lt;div class="item__info"&gt;
-    December 8, Espai Cosmos, C. de Pere IV 78-84, 6-8 / Metro L4 Bogatell
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;img alt="" src="movimiento-tempeh-flyer.png"/&gt;&lt;/p&gt;
-&lt;p&gt;We propose an event that nourishes the body, mind and soul through corporal movement and sustainable food.&lt;/p&gt;
-&lt;p&gt;We will start with a 2 hour session of the movement workshop given by Zarina Rondón where movement will be explored with exercises that open the doors of observation to detail our ability to dance, move and exercise with flexibility (mental and physical).&lt;/p&gt;
-&lt;p&gt;Afterwards, we will gather around a shared meal where the Domingo Club will introduce the world of fermentation and fungi with tempeh. They will offer a 100% vegan dish, in which tempeh will shine on its own and will be combined with seasonal vegetables and condiments.&lt;/p&gt;
-&lt;div class="embed-container"&gt;&lt;iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/648988145" webkitallowfullscreen=""&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div class="embed-container"&gt;&lt;iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="https://player.vimeo.com/video/648988016" webkitallowfullscreen=""&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;Images shot by Benjamin Scott on the roof of our studio in Poblenou (Barcelona, Spain) and edited by Zarina Rondón. Movements by Zarina Rondón, Pilar Rodriguez Catón y Gabriela Lotaif. Tempeh Necklace by Domingo Club.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 22 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Fermentor v0.3 Notes</title><link>https://domingoclub.com/fermentor-v0-3-notes.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Notes on the current build of the Fermenter, ideas and improvements for the next version, what we like and what we dislike.&lt;/p&gt;
+&lt;p&gt;It's important to know where our food comes from.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 29 Nov 2021 00:00:00 +0200</pubDate></item><item><title>Fermentor v0.3 Notes</title><link>https://domingoclub.com/fermentor-v0-3-notes.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Notes on the current build of the Fermenter, ideas and improvements for the next version, what we like and what we dislike.&lt;/p&gt;
 &lt;h1 id="next-version"&gt;Next version&lt;/h1&gt;
 &lt;p&gt;It is hard to finish one version without starting to think about the next.&lt;/p&gt;
 &lt;h2 id="fabrication"&gt;Fabrication&lt;/h2&gt;
@@ -645,6 +632,7 @@ Even during the early stage of the fermentation process, beneficial bacteria and
 &lt;p&gt;We believe that partnering with living systems encourages us to move away from rapid, global manufacturing processes, helping us to be more conscious of our natural environment and its resources. Let's move towards a bio-based circular economy for a bright future.&lt;/p&gt;
 &lt;h1 id="focus"&gt;Focus&lt;/h1&gt;
 &lt;p&gt;With the desire to encourage fermented food and food waste recycling, we de...</description><pubDate>Thu, 18 Mar 2021 00:00:00 +0200</pubDate></item><item><title>Links</title><link>https://domingoclub.com/links.html</link><description>&lt;html&gt;&lt;body&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="internal" href="shop.html"&gt;Enter our shop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="domingo-organic-black-teeshirt.html"&gt;Get a Domingo black tee-shirt!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="refill-tempeh-sm.html"&gt;Refill of organic split soybeans and tempeh starter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="internal" href="movimiento-y-tempeh.html"&gt;Infos &amp;amp; tickets for Movimiento y Tempeh on Wednesday 8 December&lt;/a&gt;&lt;/li&gt;
