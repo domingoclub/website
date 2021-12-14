@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 13 Dec 2021 11:09:30 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Domingo Club</title><link>https://domingoclub.com</link><description>Fermented food &amp; open-source tools</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 14 Dec 2021 16:59:52 +0000</lastBuildDate><item><title>Domingo Necklace</title><link>https://domingoclub.com/domingo-necklace.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
 &lt;div class="item__price"&gt;€65,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
 &lt;div class="item__desc"&gt;
   Wear this necklace for 24-30 hours to ferment your own plant-based protein with the heat of your body. Handmade in Barcelona.
@@ -141,13 +141,9 @@
 Get it now on our &lt;a class="internal" href="shop.html"&gt;shop&lt;/a&gt; page. We ship worldwide.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="domingo-tee-01.jpg"/&gt;
 &lt;img alt="" src="domingo-tee-02.jpg"/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Mon, 25 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo Shop</title><link>https://domingoclub.com/shop.html</link><description>&lt;html&gt;&lt;body&gt;&lt;p&gt;Hello&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;...</description><pubDate>Fri, 22 Oct 2021 00:00:00 +0200</pubDate></item><item><title>Domingo organic tee-shirt</title><link>https://domingoclub.com/domingo-organic-teeshirt.html</link><description>&lt;html&gt;&lt;body&gt;&lt;div class="item_shop"&gt;
-&lt;div class="item__price"&gt;€26,00 EUR &lt;span&gt;(tax included)&lt;/span&gt;&lt;/div&gt;
+&lt;div class="item__price"&gt;&lt;div style="text-decoration: line-through; display: inline;"&gt;€26,00 EUR&lt;/div&gt; ✘ Soldout&lt;/div&gt;
 &lt;div class="item__desc"&gt;
     Tee-shirt designed by us, screen-printed locally in Barcelona with water-based ink on organic cotton. The best way to support us while waiting for our other projects!
-  &lt;/div&gt;
-&lt;div id="product-component-1635063611737"&gt;&lt;/div&gt;
-&lt;div class="item__info"&gt;
-    Worldwide shipping or pick-up at Carrer de Pere IV 29 08018 Barcelona.&lt;br/&gt;Usually ready in 2-4 days.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;img alt="" src="domingoclub-teeshirt-01-00001.jpg"/&gt;
