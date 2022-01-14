@@ -783,9 +783,6 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
 .index--grid .grid__item {
   background-color: var(--body-color); }
 
-.index--grid .item__link:hover {
-  transform: rotate(-2deg); }
-
 .index--grid .item__price {
   margin-top: var(--size-xs); }
 
