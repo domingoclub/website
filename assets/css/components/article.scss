@@ -93,3 +93,10 @@
     }
   }
 }
+
+// hr
+.article__content hr {
+  border: 0;
+  height: var(--border-sm);
+  background: var(--base-color); 
+}
