@@ -2,6 +2,7 @@
 title: Links
 last_update: 2021-10-06
 ---
+- [Domingo Club's Year in Review: 2021](/2022-01-14.html)
 - [Enter our shop](shop.html)
 - [Get a Domingo black tee-shirt!](domingo-organic-black-teeshirt.html)
 - [Refill of organic split soybeans and tempeh starter](refill-tempeh-sm.html)

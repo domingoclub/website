@@ -124,6 +124,5 @@ In the meantime our own funds have come to an end and we are currently looking f
 
 Thank you all for the support, the discussions, the [tee-shirts](/domingo-organic-black-teeshirt.html) and [necklaces](/domingo-necklace.html) you bought from us, the events you came and all the tempeh moments we shared together.
 
-It was great one.
-
+Happy new year,
 ~ Maudi and Toni
