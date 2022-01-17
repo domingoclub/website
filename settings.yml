@@ -4,7 +4,7 @@ language: "en"
 main_url: "https://domingoclub.com"
 introduction: "We promote fermented plant-based protein and build tools so that everyone can make them at home for the benefit of our lives and our planet."
 footer: "⁂&nbsp;[Content](content.html), ✉&nbsp;[newsletter](newsletter.html), ▤&nbsp;[RSS feed](https://domingoclub.com/rss.xml), ◌&nbsp;[Mastodon](https://sunbeam.city/@domingoclub/), ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/).<br>Domingo Club ☼&nbsp;2021 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-topbar: ""
+topbar: "Read Domingo Club's Year in Review: 2021 → [link](/2022-01-14.html)"
 navigation:
   "☼☼☼": "index"
   # "Food": "food"
