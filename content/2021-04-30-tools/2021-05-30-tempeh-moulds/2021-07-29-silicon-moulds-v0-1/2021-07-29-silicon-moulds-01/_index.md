@@ -1,9 +1,6 @@
 ---
 title: Silicon moulds v0.1
 last_update: 2021-07-30
-featured: True
-featured_image: IMG_4807.jpg
-featured_desc: First attempt at making a silicone mould for tempeh production
 tags: tempeh
 ---
 
