@@ -9,6 +9,18 @@
   </section>
 </article>
 
+<section class="index index--grid">
+  <h1 class="index__title">Selected content <span><a href="content.html">view all</a></span></h2>
+  <ul class="grid">
+    {% for article in articles|reverse if articles[article]['featured'] and not articles[article]['draft'] %}
+      {% set slug = articles[article]['slug'] %}
+      {% set article = articles[slug] %}
+      <li class="grid__item">
+        {% include 'components/index_grid_item_content.html' %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
 
 <section class="index index--grid">
   <h1 class="index__title">Shop</h2>
@@ -19,19 +31,6 @@
       <li class="grid__item">
         {% set article = articles[slug] %}
         {% include 'components/index_grid_shop_content.html' %}
-      </li>
-    {% endfor %}
-  </ul>
-</section>
-
-<section class="index index--grid">
-  <h1 class="index__title">Documentation <span><a href="content.html">view all</a></span></h2>
-  <ul class="grid">
-    {% for article in articles|reverse if articles[article]['featured'] and not articles[article]['draft'] %}
-      {% set slug = articles[article]['slug'] %}
-      {% set article = articles[slug] %}
-      <li class="grid__item">
-        {% include 'components/index_grid_item_content.html' %}
       </li>
     {% endfor %}
   </ul>
