@@ -1,17 +1,20 @@
 ---
 title: Now
-last_update: 2021-10-06
+last_update: 2022-01-21
 ---
 
-October is here! And it's late summer in Barcelona. We are still filled with the good inner energy of our 10 days walking on the Camino de Santiago and the good vibes of September.
+2022 is here! We have taken the time to look back and forward and we are very happy with our journey so far with Doming Club. Our [2021 review](2022-01-14.html) is available here.
 
-With a deep desire to share our favourite plant-based protein product aka tempeh, we organised our first Tempeh Lunch in our studio, feeding a table of 20 curious bodies and minds. We would like to organise them every month, and even more for other special occasions. Stay tuned!
+In the new year, we want to continue our mission to build tools to fight the climate crisis through a better food consumption model. We want to continue to promote fermentation and tempeh as a sustainable food solution.
 
-![](pili_tempeh.jpg)
+We aim to generate more interest and continue to work to reach a larger audience through communication, documentation and collaborations. We want you to project yourself into tempeh and fermentation so that afterwards you will be tempted to ferment your own tempeh. Because there is nothing better than homemade tempeh, the one you have seen grow and to which you have dedicated your time, care and kindness.
 
+![A kick-ass peanut tempeh made with our Domingo Fermenter](winter-salad-peanut-tempeh-02.jpg)
+![Our first online recipe tempeh.html, a winter salad with peanut tempeh, sweet potato, black beans, flat beans, kale, ginger, turmeric, soy sauce, poppy seeds ans funnugreek sprouts](winter-salad-peanut-tempeh-04.jpg)
 
-We will also start printing ceramic tests in [Afab Gracia](https://ajuntament.barcelona.cat/ateneusdefabricacio/en/gracia-fab-lab/) of the latest version of our tempeh mould. We are excited!
+We are also currently designing and developing the Domingo Fermenter Mini, a version of our fermenter that we imagine in everyone's kitchen, to start fermenting tempeh, a natural source of plant protein, but also koji, the basis of miso, shōyu, amazake.
 
-And last but not least, we are working hard for the last stretch before the [final event of Food Tech 3.0 Acceleration Program](https://foodshift2030.eu/events/). Indeed, we will end our 10-month journey by presenting the Domingo Club and the new version of our fermentation incubator. The event will take place during the Sustainable Food Week in Barcelona, the world capital of sustainable food 2021.
+![Design process. Modelling what will be the Domingo Fermenter Mini.](prototyping-fermenter-mini.jpg)
 
-![](foodshift_barcelona.png)
+!!! notes ""
+    In the meantime, we are facing a financial reality and we are currently looking for funding and partners to continue to work on our mission. Please [contact us](contact.html) if you have any ideas that can help us. We are also looking for points of sale for our Domingo Necklace and the upcoming Fermenter Mini!
