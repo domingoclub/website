@@ -7,10 +7,10 @@ last_update: 2022-01-21
 
 In the new year, we want to continue our mission to build tools to fight the climate crisis through a better food consumption model. We want to continue to promote fermentation and tempeh as a sustainable food solution.
 
-We aim to generate more interest and continue to work to reach a larger audience through communication, documentation and collaborations. We want you to project yourself into tempeh and fermentation so that afterwards you will be tempted to ferment your own tempeh. Because there is nothing better than homemade tempeh, the one you have seen grow and to which you have dedicated your time, care and kindness.
+We aim to generate more interest and continue to work to reach a larger audience through communication, documentation and collaborations. We want you to project yourself into tempeh and fermentation so that afterwards you will be tempted to ferment your own tempeh. Because there is nothing better than homemade fresh tempeh, the one you have seen grow and to which you have dedicated your time, care and kindness.
 
 ![A kick-ass peanut tempeh made with our Domingo Fermenter](winter-salad-peanut-tempeh-02.jpg)
-![Our first online recipe tempeh.html, a winter salad with peanut tempeh, sweet potato, black beans, flat beans, kale, ginger, turmeric, soy sauce, poppy seeds ans funnugreek sprouts](winter-salad-peanut-tempeh-04.jpg)
+![Our first online recipe, a winter salad with peanut tempeh, sweet potato, black beans, flat beans, kale, ginger, turmeric, soy sauce, poppy seeds ans fennugreek sprouts](winter-salad-peanut-tempeh-04.jpg)
 
 We are also currently designing and developing the Domingo Fermenter Mini, a version of our fermenter that we imagine in everyone's kitchen, to start fermenting tempeh, a natural source of plant protein, but also koji, the basis of miso, shōyu, amazake.
 
