@@ -1,5 +1,6 @@
 ---
 title: Domingo Necklace
+featured: True
 featured_image: necklace-00001.jpg
 featured_price: 65,00
 last_update: 2021-11-03
