@@ -22,7 +22,7 @@ For 2 people
 - salt, to taste
 
 ![A fresh soy tempeh made with our Domingo fermenter](tempeh-risotto-01.jpg)
-![yummy](tempeh-risotto-02.jpg)
+![Pure and beautiful mycelium](tempeh-risotto-02.jpg)
 
 ## Method
 
