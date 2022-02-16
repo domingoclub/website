@@ -1,6 +1,6 @@
 ---
 title: Winter Salad with Peanut Tempeh
-featured: True
+featured: False
 featured_image: winter-salad-peanut-tempeh-04.jpg
 featured_desc: A vegan, attractive and comforting recipe of a winter salad with a kick-ass peanut tempeh, sweet potato, black beans, flat beans, kale, ginger, turmeric, soy sauce, poppy seeds and fenugreek sprouts
 tags: recipe
