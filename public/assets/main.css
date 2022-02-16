@@ -528,9 +528,7 @@ img {
   padding-top: var(--size-sm);
   padding-bottom: var(--size-sm);
   text-align: center;
-  font-size: var(--size-sm);
-  position: relative;
-  z-index: 3; }
+  font-size: var(--size-md); }
   .topbar a {
     border: none;
     padding: 0;
@@ -852,7 +850,7 @@ label.sender-form-label, .item_shop .item__info, .item_shop .item__price span, .
   border-radius: var(--size-md) !important;
   padding: var(--size-xl) !important; }
 
-.article#news > .article__toc, .article#news > footer {
+#news.article > .article__toc, #news.article > footer {
   display: none; }
 
 body > .shopify-buy-frame--product {
