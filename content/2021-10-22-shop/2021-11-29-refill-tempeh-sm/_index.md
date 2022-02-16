@@ -1,6 +1,7 @@
 ---
 title: Refill of organic split soybeans and tempeh starter
 featured_image: refill-tempeh-sm.jpg
+featured: True
 featured_price: 4,00
 last_update: 2021-11-29
 type: shop_item

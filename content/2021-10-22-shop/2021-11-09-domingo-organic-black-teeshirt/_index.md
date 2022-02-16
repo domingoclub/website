@@ -1,5 +1,6 @@
 ---
 title: Domingo organic black tee-shirt
+featured: True
 featured_image: domingo-tee-black-back.jpg
 featured_price: 26,00
 last_update: 2021-11-09
