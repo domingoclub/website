@@ -2,7 +2,7 @@
 title: Spinach Risotto with Tempeh
 featured: True
 featured_image: tempeh-risotto-03.jpg
-featured_desc: Domingo Club's simple and efficient risotto with soy tempeh for even more deliciousness
+featured_desc: Domingo Club's quick and efficient risotto with soy tempeh for even more deliciousness
 tags: recipe
 ---
 
