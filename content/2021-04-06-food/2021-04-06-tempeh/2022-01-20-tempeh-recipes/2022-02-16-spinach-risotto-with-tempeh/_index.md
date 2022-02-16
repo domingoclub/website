@@ -1,12 +1,12 @@
 ---
 title: Spinach Risotto with Tempeh
 featured: True
-featured_image: tempeh-risotto-03.jpg
+featured_image: tempeh-risotto-06.jpg
 featured_desc: Domingo Club's quick and efficient risotto with soy tempeh for even more deliciousness
 tags: recipe
 ---
 
-![](tempeh-risotto-03.jpg)
+![](tempeh-risotto-06.jpg)
 
 ## Ingredients
 
@@ -34,4 +34,4 @@ For 2 people
 6. Arrange everything in a plate. Add some seeds if you have
 7. Enjoy!
 
-![](tempeh-risotto-04.jpg)
+![](tempeh-risotto-05.jpg)
