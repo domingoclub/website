@@ -1,25 +1,31 @@
 title: Domingo Club
 description: "Team up with mushrooms"
-introduction: "Team up with mushrooms to ferment your protein-rich superfood aka tempeh"
+introductions:
+  homepage: "Team up with mushrooms to ferment your protein-rich superfood aka tempeh <span>vegan</span>"
+  shop: "Get your fermentation equipment <span>mushroom-based</span>"
+  club: "Join the club to be inspired and to inspire others with your recipes and experiments <span>join us</span>"
+  about: "All you need to know <span>well, almost</span>"
+  documentation: "We document what we do so that you can understand, repair, reproduce and improve it <span>open-source</span>"
+  journal: "What we have been doing lately <span>news!</span>"
 navigation:
   "Domingo Club": index
   "Shop": shop
   "Club": club
-  "Documentation": content
+  "Documentation": documentation
   "Journal": journal
   "About": about
 index:
   - domingo-fermenter
-  - tempeh
-  - tempeh-starter
+  - about-tempeh-fermentation
+  - refill-kit-md
   - fermenter-necklace
 shop:
   - domingo-fermenter
   - fermenter-necklace
   - club-teeshirt
   - tempeh-mould
-  - refill-sm
-  - refill-md
+  - refill-kit-sm
+  - refill-kit-md
 documentation:
   - domingo-fermenter-v06
   - fermenter-necklace-v1
@@ -29,3 +35,7 @@ about:
   - about-tempeh-fermentation
   - about-domingo-fermenter
   - about-domingo-club
+templates: [about-index, article, base, club-article, club-index, content, documentation, index, journal-article, journal-index, shop-article, shop-index]
+footer: '<h2>We promote plant-based proteins and create the tools for everyone to make them at home, for the benefit of our lives and our planet</h2><p><a href="https://www.instagram.com/domingoclub/">☺&nbsp;Instagram</a><a href="https://github.com/domingoclub/">※&nbsp;Github]</a><a href="hhttps://sunbeam.city/@domingoclub/">◌&nbsp;Mastodon]</a><a href=https://domingoclub.com/rss.xml">▤&nbsp;RSS feed</a><a href="/newsletter.html">✉&nbsp;newsletter</a></p><p>Domingo Club ☼&nbsp;2022 — <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>'
+
+  
