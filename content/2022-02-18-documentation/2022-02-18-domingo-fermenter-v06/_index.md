@@ -1,5 +1,5 @@
 ---
 title: Domingo Fermenter
-template: documentation
+template: article-documentation
 featured_image: 
 ---

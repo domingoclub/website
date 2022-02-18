@@ -1,5 +1,5 @@
 ---
 title: Fermenter Necklace
-template: documentation
+template: article-documentation
 featured_image: 
 ---

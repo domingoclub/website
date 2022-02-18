@@ -1,6 +1,6 @@
 ---
 title: News 02
-template: journal
+template: article-journal
 ---
 
 Content news 02

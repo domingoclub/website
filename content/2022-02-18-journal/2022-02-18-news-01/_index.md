@@ -1,6 +1,6 @@
 ---
 title: News 01
-template: journal
+template: article-journal
 tags: event, food
 ---
 

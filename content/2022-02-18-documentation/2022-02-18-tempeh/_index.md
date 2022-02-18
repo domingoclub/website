@@ -1,5 +1,5 @@
 ---
 title: Tempeh
-template: documentation
+template: article-documentation
 featured_image: 
 ---

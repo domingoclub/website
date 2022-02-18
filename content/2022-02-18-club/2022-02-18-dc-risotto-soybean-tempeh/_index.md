@@ -1,5 +1,5 @@
 ---
 title: Risotto Soybean Tempeh
-template: club
+template: article-club
 author_name: Domingo Club
 ---
