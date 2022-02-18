@@ -1,27 +1,31 @@
-title: "Domingo Club"
-description: "Fermented food & open-source tools"
-language: "en"
-main_url: "https://domingoclub.com"
-introduction: "We promote fermented plant-based protein and build tools so that everyone can make them at home for the benefit of our lives and our planet."
-footer: "⁂&nbsp;[Content](content.html), ✉&nbsp;[newsletter](newsletter.html), ▤&nbsp;[RSS feed](https://domingoclub.com/rss.xml), ◌&nbsp;[Mastodon](https://sunbeam.city/@domingoclub/), ※&nbsp;[Github](https://github.com/domingoclub/), ☺&nbsp;[Instagram](https://www.instagram.com/domingoclub/).<br>Domingo Club ☼&nbsp;2021 — [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-topbar: "Read Domingo Club's Year in Review: 2021 → [link](/2022-01-14.html)"
+title: Domingo Club
+description: "Team up with mushrooms"
+introduction: "Team up with mushrooms to ferment your protein-rich superfood aka tempeh"
 navigation:
-  "☼☼☼": "index"
-  # "Food": "food"
-  "Shop": "shop"
-  "Journal": "journal"
-  "About": "about"
-  "Contact": "contact"
-analytics:  "
-<script>
-  var _paq = window._paq = window._paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u='//analytics.antoine.studio/';
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '2']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>"
+  "Domingo Club": index
+  "Shop": shop
+  "Club": club
+  "Documentation": content
+  "Journal": journal
+  "About": about
+index:
+  - domingo-fermenter
+  - tempeh
+  - tempeh-starter
+  - fermenter-necklace
+shop:
+  - domingo-fermenter
+  - fermenter-necklace
+  - club-teeshirt
+  - tempeh-mould
+  - refill-sm
+  - refill-md
+documentation:
+  - domingo-fermenter-v06
+  - fermenter-necklace-v1
+  - tempeh
+  - 3D-printed-tempeh-mould
+about:
+  - about-tempeh-fermentation
+  - about-domingo-fermenter
+  - about-domingo-club
