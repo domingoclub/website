@@ -2,6 +2,7 @@
 title: Links
 last_update: 2021-02-16
 ---
+- [Domingo necklace in Mold magazine](https://thisismold.com/object/wearable-object/domingo-necklace-tempeh-fermentation)
 - [Spinach Risotto with Tempeh Recipe](spinach-risotto-with-tempeh.html)
 - [This is Distributed Design - Documentary](https://www.youtube.com/watch?v=lUJJtdFGyrc)
 - [Domingo Club's Year in Review: 2021](/2022-01-14.html)
