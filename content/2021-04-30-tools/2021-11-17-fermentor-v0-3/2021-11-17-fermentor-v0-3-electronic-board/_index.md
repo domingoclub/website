@@ -4,7 +4,7 @@ title: Fermentor v0.3 Electronic board
 
 The main electronic components of the fermentor are: a Rapsberry Pico mounted on a custom electronic board, an OLED display and four buttons, a general toggle switch, a temperature and humidity sensor, a fan and two heating pads.
 
-[View and download all fabrication files](button:https://github.com/domingoclub/domingo-fermentor/tree/main/electronics)
+[View and download all fabrication files](button:https://github.com/domingoclub/domingo-fermentor/tree/main/electronics/domingo-fermentor-v0-3-PCB)
 
 # Electronic board
 
@@ -33,7 +33,6 @@ Unlinked components must be updated.
 
 
 
-
 ### Schematic
 
 ![Schematic](schematic.jpg)
@@ -44,5 +43,6 @@ Unlinked components must be updated.
 ![PCB front](pcb-front.jpg)
 ![PCB back](pcb-back.jpg)
 
+
+
 !!! notes "Documentation in progress"
-    This part is currently being documented. In the meantime, find the files [there](https://github.com/domingoclub/domingo-fermentor)
