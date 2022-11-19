@@ -4,8 +4,6 @@ title: Newsletter
 
 Join the Domingo Club newsletter to receive our future updates. Don't worry, we don't send many newsletters, only when the announcement is significant.
 
-
-
 <script>
   (function (s, e, n, d, er) {
     s['Sender'] = er;
